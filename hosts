@@ -2,7 +2,7 @@
 # with a dash of crowd sourcing via Github
 #
 # Date: March 13 2017
-# Number of unique domains: 88,974
+# Number of unique domains: 88,973
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -39104,7 +39104,6 @@ fe80::1%lo0 localhost
 0.0.0.0 89jw3.voluumtrk.com
 0.0.0.0 8bdnl.voluumtrk.com
 0.0.0.0 8cynz.voluumtrk.com
-0.0.0.0 8ec6d0b7-a-62cb3a1a-s-sites.googlegroups.com
 0.0.0.0 8ehdc.voluumtrk.com
 0.0.0.0 8jkad.voluumtrk.com
 0.0.0.0 8kvks.voluumtrk.com
