@@ -348,7 +348,7 @@ def removeDupsAndExcl(mergeFile):
             continue
         hostname, normalizedRule = normalizeRule(strippedRule) # normalize rule
         for exclude in exclusions:
-            if exclude in line:
+            if exclude == hostname:
                 write = "false"
                 break
         if normalizedRule and (hostname not in hostnames) and (write == "true"):
