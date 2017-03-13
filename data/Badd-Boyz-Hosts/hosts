@@ -3,14 +3,14 @@
 # Source: https://github.com/mitchellkrogza/Badd-Boyz-Hosts
 
 # You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
+# as long the original URL and attribution is included.
 
 # Please forward any additions, corrections or comments by logging an issue at
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
 
 # This list of hosts is compiled from server logs on my own servers
 # and forms the basis of the bad referrers domain lists for
-# The Nginx Ultimate Bad Bot Blocker at: 
+# The Nginx Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 # and the Apache Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
@@ -20,9 +20,9 @@
 ### End Last Updated
 
 # Use this file to prevent your computer or server from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, adware, malware, click-jacking and porn sites and reduces 
-# bandwidth use. 
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, adware, malware, click-jacking and porn sites and reduces
+# bandwidth use.
 
 # The file should be named "hosts" NOT "hosts.txt"
 
@@ -1324,7 +1324,7 @@
 0.0.0.0 googlefeud.com
 0.0.0.0 google-liar.ru
 0.0.0.0 googlemare.com
-0.0.0.0 goo.ne.jp
+#0.0.0.0 goo.ne.jp
 0.0.0.0 gopixdatabase.com
 0.0.0.0 gopro-online.info
 0.0.0.0 gorabagrata.ru
@@ -2082,7 +2082,7 @@
 0.0.0.0 nhl17coins.exblog.jp
 0.0.0.0 nhl17coinsforps3.gratisblog.biz
 0.0.0.0 nibbler.silktide.com
-0.0.0.0 nicovideo.jp
+#0.0.0.0 nicovideo.jp
 0.0.0.0 nightvision746.weebly.com
 0.0.0.0 niki-mlt.ru
 0.0.0.0 nikitsyringedrivelg.pen.io
