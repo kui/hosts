@@ -2,7 +2,7 @@
 # with a dash of crowd sourcing via Github
 #
 # Date: March 13 2017
-# Number of unique domains: 88,742
+# Number of unique domains: 88,974
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -11057,6 +11057,1566 @@ fe80::1%lo0 localhost
 # Inne
 0.0.0.0 eforsa.pl
 0.0.0.0 widget-eforsa.pl
+# AdAway Blocking Hosts File for Japan
+#
+# author: logroid
+#         http://logroid.blogspot.jp/
+#         https://twitter.com/logroid
+#
+# last updated: 2017/02/24
+
+
+# white list
+
+# 0076.pics
+0.0.0.0 p9kzz.stream.0076.pics
+0.0.0.0 stream.0076.pics
+0.0.0.0 xevzz.stream.0076.pics
+
+# 207.net
+
+# 2mobio.com
+0.0.0.0 av4.2mobio.com
+
+# 2o7.net
+0.0.0.0 allabout.122.2o7.net
+0.0.0.0 americanexpress.122.2o7.net
+0.0.0.0 ana.112.2o7.net
+0.0.0.0 appleglobal.112.2o7.net
+0.0.0.0 asahishimbun.122.2o7.net
+0.0.0.0 byubroadcast.112.2o7.net
+0.0.0.0 edmundscom.112.2o7.net
+0.0.0.0 gpaper104.112.2o7.net
+0.0.0.0 gpaper105.112.2o7.net
+0.0.0.0 gpaper106.112.2o7.net
+0.0.0.0 gpaper107.112.2o7.net
+0.0.0.0 gpaper108.112.2o7.net
+0.0.0.0 gpaper109.112.2o7.net
+0.0.0.0 gpaper110.112.2o7.net
+0.0.0.0 gpaper111.112.2o7.net
+0.0.0.0 gpaper112.112.2o7.net
+0.0.0.0 gpaper114.112.2o7.net
+0.0.0.0 gpaper115.112.2o7.net
+0.0.0.0 gpaper116.112.2o7.net
+0.0.0.0 gpaper117.112.2o7.net
+0.0.0.0 gpaper119.112.2o7.net
+0.0.0.0 gpaper120.112.2o7.net
+0.0.0.0 gpaper121.112.2o7.net
+0.0.0.0 gpaper122.112.2o7.net
+0.0.0.0 gpaper123.112.2o7.net
+0.0.0.0 gpaper124.112.2o7.net
+0.0.0.0 gpaper125.112.2o7.net
+0.0.0.0 gpaper127.112.2o7.net
+0.0.0.0 gpaper128.112.2o7.net
+0.0.0.0 gpaper131.112.2o7.net
+0.0.0.0 gpaper132.112.2o7.net
+0.0.0.0 gpaper133.112.2o7.net
+0.0.0.0 gpaper134.112.2o7.net
+0.0.0.0 gpaper135.112.2o7.net
+0.0.0.0 gpaper136.112.2o7.net
+0.0.0.0 gpaper137.112.2o7.net
+0.0.0.0 gpaper138.112.2o7.net
+0.0.0.0 gpaper139.112.2o7.net
+0.0.0.0 gpaper140.112.2o7.net
+0.0.0.0 gpaper141.112.2o7.net
+0.0.0.0 gpaper142.112.2o7.net
+0.0.0.0 gpaper143.112.2o7.net
+0.0.0.0 gpaper144.112.2o7.net
+0.0.0.0 gpaper145.112.2o7.net
+0.0.0.0 gpaper147.112.2o7.net
+0.0.0.0 gpaper149.112.2o7.net
+0.0.0.0 gpaper150.112.2o7.net
+0.0.0.0 gpaper151.112.2o7.net
+0.0.0.0 gpaper152.112.2o7.net
+0.0.0.0 gpaper156.112.2o7.net
+0.0.0.0 gpaper157.112.2o7.net
+0.0.0.0 gpaper158.112.2o7.net
+0.0.0.0 gpaper160.112.2o7.net
+0.0.0.0 gpaper161.112.2o7.net
+0.0.0.0 gpaper162.112.2o7.net
+0.0.0.0 gpaper163.112.2o7.net
+0.0.0.0 gpaper164.112.2o7.net
+0.0.0.0 gpaper166.112.2o7.net
+0.0.0.0 gpaper167.112.2o7.net
+0.0.0.0 gpaper168.112.2o7.net
+0.0.0.0 gpaper169.112.2o7.net
+0.0.0.0 gpaper170.112.2o7.net
+0.0.0.0 gpaper171.112.2o7.net
+0.0.0.0 gpaper172.112.2o7.net
+0.0.0.0 gpaper173.112.2o7.net
+0.0.0.0 gpaper174.112.2o7.net
+0.0.0.0 gpaper175.112.2o7.net
+0.0.0.0 gpaper176.112.2o7.net
+0.0.0.0 gpaper177.112.2o7.net
+0.0.0.0 gpaper178.112.2o7.net
+0.0.0.0 gpaper180.112.2o7.net
+0.0.0.0 gpaper182.112.2o7.net
+0.0.0.0 gpaper183.112.2o7.net
+0.0.0.0 gpaper184.112.2o7.net
+0.0.0.0 gpaper185.112.2o7.net
+0.0.0.0 gpaper186.112.2o7.net
+0.0.0.0 gpaper187.112.2o7.net
+0.0.0.0 gpaper188.112.2o7.net
+0.0.0.0 gpaper190.112.2o7.net
+0.0.0.0 gpaper191.112.2o7.net
+0.0.0.0 gpaper194.112.2o7.net
+0.0.0.0 gpaper195.112.2o7.net
+0.0.0.0 gpaper196.112.2o7.net
+0.0.0.0 gpaper197.112.2o7.net
+0.0.0.0 gpaper199.112.2o7.net
+0.0.0.0 gpaper201.112.2o7.net
+0.0.0.0 gpaper202.112.2o7.net
+0.0.0.0 gpaper204.112.2o7.net
+0.0.0.0 gpaper211.112.2o7.net
+0.0.0.0 gpaper214.112.2o7.net
+0.0.0.0 gpaper218.112.2o7.net
+0.0.0.0 gpaper223.112.2o7.net
+0.0.0.0 gpaper231.112.2o7.net
+0.0.0.0 gpaper246.112.2o7.net
+0.0.0.0 kaspersky.122.2o7.net
+0.0.0.0 kasperthreatpostprod.112.2o7.net
+0.0.0.0 ldsfch.112.2o7.net
+0.0.0.0 survey.112.2o7.net
+0.0.0.0 tirerackcom.112.2o7.net
+0.0.0.0 toyota.112.2o7.net
+
+# 3xredtube.info
+0.0.0.0 3xredtube.info
+
+# 4-you.net
+0.0.0.0 www.4-you.net
+
+# 42trck.com
+0.0.0.0 42trck.com
+
+# 7113658.com
+0.0.0.0 allantivirus.7113658.com
+
+# 7889261.com
+0.0.0.0 dqrzz.super-hub.7889261.com
+
+# 7889596.com
+0.0.0.0 all.7889596.com
+
+# a8.net
+0.0.0.0 ad.a8.net
+0.0.0.0 px.a8.net
+0.0.0.0 rot5.a8.net
+0.0.0.0 rot7.a8.net
+0.0.0.0 www10.a8.net
+0.0.0.0 www11.a8.net
+0.0.0.0 www12.a8.net
+0.0.0.0 www13.a8.net
+0.0.0.0 www14.a8.net
+0.0.0.0 www15.a8.net
+0.0.0.0 www16.a8.net
+0.0.0.0 www17.a8.net
+0.0.0.0 www18.a8.net
+0.0.0.0 www19.a8.net
+0.0.0.0 www20.a8.net
+0.0.0.0 www21.a8.net
+0.0.0.0 www22.a8.net
+0.0.0.0 www23.a8.net
+0.0.0.0 www24.a8.net
+0.0.0.0 www25.a8.net
+0.0.0.0 www26.a8.net
+0.0.0.0 www27.a8.net
+0.0.0.0 www28.a8.net
+0.0.0.0 www29.a8.net
+
+# aairs.top
+0.0.0.0 us.aairs.top
+
+# accesstrade.net
+0.0.0.0 www.accesstrade.net
+
+# ad-brix.com
+0.0.0.0 tracking.ad-brix.com
+
+# ad-cloud.jp
+0.0.0.0 ameba.d.ad-cloud.jp
+0.0.0.0 c.ameba.d.ad-cloud.jp
+
+# ad-maker.info
+0.0.0.0 admin.ad-maker.info
+0.0.0.0 images.ad-maker.info
+0.0.0.0 ox-d.ad-maker.info
+0.0.0.0 ox-i.ad-maker.info
+
+# ad-seek.jp
+0.0.0.0 ad-seek.jp
+
+# ad-stir.com
+0.0.0.0 adtag.ad-stir.com
+0.0.0.0 bypass-image.ad-stir.com
+0.0.0.0 bypass.ad-stir.com
+0.0.0.0 dist.adp.ad-stir.com
+0.0.0.0 dist.bpc.ad-stir.com
+0.0.0.0 js.ad-stir.com
+0.0.0.0 rtb.ad-stir.com
+0.0.0.0 sync.ad-stir.com
+
+# ad-v.jp
+0.0.0.0 cf.ad-v.jp
+0.0.0.0 web-jp.ad-v.jp
+
+# adapf.com
+0.0.0.0 ds.adapf.com
+0.0.0.0 rs.adapf.com
+
+# adcolony.com
+0.0.0.0 events3.adcolony.com
+0.0.0.0 events3alt.adcolony.com
+
+# adcrops.net
+0.0.0.0 t.adcrops.net
+
+# addtoany.com
+0.0.0.0 www.addtoany.com
+
+# ade1rtb.com
+0.0.0.0 ade1rtb.com
+
+# adfclick1.com
+
+# adfurikun.jp
+0.0.0.0 ginf.adfurikun.jp
+0.0.0.0 i.adfurikun.jp
+0.0.0.0 ipua.adfurikun.jp
+
+# adimg.net
+0.0.0.0 a.adimg.net
+
+# adingo.jp
+0.0.0.0 c.dr.adingo.jp
+0.0.0.0 rd.adingo.jp
+0.0.0.0 sh.adingo.jp
+
+# adjust-net.jp
+0.0.0.0 ads.adjust-net.jp
+
+# adjustnetwork.com
+0.0.0.0 www.adjustnetwork.com
+
+# adk2x.com
+0.0.0.0 adplexmedia.adk2x.com
+0.0.0.0 wmedia.adk2x.com
+0.0.0.0 yepdigital.adk2x.com
+
+# adlantis.jp
+0.0.0.0 ad.adlantis.jp
+0.0.0.0 adlantis.jp
+0.0.0.0 ak.assets.adlantis.jp
+0.0.0.0 sp.ad.adlantis.jp
+0.0.0.0 sp.click.adlantis.jp
+0.0.0.0 sp.conv.adlantis.jp
+0.0.0.0 sp.www.adlantis.jp
+0.0.0.0 static.adlantis.jp
+0.0.0.0 uuid.adlantis.jp
+0.0.0.0 vatan.adlantis.jp
+0.0.0.0 vatanir.adlantis.jp
+0.0.0.0 www.adlantis.jp
+
+# admob.com
+0.0.0.0 mm.admob.com
+0.0.0.0 mmv.admob.com
+0.0.0.0 r.admob.com
+
+# admobitrack.com
+0.0.0.0 admobitrack.com
+
+# adnetasia.com
+0.0.0.0 crunchyroll.adnetasia.com
+
+# adnxs.com
+0.0.0.0 ib.adnxs.com
+
+# adplan-ds.com
+0.0.0.0 ad.adplan-ds.com
+
+# adplan.ne.jp
+0.0.0.0 www.adplan.ne.jp
+
+# adrunnr.com
+0.0.0.0 adrunnr.com
+
+# ads.gold
+
+# adscpm.net
+0.0.0.0 popserve.adscpm.net
+
+# adservme.com
+0.0.0.0 ads.adservme.com
+
+# adsinstant.com
+0.0.0.0 static.adsinstant.com
+
+# adtdp.com
+0.0.0.0 ad.amanad.adtdp.com
+0.0.0.0 ad.caprofitx.adtdp.com
+0.0.0.0 adp-pubd-static.adtdp.com
+0.0.0.0 imp.amanad.adtdp.com
+0.0.0.0 inview.amanad.adtdp.com
+0.0.0.0 pv.amanad.adtdp.com
+0.0.0.0 rs-ap.adtdp.com
+
+# adtechjp.com
+0.0.0.0 ums.adtechjp.com
+
+# adticker.net
+0.0.0.0 d.adticker.net
+0.0.0.0 j.adticker.net
+
+# adtrackers.net
+0.0.0.0 ox-d.adtrackers.net
+
+# advertising.com
+0.0.0.0 ace.advertising.com
+0.0.0.0 advertising.com
+0.0.0.0 bannerfarm.ace.advertising.com
+0.0.0.0 uac.advertising.com
+0.0.0.0 www.jp.advertising.com
+
+# advg.jp
+0.0.0.0 ds.advg.jp
+0.0.0.0 r.advg.jp
+
+# adzcore.com
+0.0.0.0 action.adzcore.com
+
+# affiliateone.jp
+0.0.0.0 affiliateone.jp
+
+# affilist-a-ban01.com
+0.0.0.0 affilist-a-ban01.com
+
+# affilist-n-ban01.com
+0.0.0.0 affilist-n-ban01.com
+
+# affilist-n-link01.com
+0.0.0.0 affilist-n-link01.com
+
+# aid-ad.jp
+0.0.0.0 front.aid-ad.jp
+
+# aigames.mobi
+0.0.0.0 strk.aigames.mobi
+
+# ajxqiongbg.com
+0.0.0.0 m.ajxqiongbg.com
+
+# akamaihd.net
+0.0.0.0 tapjoycdn-a.akamaihd.net
+
+# akamaized.net
+0.0.0.0 sfilegamefeat.akamaized.net
+
+# allapp.pw
+0.0.0.0 pldrgergelgllinkp.allapp.pw
+
+# altech-ads.com
+0.0.0.0 altech-ads.com
+
+# ameba.jp
+0.0.0.0 ad.pr.ameba.jp
+0.0.0.0 spstatic.ameba.jp
+
+# ameblo.jp
+0.0.0.0 adt.measure.ameblo.jp
+
+# amh.sh
+0.0.0.0 amh.sh
+
+# amoad.com
+0.0.0.0 cdni.amoad.com
+0.0.0.0 d.amoad.com
+0.0.0.0 i.amoad.com
+0.0.0.0 j.amoad.com
+0.0.0.0 m.amoad.com
+
+# android-devicecheck.mobi
+0.0.0.0 www.android-devicecheck.mobi
+
+# android-devicescan.mobi
+0.0.0.0 www.android-devicescan.mobi
+
+# android-store-download.com
+0.0.0.0 us.android-store-download.com
+
+# antivirusprotect-apps.info
+0.0.0.0 antivirusprotect-apps.info
+
+# app-adforce.jp
+0.0.0.0 analytics.app-adforce.jp
+
+# app-c.net
+0.0.0.0 api.app-c.net
+
+# app-play-stores.com
+0.0.0.0 click.app-play-stores.com
+
+# appdownscargo.com
+0.0.0.0 jp.appdownscargo.com
+
+# appdriver.jp
+0.0.0.0 appdriver.jp
+
+# appikomobile.com
+0.0.0.0 appikomobile.com
+
+# applipromotion.com
+0.0.0.0 ad.applipromotion.com
+
+# applogsdk.com
+0.0.0.0 api.applogsdk.com
+
+# applovin.com
+0.0.0.0 rt.applovin.com
+
+# appsthebest.com
+0.0.0.0 abc.appsthebest.com
+
+# arlinadzgn.com
+0.0.0.0 www.arlinadzgn.com
+
+# as-cube.co.jp
+0.0.0.0 ad.as-cube.co.jp
+
+# astrsk.net
+0.0.0.0 public.astrsk.net
+
+# atdmt.com
+0.0.0.0 click.atdmt.com
+0.0.0.0 clicks.atdmt.com
+0.0.0.0 clk.atdmt.com
+0.0.0.0 spd.atdmt.com
+
+# atech.ne.jp
+0.0.0.0 ad.atech.ne.jp
+0.0.0.0 bnr.atech.ne.jp
+
+# atlnet.jp
+0.0.0.0 adl-wf4.s2.atlnet.jp
+0.0.0.0 adl-wf5v.s3.atlnet.jp
+0.0.0.0 adl-wf6v1.atlnet.jp
+
+# attached-04.xyz
+0.0.0.0 jp.attached-04.xyz
+
+# auone-net.jp
+0.0.0.0 ac.auone-net.jp
+0.0.0.0 www.ac.auone-net.jp
+
+# avanato.com
+0.0.0.0 avanato.com
+
+# backbeatmedia.com
+0.0.0.0 bullseye.backbeatmedia.com
+
+# bannertrack.net
+0.0.0.0 ox-d.bannertrack.net
+
+# besappsfree.com
+0.0.0.0 besappsfree.com
+
+# bidverdrd.com
+0.0.0.0 secure.bidverdrd.com
+
+# bidverdrs.com
+0.0.0.0 secure.bidverdrs.com
+
+# binomax.net
+0.0.0.0 binomax.net
+
+# bootstrapcdn.com
+0.0.0.0 netdna.bootstrapcdn.com
+
+# bypass.jp
+0.0.0.0 img.bypass.jp
+
+# ca-conv.jp
+0.0.0.0 ad.ca-conv.jp
+
+# cartstick.com
+0.0.0.0 go.cartstick.com
+
+# chicappa.jp
+0.0.0.0 err.chicappa.jp
+
+# clickad.info
+0.0.0.0 ads.clickad.info
+0.0.0.0 clickad.info
+
+# com-device-alert.online
+0.0.0.0 security.google.com-device-alert.online
+
+# com.tw
+0.0.0.0 ad.scupio.com.tw
+
+# connectoffer.com
+0.0.0.0 link.connectoffer.com
+
+# cookpad-ads.com
+0.0.0.0 a.cookpad-ads.com
+
+# cormobile.com
+0.0.0.0 cormobile.com
+
+# csolution.jp
+0.0.0.0 cm-644.csolution.jp
+
+# cyberwing.co.jp
+0.0.0.0 aimds.er.cyberwing.co.jp
+0.0.0.0 c.dr.cyberwing.co.jp
+
+# dailyprize.pw
+0.0.0.0 top.dailyprize.pw
+
+# dakromedia.com
+0.0.0.0 track.dakromedia.com
+
+# dansdroid12.com
+0.0.0.0 dansdroid12.com
+
+# data.ea.com
+0.0.0.0 rivergt.data.ea.com
+
+# deutseu.com
+0.0.0.0 track.deutseu.com
+
+# doubleclick.com
+0.0.0.0 ad.doubleclick.com
+0.0.0.0 ads.doubleclick.com
+0.0.0.0 amazon.doubleclick.com
+0.0.0.0 doubleclick.com
+0.0.0.0 www.doubleclick.com
+0.0.0.0 www2.doubleclick.com
+0.0.0.0 www3.doubleclick.com
+
+# doubleclick.ne.jp
+0.0.0.0 doubleclick.ne.jp
+
+# doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad.3ad.doubleclick.net
+0.0.0.0 ad.3au.doubleclick.net
+0.0.0.0 ad.ae.doubleclick.net
+0.0.0.0 ad.ar.doubleclick.net
+0.0.0.0 ad.au.doubleclick.net
+0.0.0.0 ad.be.doubleclick.net
+0.0.0.0 ad.bg.doubleclick.net
+0.0.0.0 ad.br.doubleclick.net
+0.0.0.0 ad.ca.doubleclick.net
+0.0.0.0 ad.ch.doubleclick.net
+0.0.0.0 ad.cl.doubleclick.net
+0.0.0.0 ad.cn.doubleclick.net
+0.0.0.0 ad.de.doubleclick.net
+0.0.0.0 ad.dk.doubleclick.net
+0.0.0.0 ad.es.doubleclick.net
+0.0.0.0 ad.fi.doubleclick.net
+0.0.0.0 ad.fr.doubleclick.net
+0.0.0.0 ad.gr.doubleclick.net
+0.0.0.0 ad.hk.doubleclick.net
+0.0.0.0 ad.hr.doubleclick.net
+0.0.0.0 ad.hu.doubleclick.net
+0.0.0.0 ad.ie.doubleclick.net
+0.0.0.0 ad.in.doubleclick.net
+0.0.0.0 ad.it.doubleclick.net
+0.0.0.0 ad.jp.doubleclick.net
+0.0.0.0 ad.kr.doubleclick.net
+0.0.0.0 ad.n2434.doubleclick.net
+0.0.0.0 ad.nl.doubleclick.net
+0.0.0.0 ad.no.doubleclick.net
+0.0.0.0 ad.nz.doubleclick.net
+0.0.0.0 ad.ph.doubleclick.net
+0.0.0.0 ad.pl.doubleclick.net
+0.0.0.0 ad.pt.doubleclick.net
+0.0.0.0 ad.ro.doubleclick.net
+0.0.0.0 ad.rs.doubleclick.net
+0.0.0.0 ad.ru.doubleclick.net
+0.0.0.0 ad.se.doubleclick.net
+0.0.0.0 ad.sg.doubleclick.net
+0.0.0.0 ad.si.doubleclick.net
+0.0.0.0 ad.terra.doubleclick.net
+0.0.0.0 ad.th.doubleclick.net
+0.0.0.0 ad.tw.doubleclick.net
+0.0.0.0 ad.uk.doubleclick.net
+0.0.0.0 ad.us.doubleclick.net
+0.0.0.0 ad.za.doubleclick.net
+0.0.0.0 ad2.doubleclick.net
+0.0.0.0 ad3.doubleclick.net
+0.0.0.0 ad4.doubleclick.net
+0.0.0.0 ad5.doubleclick.net
+0.0.0.0 ad6.doubleclick.net
+0.0.0.0 ad7.doubleclick.net
+0.0.0.0 ad8.doubleclick.net
+0.0.0.0 ad9.doubleclick.net
+0.0.0.0 ads.doubleclick.net
+0.0.0.0 amn.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 creatives.doubleclick.net
+0.0.0.0 dfp.doubleclick.net
+0.0.0.0 feedads.g.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 fls.uk.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 ir.doubleclick.net
+0.0.0.0 iv.doubleclick.net
+0.0.0.0 ln.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 m.us.doubleclick.net
+0.0.0.0 m2.doubleclick.net
+0.0.0.0 m3.doubleclick.net
+0.0.0.0 motifcdn.doubleclick.net
+0.0.0.0 motifcdn2.doubleclick.net
+0.0.0.0 n3285ad.doubleclick.net
+0.0.0.0 n3349ad.doubleclick.net
+0.0.0.0 n4052ad.doubleclick.net
+0.0.0.0 n4403ad.doubleclick.net
+0.0.0.0 n479ad.doubleclick.net
+0.0.0.0 n609ad.doubleclick.net
+0.0.0.0 optout.doubleclick.net
+0.0.0.0 paypalssl.doubleclick.net
+0.0.0.0 rd.intl.doubleclick.net
+0.0.0.0 s2.video.doubleclick.net
+0.0.0.0 se1.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 www.doubleclick.net
+0.0.0.0 www3.doubleclick.net
+
+# download-performance.com
+0.0.0.0 download-performance.com
+
+# downloadappsstore.com
+0.0.0.0 jp.downloadappsstore.com
+
+# downloadlsdir.com
+0.0.0.0 download.downloadlsdir.com
+
+# downloastar.com
+0.0.0.0 report.downloastar.com
+
+# downloatransfer.com
+0.0.0.0 downloatransfer.com
+
+# dtiserv.com
+0.0.0.0 rss.dtiserv.com
+
+# dtiserv2.com
+0.0.0.0 click.dtiserv2.com
+
+# duapps.com
+0.0.0.0 pasta.esfile.duapps.com
+0.0.0.0 union-tracking.duapps.com
+
+# educing.info
+0.0.0.0 educing.info
+
+# eimg.jp
+0.0.0.0 contents.adingo.jp.eimg.jp
+0.0.0.0 img.fluct.jp.eimg.jp
+0.0.0.0 sp.adingo.jp.eimg.jp
+
+# exit-ad.com
+0.0.0.0 d.exit-ad.com
+0.0.0.0 i.exit-ad.com
+
+# extend-battery-life.com
+0.0.0.0 extend-battery-life.com
+
+# fbcdn.net
+0.0.0.0 scontent-nrt1-1.xx.fbcdn.net
+
+# fc2.com
+0.0.0.0 analyzer.fc2.com
+0.0.0.0 analyzer2.fc2.com
+0.0.0.0 analyzer3.fc2.com
+0.0.0.0 analyzer4.fc2.com
+0.0.0.0 analyzer5.fc2.com
+0.0.0.0 analyzer51.fc2.com
+0.0.0.0 analyzer53.fc2.com
+0.0.0.0 bj.fc2.com
+0.0.0.0 blogranking.fc2.com
+0.0.0.0 blogvote.fc2.com
+0.0.0.0 cnt.affiliate.fc2.com
+0.0.0.0 counter1.fc2.com
+0.0.0.0 dreamlove.h.fc2.com
+0.0.0.0 search.fc2.com
+0.0.0.0 vote1.fc2.com
+
+# fc2web.com
+0.0.0.0 cnt.fc2web.com
+
+# ficusoid.xyz
+
+# fivecdm.com
+0.0.0.0 ad2.fivecdm.com
+0.0.0.0 bc2.fivecdm.com
+
+# fixosjp.net
+0.0.0.0 fixosjp.net
+
+# flurry.com
+0.0.0.0 data.flurry.com
+
+# focas.jp
+0.0.0.0 adroute.focas.jp
+0.0.0.0 static.adroute.focas.jp
+
+# fout.jp
+0.0.0.0 dsp.fout.jp
+0.0.0.0 js.fout.jp
+0.0.0.0 sync.dmp.fout.jp
+0.0.0.0 sync.fout.jp
+
+# free-top-apps.com
+0.0.0.0 free-top-apps.com
+
+# freegiveaways.link
+0.0.0.0 jplr.freegiveaways.link
+
+# fungetbag.info
+0.0.0.0 fungetbag.info
+
+# funshopfun.com
+0.0.0.0 track.funshopfun.com
+
+# gamesfree4u.online
+0.0.0.0 ww.gamesfree4u.online
+
+# gettheapp.mobi
+0.0.0.0 load.gettheapp.mobi
+
+# ggpht.com
+0.0.0.0 yt3.ggpht.com
+
+# giveapp.jp
+0.0.0.0 img.giveapp.jp
+
+# glaswall.online
+
+# globaloffers.link
+0.0.0.0 globaloffers.link
+
+# gmossp-sp.jp
+0.0.0.0 adn-d.sp.gmossp-sp.jp
+0.0.0.0 adn-j.sp.gmossp-sp.jp
+
+# godroid.pw
+0.0.0.0 in.godroid.pw
+
+# goo.ne.jp
+
+# good-black4u.com
+0.0.0.0 good-black4u.com
+
+# goodad.jp
+0.0.0.0 ad.goodad.jp
+
+# google.com
+0.0.0.0 adservices.google.com
+0.0.0.0 adwords.google.com
+0.0.0.0 mobileads.google.com
+0.0.0.0 video-stats.video.google.com
+
+# googleadservices.com
+0.0.0.0 4.afs.googleadservices.com
+0.0.0.0 feedads.googleadservices.com
+0.0.0.0 imageads.googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+
+# googlesyndication.com
+0.0.0.0 domains.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+
+# gplayapps.com
+0.0.0.0 gplayapps.com
+
+# gunosy.com
+0.0.0.0 ad.gunosy.com
+0.0.0.0 adntokyo.gunosy.com
+0.0.0.0 assets.gunosy.com
+
+# gvt1.com
+0.0.0.0 r7---sn-oguesnls.gvt1.com
+
+# gvt2.com
+0.0.0.0 beacons.gvt2.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
+
+# heyos.com
+0.0.0.0 admaster.heyos.com
+
+# hishaku.com
+0.0.0.0 x6.hishaku.com
+
+# hitbestapps.com
+0.0.0.0 hitbestapps.com
+
+# htrhcncxfy.xyz
+0.0.0.0 htrhcncxfy.xyz
+
+# humanwebr.com
+0.0.0.0 humanwebr.com
+
+# hwoxt.com
+0.0.0.0 hwoxt.com
+
+# i-mobile.co.jp
+0.0.0.0 spad.i-mobile.co.jp
+0.0.0.0 spapi.i-mobile.co.jp
+0.0.0.0 spdeliver.i-mobile.co.jp
+
+# i2i.jp
+0.0.0.0 ac.i2i.jp
+0.0.0.0 rc.i2i.jp
+0.0.0.0 sh.i2i.jp
+
+# igaworks.com
+0.0.0.0 live.adbrix.igaworks.com
+
+# iid.jp
+0.0.0.0 deliver.ads3.iid.jp
+
+# iij4u.or.jp
+0.0.0.0 www.ff.iij4u.or.jp
+
+# image-ad.jp
+0.0.0.0 image-ad.jp
+
+# imagineads.mobi
+0.0.0.0 tracking.imagineads.mobi
+
+# imgvc.com
+0.0.0.0 a.imgvc.com
+
+# impact-ad.jp
+0.0.0.0 aa.impact-ad.jp
+0.0.0.0 as.bb.impact-ad.jp
+0.0.0.0 as.dc.impact-ad.jp
+0.0.0.0 as.jc.impact-ad.jp
+0.0.0.0 as.nw.impact-ad.jp
+0.0.0.0 as.se.impact-ad.jp
+0.0.0.0 img.ak.impact-ad.jp
+0.0.0.0 impact-ad.jp
+0.0.0.0 jc.impact-ad.jp
+
+# impress.co.jp
+0.0.0.0 ad.watch.impress.co.jp
+
+# improve-system-online-service.com
+0.0.0.0 s.improve-system-online-service.com
+
+# info-apps.xyz
+0.0.0.0 click.info-apps.xyz
+0.0.0.0 sg.info-apps.xyz
+
+# infolinks.com
+0.0.0.0 rt3009.infolinks.com
+
+# inmobi-jp.com
+0.0.0.0 js.inmobi-jp.com
+
+# inner-active.com
+0.0.0.0 tracking.inner-active.com
+
+# instal.com
+0.0.0.0 ads.instal.com
+
+# installyourapps.com
+0.0.0.0 installyourapps.com
+
+# itmedia.co.jp
+0.0.0.0 ad.itmedia.co.jp
+
+# itmedia.jp
+0.0.0.0 dlv.itmedia.jp
+
+# itwaokktkf.pw
+0.0.0.0 itwaokktkf.pw
+
+# j-credit.or.jp
+0.0.0.0 www.j-credit.or.jp
+
+# jdoingtrkac.com
+0.0.0.0 jdoingtrkac.com
+
+# jlisting.jp
+0.0.0.0 sp.ads.jlisting.jp
+
+# johnnythedoe.top
+0.0.0.0 johnnythedoe.top
+
+# jp18.com
+0.0.0.0 errors.jp18.com
+
+# jugem.jp
+0.0.0.0 ad.jugem.jp
+
+# justgetitfaster.com
+0.0.0.0 justgetitfaster.com
+
+# karmajoint.club
+0.0.0.0 a.karmajoint.club
+
+# kimcurlrvsms.com
+0.0.0.0 kimcurlrvsms.com
+
+# kira2-w.com
+0.0.0.0 kira2-w.com
+
+# kitunebi.com
+0.0.0.0 x8.kitunebi.com
+
+# komusou.jp
+0.0.0.0 x8.komusou.jp
+
+# kuaptrk.com
+0.0.0.0 kuaptrk.com
+
+# ladsp.com
+0.0.0.0 cd.ladsp.com
+0.0.0.0 tag.ladsp.com
+
+# lenzmx.com
+0.0.0.0 tracking.lenzmx.com
+
+# line.me
+0.0.0.0 line.me
+
+# linksynergy.com
+0.0.0.0 ad.linksynergy.com
+
+# livedoor.com
+0.0.0.0 adv.livedoor.com
+0.0.0.0 app.click.livedoor.com
+
+# loka.jp
+0.0.0.0 cdn.loka.jp
+
+# lolipop.jp
+0.0.0.0 err.lolipop.jp
+
+# loopertrk.com
+0.0.0.0 freegoodies.loopertrk.com
+
+# magifirst.com
+0.0.0.0 magifirst.com
+
+# mainichi.co.jp
+0.0.0.0 adi.mainichi.co.jp
+
+# maio.jp
+0.0.0.0 media-api.maio.jp
+0.0.0.0 res-creatives.maio.jp
+
+# maist.jp
+0.0.0.0 ad.maist.jp
+
+# mb-click.jp
+0.0.0.0 api.mb-click.jp
+
+# measurementapi.com
+0.0.0.0 158264.measurementapi.com
+
+# media-b.jp
+0.0.0.0 media-b.jp
+
+# mediab.uy
+0.0.0.0 mediab.uy
+
+# mediba.jp
+0.0.0.0 ad.mediba.jp
+0.0.0.0 api.ad.mediba.jp
+
+# medibaad.com
+0.0.0.0 adc.medibaad.com
+
+# metactrl.com
+0.0.0.0 metactrl.com
+
+# microad.jp
+0.0.0.0 bw.microad.jp
+0.0.0.0 cache.microad.jp
+0.0.0.0 cache.ssend.microad.jp
+0.0.0.0 microad.jp
+0.0.0.0 send.microad.jp
+0.0.0.0 ssend.microad.jp
+0.0.0.0 track.send.microad.jp
+
+# microad.net
+0.0.0.0 j.microad.net
+
+# minimob.com
+0.0.0.0 clicks.minimob.com
+
+# mixi.jp
+0.0.0.0 img.ads.mixi.jp
+
+# mmaaxx.com
+0.0.0.0 www.mmaaxx.com
+
+# mmobileoffers.com
+0.0.0.0 track.mmobileoffers.com
+
+# mobclix.com
+
+# mobilcentr.com
+0.0.0.0 mobilcentr.com
+
+# mobile-10.com
+0.0.0.0 secure.mobile-10.com
+
+# mobileappmobiappshero2016.co
+0.0.0.0 mobileappmobiappshero2016.co
+
+# mobileyouandme.com
+0.0.0.0 track.mobileyouandme.com
+
+# mobitemedia.com
+0.0.0.0 tracking.mobitemedia.com
+
+# mobitessl.online
+0.0.0.0 c.mobitessl.online
+
+# mobra.in
+0.0.0.0 go.mobra.in
+
+# mobu.jp
+0.0.0.0 get.mobu.jp
+
+# msads.net
+0.0.0.0 global.msads.net
+
+# msmtrakk02a.com
+0.0.0.0 app.msmtrakk02a.com
+0.0.0.0 global.msmtrakk02a.com
+
+# mtburn.com
+0.0.0.0 click.mtburn.com
+
+# mtmobapps.com
+0.0.0.0 mtmobapps.com
+
+# mydas.mobi
+0.0.0.0 bank01.ads.mp.mydas.mobi
+0.0.0.0 bank01.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank02.ads.mp.mydas.mobi
+0.0.0.0 bank02.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank03.ads.mp.mydas.mobi
+0.0.0.0 bank03.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank04.ads.mp.mydas.mobi
+0.0.0.0 bank04.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank05.ads.mp.mydas.mobi
+0.0.0.0 bank05.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank06.ads.mp.mydas.mobi
+0.0.0.0 bank06.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank07.ads.mp.mydas.mobi
+0.0.0.0 bank07.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank08.ads.mp.mydas.mobi
+0.0.0.0 bank08.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank09.ads.mp.mydas.mobi
+0.0.0.0 bank09.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank10.ads.mp.mydas.mobi
+0.0.0.0 bank10.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank11.ads.mp.mydas.mobi
+0.0.0.0 bank11.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank12.ads.mp.mydas.mobi
+0.0.0.0 bank12.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank13.ads.mp.mydas.mobi
+0.0.0.0 bank13.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank14.ads.mp.mydas.mobi
+0.0.0.0 bank14.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank15.ads.mp.mydas.mobi
+0.0.0.0 bank15.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank16.ads.mp.mydas.mobi
+0.0.0.0 bank16.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank17.ads.mp.mydas.mobi
+0.0.0.0 bank17.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank18.ads.mp.mydas.mobi
+0.0.0.0 bank18.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank19.ads.mp.mydas.mobi
+0.0.0.0 bank19.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank20.ads.mp.mydas.mobi
+0.0.0.0 bank20.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank21.ads.mp.mydas.mobi
+0.0.0.0 bank21.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank22.ads.mp.mydas.mobi
+0.0.0.0 bank22.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank23.ads.mp.mydas.mobi
+0.0.0.0 bank23.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank24.ads.mp.mydas.mobi
+0.0.0.0 bank24.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank25.ads.mp.mydas.mobi
+0.0.0.0 bank25.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank26.ads.mp.mydas.mobi
+0.0.0.0 bank26.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank27.ads.mp.mydas.mobi
+0.0.0.0 bank27.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank28.ads.mp.mydas.mobi
+0.0.0.0 bank28.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank29.ads.mp.mydas.mobi
+0.0.0.0 bank29.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank30.ads.mp.mydas.mobi
+0.0.0.0 bank30.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank31.ads.mp.mydas.mobi
+0.0.0.0 bank31.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank32.ads.mp.mydas.mobi
+0.0.0.0 bank32.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank33.ads.mp.mydas.mobi
+0.0.0.0 bank33.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank34.ads.mp.mydas.mobi
+0.0.0.0 bank34.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank35.ads.mp.mydas.mobi
+0.0.0.0 bank35.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank36.ads.mp.mydas.mobi
+0.0.0.0 bank36.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank37.ads.mp.mydas.mobi
+0.0.0.0 bank37.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank38.ads.mp.mydas.mobi
+0.0.0.0 bank38.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank39.ads.mp.mydas.mobi
+0.0.0.0 bank39.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank40.ads.mp.mydas.mobi
+0.0.0.0 bank40.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank41.ads.mp.mydas.mobi
+0.0.0.0 bank41.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank42.ads.mp.mydas.mobi
+0.0.0.0 bank42.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank43.ads.mp.mydas.mobi
+0.0.0.0 bank43.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank44.ads.mp.mydas.mobi
+0.0.0.0 bank44.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank45.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank46.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank47.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank48.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank49.mi.clicks.mp.mydas.mobi
+0.0.0.0 bank50.mi.clicks.mp.mydas.mobi
+
+# mygooglepagerank.com
+0.0.0.0 www.mygooglepagerank.com
+
+# mywebzines.com
+0.0.0.0 en.mywebzines.com
+0.0.0.0 mywebzines.com
+
+# n-gate.jp
+0.0.0.0 push-iaps.n-gate.jp
+
+# nakanohito.jp
+0.0.0.0 ua.nakanohito.jp
+0.0.0.0 uh.nakanohito.jp
+0.0.0.0 uh0.nakanohito.jp
+0.0.0.0 y.nakanohito.jp
+
+# nend.net
+0.0.0.0 ad1.nend.net
+0.0.0.0 ad2.nend.net
+0.0.0.0 ad3.nend.net
+0.0.0.0 ad4.nend.net
+0.0.0.0 ad5.nend.net
+0.0.0.0 ad6.nend.net
+0.0.0.0 ad7.nend.net
+0.0.0.0 ad8.nend.net
+0.0.0.0 ad9.nend.net
+0.0.0.0 c1.nend.net
+0.0.0.0 cs.nend.net
+0.0.0.0 di.nend.net
+0.0.0.0 img1.nend.net
+0.0.0.0 impression.nend.net
+0.0.0.0 js1.nend.net
+0.0.0.0 js2.nend.net
+0.0.0.0 js3.nend.net
+0.0.0.0 js4.nend.net
+0.0.0.0 js5.nend.net
+0.0.0.0 js6.nend.net
+0.0.0.0 js7.nend.net
+0.0.0.0 js8.nend.net
+0.0.0.0 js9.nend.net
+0.0.0.0 lois.nend.net
+0.0.0.0 output.nend.net
+0.0.0.0 s.nend.net
+0.0.0.0 s2.nend.net
+
+# nexage.com
+0.0.0.0 admax.nexage.com
+
+# nextlandingads.xyz
+0.0.0.0 nextlandingads.xyz
+
+# nicopon.jp
+0.0.0.0 nicopon.jp
+
+# nicovideo.jp
+
+# nikkei.co.jp
+0.0.0.0 adb.nikkei.co.jp
+
+# nikkeibp.co.jp
+0.0.0.0 adserve5.nikkeibp.co.jp
+0.0.0.0 bizad.nikkeibp.co.jp
+
+# nineappcenter.com
+0.0.0.0 nineappcenter.com
+
+# no-battery-issue.tech
+0.0.0.0 no-battery-issue.tech
+
+# noahapps.jp
+0.0.0.0 and.noahapps.jp
+
+# november-lax.com
+0.0.0.0 zb1.november-lax.com
+0.0.0.0 zd1.november-lax.com
+0.0.0.0 ze1.november-lax.com
+0.0.0.0 zj1.november-lax.com
+0.0.0.0 zm1.november-lax.com
+0.0.0.0 zn1.november-lax.com
+0.0.0.0 zs1.november-lax.com
+
+# npmpecd.com
+0.0.0.0 npmpecd.com
+
+# nttnavi.co.jp
+0.0.0.0 ad.nttnavi.co.jp
+0.0.0.0 banner.nttnavi.co.jp
+
+# ntv.co.jp
+0.0.0.0 ad.ntv.co.jp
+
+# offerfactory.click
+0.0.0.0 offerfactory.click
+
+# offerhaus.link
+0.0.0.0 offerhaus.link
+
+# ohugi.com
+0.0.0.0 x6.ohugi.com
+
+# ojaru.jp
+0.0.0.0 x4.ojaru.jp
+
+# okoshi-yasu.com
+0.0.0.0 x8.okoshi-yasu.com
+
+# olmeramarketing.com
+0.0.0.0 xml.olmeramarketing.com
+
+# omanchin.com
+0.0.0.0 omanchin.com
+
+# onclickads.net
+0.0.0.0 onclickads.net
+
+# optmedia.jp
+0.0.0.0 optmedia.jp
+
+# ousief.xyz
+0.0.0.0 www.ousief.xyz
+
+# overture.com
+0.0.0.0 cm.jp.overture.com
+0.0.0.0 overture.com
+0.0.0.0 rc20.overture.com
+0.0.0.0 redir.overture.com
+
+# p-advg.com
+0.0.0.0 p-advg.com
+
+# parserord.info
+0.0.0.0 parserord.info
+
+# parserwoad.info
+0.0.0.0 parserwoad.info
+
+# pdltracking.com
+0.0.0.0 click.pdltracking.com
+
+# pdn-2.com
+0.0.0.0 xml.pdn-2.com
+
+# pertholin.com
+0.0.0.0 pertholin.com
+
+# pfundertrk.me
+0.0.0.0 pfundertrk.me
+
+# pmll.net
+0.0.0.0 pmll.net
+
+# pocofh.com
+0.0.0.0 pocofh.com
+
+# popads.net
+0.0.0.0 c1.popads.net
+0.0.0.0 c2.popads.net
+0.0.0.0 serve.popads.net
+
+# popcpm.net
+0.0.0.0 deliver.popcpm.net
+
+# popped.biz
+0.0.0.0 popped.biz
+
+# potcityzip.com
+0.0.0.0 potcityzip.com
+
+# prjcq.com
+0.0.0.0 prjcq.com
+
+# pubmatic.com
+0.0.0.0 ads.pubmatic.com
+
+# pwwysydh.com
+
+# quebec-bin.com
+0.0.0.0 za1.quebec-bin.com
+
+# qwapi.com
+0.0.0.0 ad.qwapi.com
+0.0.0.0 event-img.qwapi.com
+
+# r10.to
+0.0.0.0 r10.to
+
+# rakuten.co.jp
+0.0.0.0 affiliate.rakuten.co.jp
+0.0.0.0 xml.affiliate.rakuten.co.jp
+
+# rdsa2012.com
+0.0.0.0 rdsa2012.com
+
+# redirectvoluum.com
+0.0.0.0 j1nqm.redirectvoluum.com
+0.0.0.0 mdjjp.redirectvoluum.com
+0.0.0.0 mqot2.redirectvoluum.com
+0.0.0.0 oi2cz.redirectvoluum.com
+0.0.0.0 v9ds9.redirectvoluum.com
+
+# safebro.site
+0.0.0.0 safebro.site
+
+# sakura.ad.jp
+0.0.0.0 sdc2.sakura.ad.jp
+
+# sakura.ne.jp
+0.0.0.0 advertise.sakura.ne.jp
+
+# security-warning-service.xyz
+0.0.0.0 s.security-warning-service.xyz
+
+# seegame-hoome.info
+0.0.0.0 seegame-hoome.info
+
+# servicegetbook.net
+0.0.0.0 servicegetbook.net
+
+# shinobi.jp
+0.0.0.0 adm.shinobi.jp
+0.0.0.0 axad.shinobi.jp
+0.0.0.0 ba1.shinobi.jp
+0.0.0.0 ct1.shinobi.jp
+0.0.0.0 img.shinobi.jp
+0.0.0.0 j5.shinobi.jp
+0.0.0.0 j7.shinobi.jp
+0.0.0.0 x5.shinobi.jp
+0.0.0.0 x6.shinobi.jp
+0.0.0.0 x7.shinobi.jp
+0.0.0.0 x8.shinobi.jp
+
+# sierra-fox.com
+0.0.0.0 zb1.sierra-fox.com
+0.0.0.0 ze1.sierra-fox.com
+0.0.0.0 zo1.sierra-fox.com
+0.0.0.0 zt1.sierra-fox.com
+
+# sitecatcher.net
+0.0.0.0 ranking2.sitecatcher.net
+
+# skylark-app.com
+0.0.0.0 gtapp.skylark-app.com
+
+# smaad.net
+0.0.0.0 tr.smaad.net
+
+# smart-c.jp
+0.0.0.0 smart-c.jp
+
+# socdm.com
+0.0.0.0 adgen.socdm.com
+0.0.0.0 adstir.socdm.com
+0.0.0.0 d.socdm.com
+0.0.0.0 i.socdm.com
+0.0.0.0 tg.socdm.com
+
+# speedera.net
+0.0.0.0 anon.doubleclick.speedera.net
+
+# sprout-ad.com
+0.0.0.0 d.sprout-ad.com
+
+# sspintrafmsmt.com
+0.0.0.0 sspintrafmsmt.com
+
+# tapjoy.com
+0.0.0.0 connect.tapjoy.com
+
+# teramobiles.com
+0.0.0.0 teramobiles.com
+
+# topoffers.pro
+0.0.0.0 free.topoffers.pro
+
+# totalsuperbnetwork.com
+0.0.0.0 ngiz5.totalsuperbnetwork.com
+
+# track-web.link
+0.0.0.0 track-web.link
+
+# trk-optimize.com
+0.0.0.0 trk-optimize.com
+
+# truckpoush.com
+0.0.0.0 truckpoush.com
+
+# trustclick.ne.jp
+0.0.0.0 cast.trustclick.ne.jp
+0.0.0.0 motu.trustclick.ne.jp
+
+# tumabeni.com
+0.0.0.0 x5.tumabeni.com
+
+# turubeotoshi.com
+0.0.0.0 x8.turubeotoshi.com
+
+# uncn.jp
+0.0.0.0 cf.uncn.jp
+
+# unity3d.com
+0.0.0.0 adserver.unityads.unity3d.com
+
+# unthem.com
+0.0.0.0 api.unthem.com
+
+# valueclick.com
+0.0.0.0 kansas.valueclick.com
+0.0.0.0 oz.valueclick.com
+0.0.0.0 st.valueclick.com
+
+# valueclick.jp
+0.0.0.0 ads.ict.valueclick.jp
+0.0.0.0 ads.lidr.valueclick.jp
+0.0.0.0 st.lidr.valueclick.jp
+
+# valueclick.ne.jp
+0.0.0.0 hosts.valueclick.ne.jp
+0.0.0.0 kansas.valueclick.ne.jp
+0.0.0.0 oz.valueclick.ne.jp
+0.0.0.0 st.valueclick.ne.jp
+0.0.0.0 www.valueclick.ne.jp
+
+# valuecommerce.com
+0.0.0.0 ad.jp.ap.valuecommerce.com
+0.0.0.0 apfth.valuecommerce.com
+0.0.0.0 aplkp.valuecommerce.com
+0.0.0.0 ck.jp.ap.valuecommerce.com
+
+# vertoz.com
+0.0.0.0 search.vertoz.com
+
+# virus-protection-mobile.site
+0.0.0.0 virus-protection-mobile.site
+
+# voluumtrk.com
+0.0.0.0 mdjjp.voluumtrk.com
+0.0.0.0 nyhct.voluumtrk.com
+
+# voluumtrk2.com
+0.0.0.0 uw7mr.voluumtrk2.com
+
+# webonlinnew.com
+0.0.0.0 webonlinnew.com
+
+# webtracker.jp
+0.0.0.0 a.t.webtracker.jp
+0.0.0.0 c.a.t.webtracker.jp
+
+# whatusee.com
+0.0.0.0 www.whatusee.com
+
+# word-my.com
+0.0.0.0 word-my.com
+
+# xb11766.com
+0.0.0.0 xb11766.com
+
+# xrea.com
+0.0.0.0 ad.xrea.com
+
+# yahoo.co.jp
+0.0.0.0 ard.yahoo.co.jp
+0.0.0.0 b1.yahoo.co.jp
+0.0.0.0 b10.yahoo.co.jp
+0.0.0.0 b2.yahoo.co.jp
+0.0.0.0 b3.yahoo.co.jp
+0.0.0.0 b4.yahoo.co.jp
+0.0.0.0 b5.yahoo.co.jp
+0.0.0.0 b6.yahoo.co.jp
+0.0.0.0 b7.yahoo.co.jp
+0.0.0.0 b8.yahoo.co.jp
+0.0.0.0 b9.yahoo.co.jp
+0.0.0.0 bc.geocities.yahoo.co.jp
+0.0.0.0 parts.logoole.yahoo.co.jp
+0.0.0.0 rd.yahoo.co.jp
+0.0.0.0 yads.yahoo.co.jp
+0.0.0.0 yads.yjtag.yahoo.co.jp
+0.0.0.0 yeas.yahoo.co.jp
+0.0.0.0 yjaxc.yahoo.co.jp
+
+# yahooapis.jp
+0.0.0.0 aag.yahooapis.jp
+
+# yieldmanager.com
+0.0.0.0 ad.yieldmanager.com
+
+# yjlss.jp
+0.0.0.0 a.yjlss.jp
+
+# ylx-3.com
+0.0.0.0 banners.ylx-3.com
+
+# ylx-4.com
+0.0.0.0 redir.ylx-4.com
+
+# ymtracking.com
+0.0.0.0 global.ymtracking.com
+
+# yoc.mobi
+0.0.0.0 adserver-live.yoc.mobi
+
+# ypzjwioptz.pw
+0.0.0.0 ypzjwioptz.pw
+
+# yuhuads.com
+0.0.0.0 track.yuhuads.com
+
+# yx-ads6.com
+0.0.0.0 yx-ads6.com
+
+# zeroredirect12.com
+0.0.0.0 zy1.zeroredirect12.com
+
+# zimg.jp
+0.0.0.0 j.zucks.net.zimg.jp
+0.0.0.0 static.zucks.net.zimg.jp
+
+# zucks.net
+0.0.0.0 k.zucks.net
+0.0.0.0 sh.zucks.net
 #               MalwareDomainList.com Hosts List           #
 #   http://www.malwaredomainlist.com/hostslist/hosts.txt   #
 #         Last updated: Mon, 06 Mar 17 21:10:21 +0000      #
@@ -11958,7 +13518,6 @@ fe80::1%lo0 localhost
 0.0.0.0 fr.a2dfp.net
 0.0.0.0 m.fr.a2dfp.net
 0.0.0.0 mfr.a2dfp.net
-0.0.0.0 ad.a8.net
 0.0.0.0 asy.a8ww.net
 0.0.0.0 static.a-ads.com
 0.0.0.0 abcstats.com
@@ -12045,7 +13604,6 @@ fe80::1%lo0 localhost
 0.0.0.0 yorick.adjuggler.net
 0.0.0.0 adsearch.adkontekst.pl
 0.0.0.0 stat.adlabs.ru
-0.0.0.0 www.adlantis.jp
 0.0.0.0 publicidad.adlead.com
 0.0.0.0 rc.de.adlink.net
 0.0.0.0 tr.de.adlink.net
@@ -12128,7 +13686,6 @@ fe80::1%lo0 localhost
 0.0.0.0 r.adrolays.de
 0.0.0.0 adrotate.se
 0.0.0.0 www.adrotate.net
-0.0.0.0 adrunnr.com
 0.0.0.0 delivery.ads-creativesyndicator.com
 0.0.0.0 adsafiliados.com.br
 0.0.0.0 v2.adsbookie.com
@@ -12139,7 +13696,6 @@ fe80::1%lo0 localhost
 0.0.0.0 fusion.adtoma.com
 0.0.0.0 engage2.advanstar.com
 0.0.0.0 ddnk.advertur.ru
-0.0.0.0 ds.advg.jp
 0.0.0.0 m.adx.bg
 0.0.0.0 www.adshost2.com
 0.0.0.0 js.adscale.de
@@ -12446,7 +14002,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adsapi.chartbeat.com
 0.0.0.0 code.checkstat.nl
 0.0.0.0 www.checkstat.nl
-0.0.0.0 err.chicappa.jp
 0.0.0.0 ads.china.com
 0.0.0.0 v5.chinoc.net
 0.0.0.0 ads.city24.ee
@@ -12716,7 +14271,6 @@ fe80::1%lo0 localhost
 0.0.0.0 fastclick.ir
 0.0.0.0 fastonlineusers.com
 0.0.0.0 counter.fateback.com
-0.0.0.0 counter1.fc2.com
 0.0.0.0 error.fc2.com
 0.0.0.0 as.featurelink.com
 0.0.0.0 admega.feed.gr
@@ -13018,7 +14572,6 @@ fe80::1%lo0 localhost
 # 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 stats.jtvnw.net
 0.0.0.0 js.juicyads.com
-0.0.0.0 ad.jugem.jp
 0.0.0.0 a.jumptap.com
 0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 tracking.justpremium.com
@@ -13114,7 +14667,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.lkqd.net
 0.0.0.0 omnituretrack.local.com
 0.0.0.0 w10.localadbuy.com
-0.0.0.0 err.lolipop.jp
 0.0.0.0 adserver.lonuncavisto.com
 0.0.0.0 r.looksmart.com
 0.0.0.0 banners.lottoelite.com
@@ -13187,15 +14739,11 @@ fe80::1%lo0 localhost
 0.0.0.0 pubs.mgn.net
 0.0.0.0 beacon.mhtr.be
 0.0.0.0 ads.miarroba.com
-0.0.0.0 send.microad.jp
-0.0.0.0 ssend.microad.jp
-0.0.0.0 track.send.microad.jp
 0.0.0.0 d-track.send.microad.jp
 0.0.0.0 counter.mirohost.net
 0.0.0.0 mixmarket.biz
 0.0.0.0 www.mktrack.com
 0.0.0.0 www.mlclick.com
-0.0.0.0 www.mmaaxx.com
 0.0.0.0 mmgads.com
 0.0.0.0 www.mmgads.com
 0.0.0.0 mmptrack.com
@@ -13303,8 +14851,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ngacm.com
 0.0.0.0 ngbn.net
 0.0.0.0 ngastatic.com
-0.0.0.0 adserve5.nikkeibp.co.jp
-0.0.0.0 bizad.nikkeibp.co.jp
 0.0.0.0 www.nlbanner.nl
 0.0.0.0 banner.nonstoppartner.de
 0.0.0.0 counter.nope.dk
@@ -13320,8 +14866,6 @@ fe80::1%lo0 localhost
 0.0.0.0 pp.nrelate.com
 0.0.0.0 vt-1.nrelate.com
 0.0.0.0 ntlligent.info
-0.0.0.0 ad.nttnavi.co.jp
-0.0.0.0 banner.nttnavi.co.jp
 0.0.0.0 ad.ntvmsnbc.com
 0.0.0.0 ntweb.org
 0.0.0.0 i.nuseek.com
@@ -13450,10 +14994,7 @@ fe80::1%lo0 localhost
 0.0.0.0 adserve.podaddies.com
 0.0.0.0 www1.pollg.com
 0.0.0.0 www.pollmonkey.com
-0.0.0.0 c1.popads.net
-0.0.0.0 c2.popads.net
 0.0.0.0 out.popads.net
-0.0.0.0 serve.popads.net
 0.0.0.0 www.popadvert.com
 0.0.0.0 popcounter.com
 0.0.0.0 partners.popmatters.com
@@ -13493,7 +15034,6 @@ fe80::1%lo0 localhost
 0.0.0.0 static.pubdirecte.com
 0.0.0.0 www.pubdirecte.com
 0.0.0.0 tracking.publicidees.com
-0.0.0.0 ads.pubmatic.com
 0.0.0.0 bid.pubmatic.com
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 track.pubmatic.com
@@ -13599,7 +15139,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.s2d6.com
 0.0.0.0 s4le.net
 0.0.0.0 ads.sagabg.net
-0.0.0.0 sdc2.sakura.ad.jp
 0.0.0.0 lct.salesforce.com
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 judo.salon.com
@@ -13939,7 +15478,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.vacationsmadeeasy.com
 0.0.0.0 ads.vador.com
 0.0.0.0 feed.validclick.com
-0.0.0.0 ad.jp.ap.valuecommerce.com
 0.0.0.0 ads.vclick.vn
 0.0.0.0 reklama.ve.lt
 0.0.0.0 counters.vendio.com
@@ -14083,7 +15621,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ssl.xplosion.de
 0.0.0.0 x-road.co.kr
 0.0.0.0 nedstats.xs4all.nl
-0.0.0.0 ad.xrea.com
 0.0.0.0 xtainment.net
 0.0.0.0 ht.xtube.com
 0.0.0.0 ads.xtra.co.nz
@@ -14777,15 +16314,12 @@ fe80::1%lo0 localhost
 0.0.0.0 assets1.adroll.com
 0.0.0.0 cdn.adsrvmedia.net
 0.0.0.0 content.adtegrity.net
-0.0.0.0 bannerfarm.ace.advertising.com
-0.0.0.0 uac.advertising.com
 0.0.0.0 secure.uac.advertising.com
 0.0.0.0 content.aimatch.com
 0.0.0.0 cdn2sitescout-a.akamaihd.net
 0.0.0.0 static.adziff.com
 0.0.0.0 cdn2.adsdk.com
 0.0.0.0 rmd.atdmt.com
-0.0.0.0 spd.atdmt.com
 0.0.0.0 spe.atdmt.com
 0.0.0.0 vid.atdmt.com
 0.0.0.0 cdn.atomex.net
@@ -14959,7 +16493,6 @@ fe80::1%lo0 localhost
 # 0.0.0.0  imagesak.secureserver.net #[affects GoDaddy programs/webmail]
 0.0.0.0 track.sitetag.us
 0.0.0.0 as.specificmedia.com
-0.0.0.0 anon.doubleclick.speedera.net
 0.0.0.0 fms2.eyewonder.speedera.net
 0.0.0.0 d.thanksearch.com
 0.0.0.0 tribalfusion.speedera.net
@@ -15449,7 +16982,6 @@ fe80::1%lo0 localhost
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 aexp.demdex.net
 0.0.0.0 nbcu.demdex.net
-0.0.0.0 educing.info
 0.0.0.0 inceptionads.go2cloud.org
 0.0.0.0 track.happylifestylestoday.com
 0.0.0.0 b-aws.huffingtonpost.com
@@ -16116,7 +17648,6 @@ fe80::1%lo0 localhost
 # [America Online][AS1668][64.236.0.0 - 64.236.255.255]
 0.0.0.0 ssl-sl-retargeting.adsonar.com
 0.0.0.0 glb.adtechus.com
-0.0.0.0 advertising.com
 0.0.0.0 ace-lb.advertising.com
 0.0.0.0 ace-tag.advertising.com
 0.0.0.0 p.ace.advertising.com
@@ -16292,7 +17823,6 @@ fe80::1%lo0 localhost
 0.0.0.0 advs.adgorithms.com
 0.0.0.0 ad2.adnetwork.net
 0.0.0.0 float.2299.bm-impbus.prod.nym2.adnexus.net
-0.0.0.0 ib.adnxs.com
 0.0.0.0 mob.adnxs.com
 0.0.0.0 nym1.ib.adnxs.com
 0.0.0.0 sin1.g.adnxs.com
@@ -18363,7 +19893,6 @@ fe80::1%lo0 localhost
 # [Google / DoubleClick][AS6432][216.73.80.0 - 216.73.95.255]
 0.0.0.0 www3.webhostingtalk.com
 # [Google][AS15169][23.251.128.0 - 23.251.159.255]
-0.0.0.0 adplexmedia.adk2x.com
 0.0.0.0 speednetwork14.adk2x.com
 0.0.0.0 trafficedge.adk2x.com
 0.0.0.0 lesechos.ezakus.net
@@ -18380,79 +19909,13 @@ fe80::1%lo0 localhost
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clickserve.eu.dartsearch.net
 0.0.0.0 clickserve.uk.dartsearch.net
-0.0.0.0 ad2.doubleclick.net
-0.0.0.0 ad.ae.doubleclick.net
-0.0.0.0 ad.ar.doubleclick.net
 0.0.0.0 ad.at.doubleclick.net
-0.0.0.0 ad.au.doubleclick.net
-0.0.0.0 ad.be.doubleclick.net
-0.0.0.0 ad.br.doubleclick.net
-0.0.0.0 ad.ca.doubleclick.net
-0.0.0.0 ad.ch.doubleclick.net
-0.0.0.0 ad.cl.doubleclick.net
-0.0.0.0 ad.cn.doubleclick.net
-0.0.0.0 ad.de.doubleclick.net
-0.0.0.0 ad.dk.doubleclick.net
-0.0.0.0 ad.es.doubleclick.net
-0.0.0.0 ad.fi.doubleclick.net
-0.0.0.0 ad.fr.doubleclick.net
-0.0.0.0 ad.gr.doubleclick.net
-0.0.0.0 ad.hk.doubleclick.net
-0.0.0.0 ad.hr.doubleclick.net
-0.0.0.0 ad.hu.doubleclick.net
-0.0.0.0 ad.ie.doubleclick.net
-0.0.0.0 ad.in.doubleclick.net
-0.0.0.0 ad.jp.doubleclick.net
-0.0.0.0 ad.kr.doubleclick.net
-0.0.0.0 ad.it.doubleclick.net
-0.0.0.0 ad.nl.doubleclick.net
-0.0.0.0 ad.no.doubleclick.net
-0.0.0.0 ad.nz.doubleclick.net
-0.0.0.0 ad.pl.doubleclick.net
-0.0.0.0 ad.pt.doubleclick.net
-0.0.0.0 ad.ro.doubleclick.net
-0.0.0.0 ad.ru.doubleclick.net
-0.0.0.0 ad.se.doubleclick.net
-0.0.0.0 ad.sg.doubleclick.net
-0.0.0.0 ad.si.doubleclick.net
-0.0.0.0 ad.terra.doubleclick.net
-0.0.0.0 ad.th.doubleclick.net
-0.0.0.0 ad.tw.doubleclick.net
-0.0.0.0 ad.uk.doubleclick.net
-0.0.0.0 ad.us.doubleclick.net
-0.0.0.0 ad.za.doubleclick.net
-0.0.0.0 ad.n2434.doubleclick.net
-0.0.0.0 ad-emea.doubleclick.net
-0.0.0.0 creatives.doubleclick.net
-0.0.0.0 dfp.doubleclick.net
-0.0.0.0 feedads.g.doubleclick.net
-0.0.0.0 fls.doubleclick.net
-0.0.0.0 fls.uk.doubleclick.net
-0.0.0.0 ir.doubleclick.net
-0.0.0.0 iv.doubleclick.net
-0.0.0.0 m.doubleclick.net
-0.0.0.0 motifcdn.doubleclick.net
-0.0.0.0 motifcdn2.doubleclick.net
-0.0.0.0 n4052ad.doubleclick.net
-0.0.0.0 n4403ad.doubleclick.net
-0.0.0.0 n479ad.doubleclick.net
-0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 static.doubleclick.net
 0.0.0.0 survey.g.doubleclick.net
-0.0.0.0 doubleclick.ne.jp
-0.0.0.0 www3.doubleclick.net
-0.0.0.0 www.doubleclick.net
-0.0.0.0 doubleclick.com
-0.0.0.0 www2.doubleclick.com
-0.0.0.0 www3.doubleclick.com
-0.0.0.0 www.doubleclick.com
 0.0.0.0 www.bt.emsecure.net
-0.0.0.0 tpc.googlesyndication.com
 # 0.0.0.0  www.youtube-nocookie.com #[affects various videos]
 # [Google / DoubleClick][AS15169][66.249.64.0 - 66.249.95.255]
-0.0.0.0 ad.rs.doubleclick.net
 # [Google][AS22577][70.32.128.0 - 70.32.159.255]
 # [Google / DoubleClick][AS15169][72.14.192.0 - 72.14.255.255]
 0.0.0.0 affiliate.2mdn.net
@@ -18462,32 +19925,23 @@ fe80::1%lo0 localhost
 0.0.0.0 ad-apac.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 gan.doubleclick.net
-0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 n4061ad.hk.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
 # [Google / DoubleClick][AS15169][74.125.0.0 - 74.125.255.255]
 0.0.0.0 code.adtlgc.com
 0.0.0.0 ip-geo.appspot.com
 0.0.0.0 nojsstats.appspot.com
 0.0.0.0 gae.caspion.com
 0.0.0.0 ad-ace.doubleclick.net
-0.0.0.0 ad.bg.doubleclick.net
 0.0.0.0 bid.g.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 4360661.fls.doubleclick.net
 0.0.0.0 4488352.fls.doubleclick.net
 0.0.0.0 4684100.fls.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 fls.au.doubleclick.net
 0.0.0.0 www.doubleclickbygoogle.com
-0.0.0.0 video-stats.video.google.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
-0.0.0.0 4.afs.googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 partner.googleadservices.com
 0.0.0.0 www.googleadservices.com
-0.0.0.0 domains.googlesyndication.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.linksalpha.com
 # [Gossamer][AS36483][208.70.244.0 - 208.70.247.255]
@@ -19219,7 +20673,6 @@ fe80::1%lo0 localhost
 0.0.0.0 pq-direct.revsci.net
 # [Internet4you][AS29014][93.92.128.0 - 93.92.135.255]
 0.0.0.0 containertags.belboon.de
-0.0.0.0 adserver-live.yoc.mobi
 # [Internet Billboard][AS5588][194.213.62.32 - 194.213.62.47]
 0.0.0.0 go.goldbachpoland.bbelements.com
 # [Internet Billboard][AS2819][62.168.44.112 - 62.168.44.127]
@@ -19755,7 +21208,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.mediaforge.com
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 a.global.msads.net
-0.0.0.0 global.msads.net
 0.0.0.0 ads.msn.com
 0.0.0.0 ads1.msn.com
 0.0.0.0 ads2.msn.com
@@ -20144,7 +21596,6 @@ fe80::1%lo0 localhost
 0.0.0.0 msn.serving-sys.com
 # [Microsoft][AS8075][70.37.0.0 - 70.37.191.255]
 # [Microsoft][AS8075][94.245.64.0 - 94.245.127.255]
-0.0.0.0 click.atdmt.com
 # 0.0.0.0  clk.atdmt.com #[affects MS downloads]
 0.0.0.0 jact.atdmt.com
 0.0.0.0 sact.atdmt.com
@@ -20902,13 +22353,8 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.whattoexpect.com
 # [Omniture][AS15224][Wildcard DNS]
 # 0.0.0.0 appleglobal.112.2o7.net #[affects Apple site]
-0.0.0.0 byubroadcast.112.2o7.net
-0.0.0.0 kasperthreatpostprod.112.2o7.net
-0.0.0.0 kaspersky.122.2o7.net
-0.0.0.0 ldsfch.112.2o7.net
 0.0.0.0 nautilus.122.2o7.net
 # 127.0.0.1  survey.112.2o7.net #[may affect Sprint.com]
-0.0.0.0 tirerackcom.112.2o7.net
 0.0.0.0 stats.esomniture.com
 0.0.0.0 www.omniture.com
 0.0.0.0 www.touchclarity.com
@@ -21656,25 +23102,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bank18.ads.dt.mydas.mobi
 0.0.0.0 bank19.ads.dt.mydas.mobi
 0.0.0.0 bank20.ads.dt.mydas.mobi
-0.0.0.0 bank01.ads.mp.mydas.mobi
-0.0.0.0 bank02.ads.mp.mydas.mobi
-0.0.0.0 bank03.ads.mp.mydas.mobi
-0.0.0.0 bank04.ads.mp.mydas.mobi
-0.0.0.0 bank05.ads.mp.mydas.mobi
-0.0.0.0 bank06.ads.mp.mydas.mobi
-0.0.0.0 bank07.ads.mp.mydas.mobi
-0.0.0.0 bank08.ads.mp.mydas.mobi
-0.0.0.0 bank09.ads.mp.mydas.mobi
-0.0.0.0 bank10.ads.mp.mydas.mobi
-0.0.0.0 bank11.ads.mp.mydas.mobi
-0.0.0.0 bank12.ads.mp.mydas.mobi
-0.0.0.0 bank13.ads.mp.mydas.mobi
-0.0.0.0 bank15.ads.mp.mydas.mobi
-0.0.0.0 bank16.ads.mp.mydas.mobi
-0.0.0.0 bank17.ads.mp.mydas.mobi
-0.0.0.0 bank18.ads.mp.mydas.mobi
-0.0.0.0 bank19.ads.mp.mydas.mobi
-0.0.0.0 bank20.ads.mp.mydas.mobi
 # [Peer 1][AS13768][46.20.119.247 - 46.20.119.247]
 0.0.0.0 srv.buysellads.com
 # [Peer 1][AS11305][64.224.0.0 - 64.227.255.255]
@@ -22277,7 +23704,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www9.addfreestats.com
 0.0.0.0 www.mvav.com
 # [Savvis][AS3561][205.138.0.0 - 205.140.175.255]
-0.0.0.0 admax.nexage.com
 0.0.0.0 bbads.sx.atl.publicus.com
 # [Savvis][AS3561][205.216.0.0 - 205.217.223.255]
 0.0.0.0 d.xp1.ru4.com
@@ -22463,7 +23889,6 @@ fe80::1%lo0 localhost
 # [ServInt / BackBeat Media][AS25847][207.58.150.192 - 207.58.150.223]
 0.0.0.0 adserver1.backbeatmedia.com
 0.0.0.0 adserver1-images.backbeatmedia.com
-0.0.0.0 bullseye.backbeatmedia.com
 # [ServInt / Funix][AS25847][216.38.58.0 - 216.38.58.31]
 # [Singlehop][AS32475][107.6.128.0 - 107.6.191.255]
 0.0.0.0 advertising.bayoubuzz.com
@@ -23168,7 +24593,6 @@ fe80::1%lo0 localhost
 0.0.0.0 24counter.com
 0.0.0.0 clkads.com
 0.0.0.0 flurry.com
-0.0.0.0 data.flurry.com
 0.0.0.0 dev.flurry.com
 0.0.0.0 da.newstogram.com
 0.0.0.0 the-best-track.com
@@ -24564,7 +25988,6 @@ fe80::1%lo0 localhost
 0.0.0.0 go.mobtrks.com
 0.0.0.0 go.mobytrks.com
 0.0.0.0 go.oclasrv.com
-0.0.0.0 onclickads.net
 0.0.0.0 otherprofit.com
 0.0.0.0 t.otherprofit.com
 0.0.0.0 popunder.net
@@ -25154,7 +26577,6 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 gd.ads.vip.gq1.yahoo.com
 0.0.0.0 geo.query.yahoo.com
-0.0.0.0 ad.yieldmanager.com
 0.0.0.0 ci.beap.ad.yieldmanager.net
 0.0.0.0 ac.ybinst0.ec.yimg.com
 0.0.0.0 ac.ybinst1.ec.yimg.com
@@ -26629,7 +28051,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www9.counter.bloke.com
 0.0.0.0 www.adalyser.com
 0.0.0.0 www.addfreecounter.com
-0.0.0.0 www.addtoany.com
 0.0.0.0 www.ademails.com
 0.0.0.0 www.admin.iesnare.com
 0.0.0.0 www.admin.iesnare.co.uk
@@ -27476,10 +28897,8 @@ fe80::1%lo0 localhost
 #<doubleclick-sites>
 
 0.0.0.0 3ad.doubleclick.net
-0.0.0.0 ad.3au.doubleclick.net
 0.0.0.0 ad.ve.doubleclick.net
 0.0.0.0 ad-yt-bfp.doubleclick.net
-0.0.0.0 amn.doubleclick.net
 0.0.0.0 doubleclick.de
 0.0.0.0 ebaycn.doubleclick.net
 0.0.0.0 ebaytw.doubleclick.net
@@ -27518,7 +28937,6 @@ fe80::1%lo0 localhost
 0.0.0.0 gd7.doubleclick.net
 0.0.0.0 gd8.doubleclick.net
 0.0.0.0 gd9.doubleclick.net
-0.0.0.0 ln.doubleclick.net
 0.0.0.0 m1.ae.2mdn.net
 0.0.0.0 m1.au.2mdn.net
 0.0.0.0 m1.be.2mdn.net
@@ -27551,7 +28969,6 @@ fe80::1%lo0 localhost
 0.0.0.0 m2.cn.doubleclick.net
 0.0.0.0 m2.de.2mdn.net
 0.0.0.0 m2.dk.2mdn.net
-0.0.0.0 m2.doubleclick.net
 0.0.0.0 m2.es.2mdn.net
 0.0.0.0 m2.fi.2mdn.net
 0.0.0.0 m2.fr.2mdn.net
@@ -27575,7 +28992,6 @@ fe80::1%lo0 localhost
 0.0.0.0 m3.cn.2mdn.net
 0.0.0.0 m3.de.2mdn.net
 0.0.0.0 m3.dk.2mdn.net
-0.0.0.0 m3.doubleclick.net
 0.0.0.0 m3.es.2mdn.net
 0.0.0.0 m3.fi.2mdn.net
 0.0.0.0 m3.fr.2mdn.net
@@ -27730,11 +29146,9 @@ fe80::1%lo0 localhost
 0.0.0.0 m9.za.2mdn.net
 0.0.0.0 m.de.2mdn.net
 0.0.0.0 n3302ad.doubleclick.net
-0.0.0.0 n3349ad.doubleclick.net
 0.0.0.0 n4061ad.doubleclick.net
 0.0.0.0 optimize.doubleclick.net
 #0.0.0.0 pubads.g.doubleclick.net	#interferes with video on cwtv.com
-0.0.0.0 rd.intl.doubleclick.net
 0.0.0.0 twx.2mdn.net
 0.0.0.0 twx.doubleclick.net
 0.0.0.0 ukrpts.net
@@ -27991,78 +29405,17 @@ fe80::1%lo0 localhost
 0.0.0.0 gettyimages.122.2o7.net
 0.0.0.0 gmchevyapprentice.112.2o7.net
 0.0.0.0 gmhummer.112.2o7.net
-0.0.0.0 gpaper104.112.2o7.net
-0.0.0.0 gpaper105.112.2o7.net
-0.0.0.0 gpaper107.112.2o7.net
-0.0.0.0 gpaper108.112.2o7.net
-0.0.0.0 gpaper109.112.2o7.net
-0.0.0.0 gpaper110.112.2o7.net
-0.0.0.0 gpaper111.112.2o7.net
-0.0.0.0 gpaper112.112.2o7.net
 0.0.0.0 gpaper113.112.2o7.net
-0.0.0.0 gpaper114.112.2o7.net
-0.0.0.0 gpaper115.112.2o7.net
-0.0.0.0 gpaper116.112.2o7.net
-0.0.0.0 gpaper117.112.2o7.net
 0.0.0.0 gpaper118.112.2o7.net
-0.0.0.0 gpaper119.112.2o7.net
-0.0.0.0 gpaper120.112.2o7.net
-0.0.0.0 gpaper121.112.2o7.net
-0.0.0.0 gpaper122.112.2o7.net
-0.0.0.0 gpaper123.112.2o7.net
-0.0.0.0 gpaper124.112.2o7.net
-0.0.0.0 gpaper125.112.2o7.net
 0.0.0.0 gpaper126.112.2o7.net
-0.0.0.0 gpaper127.112.2o7.net
-0.0.0.0 gpaper128.112.2o7.net
 0.0.0.0 gpaper129.112.2o7.net
-0.0.0.0 gpaper131.112.2o7.net
-0.0.0.0 gpaper132.112.2o7.net
-0.0.0.0 gpaper133.112.2o7.net
-0.0.0.0 gpaper138.112.2o7.net
-0.0.0.0 gpaper139.112.2o7.net
-0.0.0.0 gpaper140.112.2o7.net
-0.0.0.0 gpaper141.112.2o7.net
-0.0.0.0 gpaper142.112.2o7.net
-0.0.0.0 gpaper144.112.2o7.net
-0.0.0.0 gpaper145.112.2o7.net
-0.0.0.0 gpaper147.112.2o7.net
-0.0.0.0 gpaper149.112.2o7.net
-0.0.0.0 gpaper151.112.2o7.net
 0.0.0.0 gpaper154.112.2o7.net
-0.0.0.0 gpaper156.112.2o7.net
-0.0.0.0 gpaper157.112.2o7.net
-0.0.0.0 gpaper158.112.2o7.net
-0.0.0.0 gpaper162.112.2o7.net
-0.0.0.0 gpaper164.112.2o7.net
-0.0.0.0 gpaper166.112.2o7.net
-0.0.0.0 gpaper167.112.2o7.net
-0.0.0.0 gpaper169.112.2o7.net
-0.0.0.0 gpaper170.112.2o7.net
-0.0.0.0 gpaper171.112.2o7.net
-0.0.0.0 gpaper172.112.2o7.net
-0.0.0.0 gpaper173.112.2o7.net
-0.0.0.0 gpaper174.112.2o7.net
-0.0.0.0 gpaper176.112.2o7.net
-0.0.0.0 gpaper177.112.2o7.net
-0.0.0.0 gpaper180.112.2o7.net
-0.0.0.0 gpaper183.112.2o7.net
-0.0.0.0 gpaper184.112.2o7.net
-0.0.0.0 gpaper191.112.2o7.net
 0.0.0.0 gpaper192.112.2o7.net
 0.0.0.0 gpaper193.112.2o7.net
-0.0.0.0 gpaper194.112.2o7.net
-0.0.0.0 gpaper195.112.2o7.net
-0.0.0.0 gpaper196.112.2o7.net
-0.0.0.0 gpaper197.112.2o7.net
 0.0.0.0 gpaper198.112.2o7.net
-0.0.0.0 gpaper202.112.2o7.net
-0.0.0.0 gpaper204.112.2o7.net
 0.0.0.0 gpaper205.112.2o7.net
 0.0.0.0 gpaper212.112.2o7.net
-0.0.0.0 gpaper214.112.2o7.net
 0.0.0.0 gpaper219.112.2o7.net
-0.0.0.0 gpaper223.112.2o7.net
 0.0.0.0 heavycom.112.2o7.net
 0.0.0.0 homesclick.112.2o7.net
 0.0.0.0 hostdomainpeople.112.2o7.net
@@ -28150,7 +29503,6 @@ fe80::1%lo0 localhost
 0.0.0.0 spiketv.112.2o7.net
 0.0.0.0 suncom.112.2o7.net
 0.0.0.0 sunonesearch.112.2o7.net
-0.0.0.0 survey.112.2o7.net
 0.0.0.0 sympmsnsports.112.2o7.net
 0.0.0.0 timebus2.112.2o7.net
 0.0.0.0 timehealth.112.2o7.net
@@ -28596,7 +29948,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.accessmediaproductions.com
 0.0.0.0 ad.adfunky.com
 0.0.0.0 ad.adition.de
-0.0.0.0 ad.adlantis.jp
 0.0.0.0 ad.admarketplace.net
 0.0.0.0 ad.adnetwork.com.br
 0.0.0.0 ad.adnetwork.net
@@ -28738,7 +30089,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adimages.mp3.com
 0.0.0.0 adimages.omroepzeeland.nl
 0.0.0.0 adimages.watchmygf.net
-0.0.0.0 adi.mainichi.co.jp
 0.0.0.0 adimg.activeadv.net
 0.0.0.0 adimg.com.com
 0.0.0.0 ad.impressbm.co.jp
@@ -28823,12 +30173,10 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.lgappstv.com
 0.0.0.0 ad.lijit.com
 0.0.0.0 ad.linkexchange.com
-0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.livere.co.kr
 0.0.0.0 ad.lyricswire.com
 0.0.0.0 adm.265g.com
 0.0.0.0 ad.mainichi.jp
-0.0.0.0 ad.maist.jp
 0.0.0.0 admanager1.collegepublisher.com
 0.0.0.0 admanager2.broadbandpublisher.com
 0.0.0.0 admanager3.collegepublisher.com
@@ -28862,7 +30210,6 @@ fe80::1%lo0 localhost
 0.0.0.0 admin.inq.com
 0.0.0.0 ad.moscowtimes.ru
 0.0.0.0 adm.shacknews.com
-0.0.0.0 adm.shinobi.jp
 0.0.0.0 adm.xmfish.com
 0.0.0.0 ad.my.doubleclick.net
 0.0.0.0 ad.mygamesol.com
@@ -28915,7 +30262,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adpulse.ads.targetnet.com
 0.0.0.0 adpush.dreamscape.com
 0.0.0.0 ad.qq.com
-0.0.0.0 ad.qwapi.com
 0.0.0.0 ad.qyer.com
 0.0.0.0 adrazzi.com
 0.0.0.0 ad.realmcdn.net
@@ -29568,7 +30914,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adserv.free6.com
 0.0.0.0 adserv.geocomm.com
 0.0.0.0 adserv.iafrica.com
-0.0.0.0 adservices.google.com
 0.0.0.0 adservices.picadmedia.com
 0.0.0.0 adservicestats.com
 0.0.0.0 ad-servicestats.net
@@ -30187,7 +31532,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adv.zapal.ru
 0.0.0.0 advzilla.com
 0.0.0.0 adware.kogaryu.com
-0.0.0.0 ad.watch.impress.co.jp
 0.0.0.0 ad.webisleri.com
 0.0.0.0 ad.webprovider.com
 0.0.0.0 adwenturehelp.club
@@ -30276,7 +31620,6 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.spotta.nl
 0.0.0.0 analytics.verizonenterprise.com
 0.0.0.0 analytics.vodafone.co.uk
-0.0.0.0 analyzer51.fc2.com
 0.0.0.0 andpolice.com
 0.0.0.0 ankieta-online.pl
 0.0.0.0 annuaire-autosurf.com
@@ -30810,7 +32153,6 @@ fe80::1%lo0 localhost
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 click-see-save.com
 0.0.0.0 clicks.hurriyet.com.tr
-0.0.0.0 clicks.minimob.com
 0.0.0.0 clicksotrk.com
 0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks.toteme.com
@@ -30824,7 +32166,6 @@ fe80::1%lo0 localhost
 0.0.0.0 clien.info
 0.0.0.0 clipserv.adclip.com
 0.0.0.0 clk.addmt.com
-0.0.0.0 clk.atdmt.com
 0.0.0.0 clk.cloudyisland.com
 0.0.0.0 c.lomadee.com
 0.0.0.0 closeoutproductsreview.com
@@ -31184,7 +32525,6 @@ fe80::1%lo0 localhost
 0.0.0.0 fbi.gov.id402037057-8235504608.d9680.com
 0.0.0.0 fcg.casino770.com
 0.0.0.0 fdimages.fairfax.com.au
-0.0.0.0 feedads.googleadservices.com
 0.0.0.0 fei.pro-market.net
 0.0.0.0 fe.lea.lycos.es
 0.0.0.0 fengfengtie.com.cn
@@ -31733,7 +33073,6 @@ fe80::1%lo0 localhost
 0.0.0.0 k5ads.osdn.com
 0.0.0.0 kaartenhuis.nl.site-id.nl
 0.0.0.0 k.admob.com
-0.0.0.0 kansas.valueclick.com
 0.0.0.0 katu.adbureau.net
 0.0.0.0 kazaa.adserver.co.il
 0.0.0.0 kermit.macnn.com
@@ -32015,8 +33354,6 @@ fe80::1%lo0 localhost
 0.0.0.0 mktg-offer.com
 0.0.0.0 mlntracker.com
 0.0.0.0 mm1.vip.sc1.admob.com
-0.0.0.0 mm.admob.com
-0.0.0.0 mmv.admob.com
 0.0.0.0 mobfactory.info
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobileanalytics.us-east-2.amazonaws.com
@@ -32201,7 +33538,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ocdn.adsterra.com
 0.0.0.0 ocslab.com
 0.0.0.0 offer.alibaba.com
-0.0.0.0 offerfactory.click
 0.0.0.0 offerreality.com
 0.0.0.0 offers.impower.com
 0.0.0.0 offertrakking.info
@@ -32274,8 +33610,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ox-d.zenoviagroup.com
 0.0.0.0 ox-i.zenoviagroup.com
 0.0.0.0 ozonemedia.adbureau.net
-0.0.0.0 oz.valueclick.com
-0.0.0.0 oz.valueclick.ne.jp
 0.0.0.0 p0rnuha.com
 0.0.0.0 p1.adhitzads.com
 0.0.0.0 p2.l.qq.com
@@ -32447,7 +33781,6 @@ fe80::1%lo0 localhost
 0.0.0.0 primetime.ad.primetime.net
 0.0.0.0 privitize.com
 0.0.0.0 prizes.co.uk
-0.0.0.0 prjcq.com
 0.0.0.0 prod-e.sprtad.com
 0.0.0.0 productopinionpanel.com
 0.0.0.0 productresearchpanel.com
@@ -32574,7 +33907,6 @@ fe80::1%lo0 localhost
 0.0.0.0 r.ace.advertising.com
 0.0.0.0 radaronline.advertserve.com
 0.0.0.0 rad.live.com
-0.0.0.0 r.admob.com
 0.0.0.0 rad.msn.com
 0.0.0.0 rads.stackoverflow.com
 0.0.0.0 rampagegramar.com
@@ -32592,7 +33924,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rcm-it.amazon.it
 0.0.0.0 rc.wl.webads.nl
 0.0.0.0 r.domob.cn
-0.0.0.0 rdsa2012.com
 0.0.0.0 realads.realmedia.com
 0.0.0.0 realgfsbucks.com
 0.0.0.0 realizemobicom.com
@@ -33075,7 +34406,6 @@ fe80::1%lo0 localhost
 0.0.0.0 storage.bulletproofserving.com
 0.0.0.0 storage.softure.com
 0.0.0.0 stts.rbc.ru
-0.0.0.0 st.valueclick.com
 0.0.0.0 st.videojam.tv
 0.0.0.0 st.vq.ku6.cn
 0.0.0.0 su.addthis.com
@@ -33577,7 +34907,6 @@ fe80::1%lo0 localhost
 0.0.0.0 winprizesapp.com
 0.0.0.0 w.l.qq.com
 0.0.0.0 wm.baidu.com
-0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wmedia.rotator.hadj7.adjuggler.net
 0.0.0.0 worden.samenresultaat.nl
 0.0.0.0 wordplaywhiz.com
@@ -34505,7 +35834,6 @@ fe80::1%lo0 localhost
 0.0.0.0 xpcs.ads.yahoo.com
 0.0.0.0 xstatic.nk-net.pl
 0.0.0.0 y.admob.com
-0.0.0.0 yepdigital.adk2x.com
 0.0.0.0 yie4zooseif.info
 0.0.0.0 yieldmanagement.adbooth.net
 0.0.0.0 yieldmanager.net
@@ -37906,7 +39234,6 @@ fe80::1%lo0 localhost
 0.0.0.0 a-fast.com
 0.0.0.0 a.54whr.com
 0.0.0.0 a.ad-sys.com
-0.0.0.0 a.adimg.net
 0.0.0.0 a.adjapon.com
 0.0.0.0 a.adjust-sp.jp
 0.0.0.0 a.adtech.de
@@ -38166,7 +39493,6 @@ fe80::1%lo0 localhost
 0.0.0.0 a.srchtop.com
 0.0.0.0 a.stanzapub.com
 0.0.0.0 a.sucksex.com
-0.0.0.0 a.t.webtracker.jp
 0.0.0.0 a.targetingadvertiser.com
 0.0.0.0 a.targetsaver.com
 0.0.0.0 a.taunton.com
@@ -38287,7 +39613,6 @@ fe80::1%lo0 localhost
 0.0.0.0 a9shd.realshieldlinked.com
 0.0.0.0 aa-download.waw.pl
 0.0.0.0 aa.adfarm1.adition.com
-0.0.0.0 aa.impact-ad.jp
 0.0.0.0 aa.newsblock.dt07.net
 0.0.0.0 aa.reviewplus.jp
 0.0.0.0 aaa.dv0.info
@@ -38297,7 +39622,6 @@ fe80::1%lo0 localhost
 0.0.0.0 aads.go2cloud.org
 0.0.0.0 aads.us
 0.0.0.0 aafq0.voluumtrk.com
-0.0.0.0 aag.yahooapis.jp
 0.0.0.0 aajtm.voluumtrk.com
 0.0.0.0 aanserver88.com
 0.0.0.0 aaotr.com
@@ -38359,11 +39683,9 @@ fe80::1%lo0 localhost
 0.0.0.0 abtest.cap-nb.com
 0.0.0.0 abum.axelsfun.com
 0.0.0.0 abz.com
-0.0.0.0 ac.auone-net.jp
 0.0.0.0 ac.babsrv.com
 0.0.0.0 ac.berlinonline.de
 0.0.0.0 ac.express.de
-0.0.0.0 ac.i2i.jp
 0.0.0.0 ac.i2idata.com
 0.0.0.0 ac.i2iserv.com
 0.0.0.0 ac.mz-web.de
@@ -38418,7 +39740,6 @@ fe80::1%lo0 localhost
 0.0.0.0 accusearch.org
 0.0.0.0 accva.advertserve.com
 0.0.0.0 ace-webmaster.com
-0.0.0.0 ace.advertising.com
 0.0.0.0 acecounter.com
 0.0.0.0 acento.com
 0.0.0.0 acestats.com
@@ -38448,7 +39769,6 @@ fe80::1%lo0 localhost
 0.0.0.0 act.ameba.jp
 0.0.0.0 act.webmasterplan.com
 0.0.0.0 actimele.com
-0.0.0.0 action.adzcore.com
 0.0.0.0 actionads.go2cloud.org
 0.0.0.0 actionpooses.com
 0.0.0.0 actionteaser.ru
@@ -39223,7 +40543,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.2ch2.net
 0.0.0.0 ad.3322.net
 0.0.0.0 ad.37.com
-0.0.0.0 ad.3ad.doubleclick.net
 0.0.0.0 ad.3g.cn
 0.0.0.0 ad.411web.com
 0.0.0.0 ad.51yes.com
@@ -39257,7 +40576,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.adnetinteractive.com
 0.0.0.0 ad.adohana.com
 0.0.0.0 ad.adotsolution.com
-0.0.0.0 ad.adplan-ds.com
 0.0.0.0 ad.adresult.jp
 0.0.0.0 ad.adrttt.com
 0.0.0.0 ad.ads.dk
@@ -39316,13 +40634,11 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.anuntis.com
 0.0.0.0 ad.app-authority.com
 0.0.0.0 ad.appier.net
-0.0.0.0 ad.applipromotion.com
 0.0.0.0 ad.apps.fm
 0.0.0.0 ad.arbomedia.pl
 0.0.0.0 ad.asap-asp.net
 0.0.0.0 ad.asiae.co.kr
 0.0.0.0 ad.aspm.jp
-0.0.0.0 ad.atech.ne.jp
 0.0.0.0 ad.atlas.cz
 0.0.0.0 ad.atm.youku.com
 0.0.0.0 ad.aucfan.com
@@ -39384,7 +40700,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.dogpile.com
 0.0.0.0 ad.dokant.com
 0.0.0.0 ad.domainfactory.de
-0.0.0.0 ad.doubleclick.com
 0.0.0.0 ad.doubleclick.de
 0.0.0.0 ad.doubleclick.net-60563.9436.302br.net
 0.0.0.0 ad.doubleclick.net.1.6100.302br.net
@@ -50982,7 +52297,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.goo.mx
 0.0.0.0 ad.grafika.cz
 0.0.0.0 ad.gt.doubleclick.net
-0.0.0.0 ad.gunosy.com
 0.0.0.0 ad.hangame.co.jp
 0.0.0.0 ad.harmony-central.com
 0.0.0.0 ad.hatena.ne.jp
@@ -51023,7 +52337,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.is.doubleclick.net
 0.0.0.0 ad.it.chilinext.com
 0.0.0.0 ad.itbe.com
-0.0.0.0 ad.itmedia.co.jp
 0.0.0.0 ad.ittoolbox.com
 0.0.0.0 ad.jamster.co.uk
 0.0.0.0 ad.jaumo.com
@@ -51073,7 +52386,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.mediaprecision.net
 0.0.0.0 ad.mediastorm.hu
 0.0.0.0 ad.mediatoday.co.kr
-0.0.0.0 ad.mediba.jp
 0.0.0.0 ad.mediresource.com
 0.0.0.0 ad.megaclick.com
 0.0.0.0 ad.melma.com
@@ -51118,7 +52430,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.novasol.com
 0.0.0.0 ad.nrk.no
 0.0.0.0 ad.nsonmedia.com
-0.0.0.0 ad.ntv.co.jp
 0.0.0.0 ad.nwt.cz
 0.0.0.0 ad.oinadserver.com
 0.0.0.0 ad.onad.eu
@@ -51142,7 +52453,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.pensamedia.org
 0.0.0.0 ad.perfectworld.com
 0.0.0.0 ad.perfectworld.eu
-0.0.0.0 ad.ph.doubleclick.net
 0.0.0.0 ad.pickadz.com
 0.0.0.0 ad.pitattomatch.com
 0.0.0.0 ad.pitta.ne.jp
@@ -51154,7 +52464,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.popup.tbn.ru
 0.0.0.0 ad.porkolt.com
 0.0.0.0 ad.pornfuzepremium.videobox.com
-0.0.0.0 ad.pr.ameba.jp
 0.0.0.0 ad.preferances.com
 0.0.0.0 ad.primopdf.com
 0.0.0.0 ad.proxad.net
@@ -51357,7 +52666,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad1.kde.cz
 0.0.0.0 ad1.lbe.ru
 0.0.0.0 ad1.madserving.cn
-0.0.0.0 ad1.nend.net
 0.0.0.0 ad1.nozonedata.com
 0.0.0.0 ad1.paycount.com
 0.0.0.0 ad1.primorye.ru
@@ -51734,7 +53042,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad2.data.ero-advertising.com
 0.0.0.0 ad2.easou.com
 0.0.0.0 ad2.ero-advertising.com
-0.0.0.0 ad2.fivecdm.com
 0.0.0.0 ad2.gyaloglo.hu
 0.0.0.0 ad2.hangame.co.jp
 0.0.0.0 ad2.hpg.com.br
@@ -51744,7 +53051,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad2.linxcz.cz
 0.0.0.0 ad2.lupa.cz
 0.0.0.0 ad2.mamma.com
-0.0.0.0 ad2.nend.net
 0.0.0.0 ad2.pamedia.com.au
 0.0.0.0 ad2.paycount.com
 0.0.0.0 ad2.pop.com.br
@@ -52017,13 +53323,11 @@ fe80::1%lo0 localhost
 0.0.0.0 ad3.clickhype.com
 0.0.0.0 ad3.cross-a.net
 0.0.0.0 ad3.data.ero-advertising.com
-0.0.0.0 ad3.doubleclick.net
 0.0.0.0 ad3.doublepimp.com
 0.0.0.0 ad3.fpa.ero-advertising.com
 0.0.0.0 ad3.hpg.com.br
 0.0.0.0 ad3.iinfo.cz
 0.0.0.0 ad3.liverail.com
-0.0.0.0 ad3.nend.net
 0.0.0.0 ad3.pamedia.com.au
 0.0.0.0 ad3.paycount.com
 0.0.0.0 ad3.peel.com
@@ -52166,12 +53470,10 @@ fe80::1%lo0 localhost
 0.0.0.0 ad4.api.ero-advertising.com
 0.0.0.0 ad4.banners.ero-advertising.com
 0.0.0.0 ad4.bb.ru
-0.0.0.0 ad4.doubleclick.net
 0.0.0.0 ad4.enet.com.cn
 0.0.0.0 ad4.hpg.com.br
 0.0.0.0 ad4.i2i.jp
 0.0.0.0 ad4.layerads.ero-advertising.com
-0.0.0.0 ad4.nend.net
 0.0.0.0 ad4.paycount.com
 0.0.0.0 ad4.sina.com.cn
 0.0.0.0 ad4.thumbs.ero-advertising.com
@@ -52318,11 +53620,9 @@ fe80::1%lo0 localhost
 0.0.0.0 ad5.banners.ero-advertising.com
 0.0.0.0 ad5.bb.ru
 0.0.0.0 ad5.data.ero-advertising.com
-0.0.0.0 ad5.doubleclick.net
 0.0.0.0 ad5.fpa.ero-advertising.com
 0.0.0.0 ad5.hpg.com.br
 0.0.0.0 ad5.liverail.com
-0.0.0.0 ad5.nend.net
 0.0.0.0 ad5.paycount.com
 0.0.0.0 ad50.hpg.com.br
 0.0.0.0 ad50.paycount.com
@@ -52363,9 +53663,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ad6.banners.ero-advertising.com
 0.0.0.0 ad6.bb.ru
 0.0.0.0 ad6.data.ero-advertising.com
-0.0.0.0 ad6.doubleclick.net
 0.0.0.0 ad6.hpg.com.br
-0.0.0.0 ad6.nend.net
 0.0.0.0 ad6.paycount.com
 0.0.0.0 ad60.hpg.com.br
 0.0.0.0 ad60.paycount.com
@@ -52406,9 +53704,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ad7.banners.ero-advertising.com
 0.0.0.0 ad7.bb.ru
 0.0.0.0 ad7.data.ero-advertising.com
-0.0.0.0 ad7.doubleclick.net
 0.0.0.0 ad7.hpg.com.br
-0.0.0.0 ad7.nend.net
 0.0.0.0 ad7.paycount.com
 0.0.0.0 ad7.thumbs.ero-advertising.com
 0.0.0.0 ad70.hpg.com.br
@@ -52448,9 +53744,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ad8.banners.ero-advertising.com
 0.0.0.0 ad8.bb.ru
 0.0.0.0 ad8.data.ero-advertising.com
-0.0.0.0 ad8.doubleclick.net
 0.0.0.0 ad8.hpg.com.br
-0.0.0.0 ad8.nend.net
 0.0.0.0 ad8.paycount.com
 0.0.0.0 ad80.hpg.com.br
 0.0.0.0 ad80.paycount.com
@@ -52486,9 +53780,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ad8m.adk2.co
 0.0.0.0 ad9.adfarm1.adition.com
 0.0.0.0 ad9.bb.ru
-0.0.0.0 ad9.doubleclick.net
 0.0.0.0 ad9.hpg.com.br
-0.0.0.0 ad9.nend.net
 0.0.0.0 ad9.paycount.com
 0.0.0.0 ad90.hpg.com.br
 0.0.0.0 ad90.paycount.com
@@ -52538,7 +53830,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adart.go2cloud.org
 0.0.0.0 adash.m.taobao.com
 0.0.0.0 adattract.go2cloud.org
-0.0.0.0 adb.nikkei.co.jp
 0.0.0.0 adbaaz.com
 0.0.0.0 adbank.go2cloud.org
 0.0.0.0 adbanner.cz
@@ -52584,7 +53875,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adc.dreamwiz.com
 0.0.0.0 adc.go2cloud.org
 0.0.0.0 adc.media-rep.com
-0.0.0.0 adc.medibaad.com
 0.0.0.0 adc.menue.jp
 0.0.0.0 adc.people-group.su
 0.0.0.0 adc.tripple.at
@@ -52948,13 +54238,9 @@ fe80::1%lo0 localhost
 0.0.0.0 adklo.com
 0.0.0.0 adknowledge.com
 0.0.0.0 adkompan.go2cloud.org
-0.0.0.0 adl-wf4.s2.atlnet.jp
-0.0.0.0 adl-wf5v.s3.atlnet.jp
-0.0.0.0 adl-wf6v1.atlnet.jp
 0.0.0.0 adland.co.il
 0.0.0.0 adland.ru
 0.0.0.0 adlantic.nl
-0.0.0.0 adlantis.jp
 0.0.0.0 adlatte.co.jp
 0.0.0.0 adlatvia.com
 0.0.0.0 adlayer.net
@@ -53011,7 +54297,6 @@ fe80::1%lo0 localhost
 0.0.0.0 admaster.candela.com.au
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaster.de
-0.0.0.0 admaster.heyos.com
 0.0.0.0 admaster.union.ucweb.com
 0.0.0.0 admax.com.tr
 0.0.0.0 admax.go2cloud.org
@@ -53032,7 +54317,6 @@ fe80::1%lo0 localhost
 0.0.0.0 admex.com
 0.0.0.0 admigo.ru
 0.0.0.0 admin.abcsearch.com
-0.0.0.0 admin.ad-maker.info
 0.0.0.0 admin.ads.basal.ca
 0.0.0.0 admin.amateurgalls.com
 0.0.0.0 admin.appnext.com
@@ -53098,9 +54382,7 @@ fe80::1%lo0 localhost
 0.0.0.0 admse001.adbureau.net
 0.0.0.0 admulti.com
 0.0.0.0 admyapp.net
-0.0.0.0 adn-d.sp.gmossp-sp.jp
 0.0.0.0 adn-i.sp.gmossp-sp.jp
-0.0.0.0 adn-j.sp.gmossp-sp.jp
 0.0.0.0 adn.blinkx.com
 0.0.0.0 adn.entrecard.com
 0.0.0.0 adn.meinsol.de
@@ -53131,7 +54413,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adnimation.com
 0.0.0.0 adnoble.com
 0.0.0.0 adnotch.com
-0.0.0.0 adntokyo.gunosy.com
 0.0.0.0 adnxs1.com
 0.0.0.0 ado.internet.cz
 0.0.0.0 adobemcspb.b.sc.omtrdc.net
@@ -53239,7 +54520,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adrolays.de
 0.0.0.0 adrotate.de
 0.0.0.0 adrotator.net
-0.0.0.0 adroute.focas.jp
 0.0.0.0 adrspain.go2cloud.org
 0.0.0.0 adrta.com
 0.0.0.0 adrtrklnk.com
@@ -53317,7 +54597,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.adjalauto.com
 0.0.0.0 ads.adjet.de
 0.0.0.0 ads.adjust-net.biz
-0.0.0.0 ads.adjust-net.jp
 0.0.0.0 ads.adlayout.net
 0.0.0.0 ads.admez.com
 0.0.0.0 ads.administrator.de
@@ -53553,8 +54832,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.dns-look-up.com
 0.0.0.0 ads.docmorris.de
 0.0.0.0 ads.doktoronline.no
-0.0.0.0 ads.doubleclick.com
-0.0.0.0 ads.doubleclick.net
 0.0.0.0 ads.doublemax.net
 0.0.0.0 ads.doublepimp.com
 0.0.0.0 ads.downloadmix.de
@@ -53745,7 +55022,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.ibibo.com
 0.0.0.0 ads.ibryte.com
 0.0.0.0 ads.iconpeak.com
-0.0.0.0 ads.ict.valueclick.jp
 0.0.0.0 ads.identa.bg
 0.0.0.0 ads.idg.com.pl
 0.0.0.0 ads.idgnow.com.br
@@ -53818,7 +55094,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.lebenna.com
 0.0.0.0 ads.leovegas.com
 0.0.0.0 ads.letemps.ch
-0.0.0.0 ads.lidr.valueclick.jp
 0.0.0.0 ads.link.valueclick.net
 0.0.0.0 ads.linkbucks.com
 0.0.0.0 ads.liteweb.net
@@ -55229,7 +56504,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adserver.tradingmarkets.com
 0.0.0.0 adserver.trafficperformance.de
 0.0.0.0 adserver.trellian.com
-0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver.us.outblaze.com
 0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.wasabimediagroup.com
@@ -55459,9 +56733,7 @@ fe80::1%lo0 localhost
 0.0.0.0 adsystem.tt-forums.net
 0.0.0.0 adsytipl.indiatimes.com
 0.0.0.0 adszila.net
-0.0.0.0 adt.measure.ameblo.jp
 0.0.0.0 adtackmedia.go2cloud.org
-0.0.0.0 adtag.ad-stir.com
 0.0.0.0 adtagger.com
 0.0.0.0 adtaily.eu
 0.0.0.0 adtank.go2cloud.org
@@ -55592,7 +56864,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adv.imho.se
 0.0.0.0 adv.isdn.cz
 0.0.0.0 adv.linear.it
-0.0.0.0 adv.livedoor.com
 0.0.0.0 adv.m88sb.com
 0.0.0.0 adv.musixmatch.com
 0.0.0.0 adv.mytech.bg
@@ -55748,7 +57019,6 @@ fe80::1%lo0 localhost
 0.0.0.0 advertis.go2cloud.org
 0.0.0.0 advertise.about.com
 0.0.0.0 advertise.netster.com
-0.0.0.0 advertise.sakura.ne.jp
 0.0.0.0 advertise.tucows.com
 0.0.0.0 advertise.twitpic.com
 0.0.0.0 advertiseforfree.co.za
@@ -55888,7 +57158,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adwitserver.com
 0.0.0.0 adwolf.eu
 0.0.0.0 adword2301.go2cloud.org
-0.0.0.0 adwords.google.com
 0.0.0.0 adwords.immortalnight.com
 0.0.0.0 adworkmedia.com
 0.0.0.0 adworkmedia.net
@@ -56051,7 +57320,6 @@ fe80::1%lo0 localhost
 0.0.0.0 affiliate.offgamers.com
 0.0.0.0 affiliate.paidonresults.com
 0.0.0.0 affiliate.plugnpay.com
-0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 affiliate.rakuten.com
 0.0.0.0 affiliate.redtubefiles.com
 0.0.0.0 affiliate.resellerclub.com
@@ -56307,7 +57575,6 @@ fe80::1%lo0 localhost
 0.0.0.0 aim4.adsoftware.com
 0.0.0.0 aim4media.com
 0.0.0.0 aim5.adsoftware.com
-0.0.0.0 aimds.er.cyberwing.co.jp
 0.0.0.0 aimg.fc2.com
 0.0.0.0 aimphuck.com
 0.0.0.0 aimtoday.aol.com
@@ -56326,7 +57593,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ajnad.aljazeera.net
 0.0.0.0 ajouter.net
 0.0.0.0 ak-ns.sascdn.com
-0.0.0.0 ak.assets.adlantis.jp
 0.0.0.0 ak.bluestreak.com
 0.0.0.0 ak.dr.cyberwing.co.jp
 0.0.0.0 ak.exe.imgfarm.com
@@ -56398,7 +57664,6 @@ fe80::1%lo0 localhost
 0.0.0.0 all4ad.cn
 0.0.0.0 all4ad.net
 0.0.0.0 all4spy.com
-0.0.0.0 allabout.122.2o7.net
 0.0.0.0 alladream.go2cloud.org
 0.0.0.0 alladvantage.com
 0.0.0.0 allantivirus.net
@@ -56445,7 +57710,6 @@ fe80::1%lo0 localhost
 0.0.0.0 alt.bugsense.appspot.com
 0.0.0.0 alt.bugsense.com
 0.0.0.0 alt.com
-0.0.0.0 altech-ads.com
 0.0.0.0 altfarm.mediaplex.com.27517.9211.302br.net
 0.0.0.0 altfarm.mediaplex.com.32246.9211.302br.net
 0.0.0.0 altfarm.mediaplex.com.32247.9211.302br.net
@@ -56505,15 +57769,12 @@ fe80::1%lo0 localhost
 0.0.0.0 amazingsalez.ru
 0.0.0.0 amazlink.fuyu.gs
 0.0.0.0 amazon-adsystem.com
-0.0.0.0 amazon.doubleclick.com
 0.0.0.0 amazon.oret.jp
 0.0.0.0 amazoo.longseller.org
 0.0.0.0 amber-arendt.us
 0.0.0.0 amclicks.com
 0.0.0.0 amconf.videoegg.com
-0.0.0.0 ameba.d.ad-cloud.jp
 0.0.0.0 amedia.techies.com
-0.0.0.0 americanexpress.122.2o7.net
 0.0.0.0 americash.com
 0.0.0.0 amhen.com.ru
 0.0.0.0 ami.pointroll.com
@@ -56582,7 +57843,6 @@ fe80::1%lo0 localhost
 0.0.0.0 an.appads.com
 0.0.0.0 an.blamads.com
 0.0.0.0 an.pxl.ace.advertising.com
-0.0.0.0 ana.112.2o7.net
 0.0.0.0 ana2.tatsumi-sys.jp
 0.0.0.0 anahtars.com
 0.0.0.0 analy.qq.com
@@ -56607,7 +57867,6 @@ fe80::1%lo0 localhost
 0.0.0.0 analytics.adspaces.ero-advertising.com
 0.0.0.0 analytics.ambient-platform.com
 0.0.0.0 analytics.apnewsregistry.com
-0.0.0.0 analytics.app-adforce.jp
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.arubamediamarketing.it
 0.0.0.0 analytics.beeznest.com
@@ -56696,17 +57955,11 @@ fe80::1%lo0 localhost
 0.0.0.0 analyzer-img.fc2.com
 0.0.0.0 analyzer.dip.jp
 0.0.0.0 analyzer.dtiblog.com
-0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer.liveads.no
 0.0.0.0 analyzer.pasta.dianxinos.com
 0.0.0.0 analyzer1.apps.netowl.jp
 0.0.0.0 analyzer2.dtiblog.com
-0.0.0.0 analyzer2.fc2.com
-0.0.0.0 analyzer3.fc2.com
-0.0.0.0 analyzer4.fc2.com
-0.0.0.0 analyzer5.fc2.com
 0.0.0.0 analyzer52.fc2.com
-0.0.0.0 analyzer53.fc2.com
 0.0.0.0 analyzer54.fc2.com
 0.0.0.0 analyzer55.fc2.com
 0.0.0.0 anandtech.bizrate.com
@@ -56856,7 +58109,6 @@ fe80::1%lo0 localhost
 0.0.0.0 api.ad-patrick.com
 0.0.0.0 api.ad-stir.com
 0.0.0.0 api.ad.ly
-0.0.0.0 api.ad.mediba.jp
 0.0.0.0 api.adcome.cn
 0.0.0.0 api.adfurikun.jp
 0.0.0.0 api.adgg.jp
@@ -56864,10 +58116,8 @@ fe80::1%lo0 localhost
 0.0.0.0 api.ads.mixi.jp
 0.0.0.0 api.ads.oneriot.com
 0.0.0.0 api.adyoulike.com
-0.0.0.0 api.app-c.net
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.applifier.com
-0.0.0.0 api.applogsdk.com
 0.0.0.0 api.appmedia.cn
 0.0.0.0 api.appoxee.com
 0.0.0.0 api.appsflyer.com
@@ -56918,7 +58168,6 @@ fe80::1%lo0 localhost
 0.0.0.0 api.lazyswipe.com
 0.0.0.0 api.lmmob.com
 0.0.0.0 api.magmamobile.com
-0.0.0.0 api.mb-click.jp
 0.0.0.0 api.mobileapptracking.com
 0.0.0.0 api.mobpartner.mobi
 0.0.0.0 api.mobula.sdk.duapps.com
@@ -56957,7 +58206,6 @@ fe80::1%lo0 localhost
 0.0.0.0 api.tweetmeme.com
 0.0.0.0 api.umbel.com
 0.0.0.0 api.umeng.com
-0.0.0.0 api.unthem.com
 0.0.0.0 api.usersnap.com
 0.0.0.0 api.v2.sslsecure1.com
 0.0.0.0 api.v2.sslsecure10.com
@@ -57010,7 +58258,6 @@ fe80::1%lo0 localhost
 0.0.0.0 apiskywebbercom-a.akamaihd.net
 0.0.0.0 apistaging.airpush.com
 0.0.0.0 apkquery.ksmobile.net
-0.0.0.0 aplkp.valuecommerce.com
 0.0.0.0 apm.crittercism.com
 0.0.0.0 apmebf.com
 0.0.0.0 apnx-match.dotomi.com
@@ -57040,7 +58287,6 @@ fe80::1%lo0 localhost
 0.0.0.0 app.app-authority.com
 0.0.0.0 app.appsflyer.com
 0.0.0.0 app.bronto.com
-0.0.0.0 app.click.livedoor.com
 0.0.0.0 app.cocolog-nifty.com
 0.0.0.0 app.compete.com
 0.0.0.0 app.cookieassistant.com
@@ -57092,7 +58338,6 @@ fe80::1%lo0 localhost
 0.0.0.0 appclick.net
 0.0.0.0 appdog.com
 0.0.0.0 appdriver.com.cn
-0.0.0.0 appdriver.jp
 0.0.0.0 appdriver.tw
 0.0.0.0 appealcircuit.com
 0.0.0.0 appel.science
@@ -57104,7 +58349,6 @@ fe80::1%lo0 localhost
 0.0.0.0 applab-sdk.amazon.com
 0.0.0.0 applebarq.com
 0.0.0.0 appledaily.apx.appier.net
-0.0.0.0 appleglobal.112.2o7.net
 0.0.0.0 appleitl.rewards-bonanza-2.com
 0.0.0.0 applestoreus.112.2o7.net
 0.0.0.0 application.bfast.com
@@ -57224,7 +58468,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ard.gree.net
 0.0.0.0 ard.ihookup.com
 0.0.0.0 ard.ivwbox.de
-0.0.0.0 ard.yahoo.co.jp
 0.0.0.0 ardboers.ivwbox.de
 0.0.0.0 are-ter.com
 0.0.0.0 areasins.com
@@ -57262,14 +58505,12 @@ fe80::1%lo0 localhost
 0.0.0.0 as.ad611.com
 0.0.0.0 as.adwave.com
 0.0.0.0 as.air2s.com
-0.0.0.0 as.bb.impact-ad.jp
 0.0.0.0 as.bs.impact-ad.jp
 0.0.0.0 as.cd.impact-ad.jp
 0.0.0.0 as.ch.impact-ad.jp
 0.0.0.0 as.chango.com
 0.0.0.0 as.clearspring.com
 0.0.0.0 as.cmpnet.com
-0.0.0.0 as.dc.impact-ad.jp
 0.0.0.0 as.fotexnet.hu
 0.0.0.0 as.gamebox.com
 0.0.0.0 as.gettyservices.com
@@ -57279,15 +58520,12 @@ fe80::1%lo0 localhost
 0.0.0.0 as.inbox.com
 0.0.0.0 as.innity.com
 0.0.0.0 as.it.impact-ad.jp
-0.0.0.0 as.jc.impact-ad.jp
 0.0.0.0 as.lb.impact-ad.jp
 0.0.0.0 as.mc.impact-ad.jp
 0.0.0.0 as.mf.impact-ad.jp
 0.0.0.0 as.mv.impact-ad.jp
 0.0.0.0 as.ns.impact-ad.jp
-0.0.0.0 as.nw.impact-ad.jp
 0.0.0.0 as.py.impact-ad.jp
-0.0.0.0 as.se.impact-ad.jp
 0.0.0.0 as.sinahk.net
 0.0.0.0 as.sp.impact-ad.jp
 0.0.0.0 as.starware.com
@@ -57305,7 +58543,6 @@ fe80::1%lo0 localhost
 0.0.0.0 as5000.wunderground.com
 0.0.0.0 asa.brwavz.com
 0.0.0.0 asahishimbun.112.2o7.net
-0.0.0.0 asahishimbun.122.2o7.net
 0.0.0.0 asamplequestionsonasurvey.com
 0.0.0.0 asciimw-apis.jp
 0.0.0.0 ashanti.sexybabesx.com
@@ -57577,7 +58814,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ax6.a.cocolog-nifty.com
 0.0.0.0 ax6.a.tea-nifty.com
 0.0.0.0 axa.addcontrol.net
-0.0.0.0 axad.shinobi.jp
 0.0.0.0 axaldjqt.cn
 0.0.0.0 axeds.com
 0.0.0.0 axelsfun.com
@@ -57681,9 +58917,7 @@ fe80::1%lo0 localhost
 0.0.0.0 b0bsi.voluumtrk.com
 0.0.0.0 b1.2cnt.net
 0.0.0.0 b1.boards2go.com
-0.0.0.0 b1.yahoo.co.jp
 0.0.0.0 b10.nakanohito.jp
-0.0.0.0 b10.yahoo.co.jp
 0.0.0.0 b11.nakanohito.jp
 0.0.0.0 b117f8da23446a91387efea0e428392a.pl
 0.0.0.0 b12.myspace.com
@@ -57697,7 +58931,6 @@ fe80::1%lo0 localhost
 0.0.0.0 b2.boards2go.com
 0.0.0.0 b2.msn-blocking.com
 0.0.0.0 b2.sitemeter.com
-0.0.0.0 b2.yahoo.co.jp
 0.0.0.0 b22b15b8b99fac60bd7cb6566b2e92034ebef6ee.sdk.testflightapp.com
 0.0.0.0 b23.ru
 0.0.0.0 b243-4eb2-8667-4a30.reporo.net
@@ -57708,29 +58941,21 @@ fe80::1%lo0 localhost
 0.0.0.0 b3-uk.mookie1.com.63430.9488.302br.net
 0.0.0.0 b3.rivalgaming.com
 0.0.0.0 b3.toparcadehits.com
-0.0.0.0 b3.yahoo.co.jp
 0.0.0.0 b344-7507-e4c2-b742.reporo.net
 0.0.0.0 b365.2cnt.net
 0.0.0.0 b36df47b3d.site.internapcdn.net
 0.0.0.0 b4.rivalgaming.com
 0.0.0.0 b4.toparcadehits.com
-0.0.0.0 b4.yahoo.co.jp
 0.0.0.0 b4psads.com
-0.0.0.0 b5.yahoo.co.jp
 0.0.0.0 b5wpo.voluumtrk.com
-0.0.0.0 b6.yahoo.co.jp
 0.0.0.0 b7.sitemeter.com
-0.0.0.0 b7.yahoo.co.jp
 0.0.0.0 b72.cnzz.com
-0.0.0.0 b8.yahoo.co.jp
-0.0.0.0 b9.yahoo.co.jp
 0.0.0.0 b91.yahoo.co.jp
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b99217.r.axf8.net
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 ba.ccm2.net
 0.0.0.0 ba.kioskea.net
-0.0.0.0 ba1.shinobi.jp
 0.0.0.0 ba2b687.se
 0.0.0.0 ba42-c08c-2e10-c6e3.reporo.net
 0.0.0.0 ba965.voluumtrk.com
@@ -57931,35 +59156,25 @@ fe80::1%lo0 localhost
 0.0.0.0 bank00.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank01.clicks.mp.mydas.mobi
 0.0.0.0 bank01.mi.ads.mp.mydas.mobi
-0.0.0.0 bank01.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank02.clicks.mp.mydas.mobi
 0.0.0.0 bank02.mi.ads.mp.mydas.mobi
-0.0.0.0 bank02.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank03.clicks.mp.mydas.mobi
 0.0.0.0 bank03.mi.ads.mp.mydas.mobi
-0.0.0.0 bank03.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank04.clicks.mp.mydas.mobi
 0.0.0.0 bank04.mi.ads.mp.mydas.mobi
-0.0.0.0 bank04.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank05.clicks.mp.mydas.mobi
 0.0.0.0 bank05.mi.ads.mp.mydas.mobi
-0.0.0.0 bank05.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank06.clicks.mp.mydas.mobi
 0.0.0.0 bank06.mi.ads.mp.mydas.mobi
-0.0.0.0 bank06.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank07.clicks.mp.mydas.mobi
 0.0.0.0 bank07.mi.ads.mp.mydas.mobi
-0.0.0.0 bank07.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank08.clicks.mp.mydas.mobi
 0.0.0.0 bank08.mi.ads.mp.mydas.mobi
-0.0.0.0 bank08.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank09.clicks.mp.mydas.mobi
 0.0.0.0 bank09.mi.ads.mp.mydas.mobi
-0.0.0.0 bank09.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank1.clicks.mp.mydas.mobi
 0.0.0.0 bank10.clicks.mp.mydas.mobi
 0.0.0.0 bank10.mi.ads.mp.mydas.mobi
-0.0.0.0 bank10.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank100.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank101.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank102.mi.clicks.mp.mydas.mobi
@@ -57972,7 +59187,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bank109.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank11.clicks.mp.mydas.mobi
 0.0.0.0 bank11.mi.ads.mp.mydas.mobi
-0.0.0.0 bank11.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank110.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank111.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank112.mi.clicks.mp.mydas.mobi
@@ -57985,7 +59199,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bank119.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank12.clicks.mp.mydas.mobi
 0.0.0.0 bank12.mi.ads.mp.mydas.mobi
-0.0.0.0 bank12.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank120.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank121.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank122.mi.clicks.mp.mydas.mobi
@@ -57998,7 +59211,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bank129.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank13.clicks.mp.mydas.mobi
 0.0.0.0 bank13.mi.ads.mp.mydas.mobi
-0.0.0.0 bank13.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank130.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank131.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank132.mi.clicks.mp.mydas.mobi
@@ -58009,14 +59221,11 @@ fe80::1%lo0 localhost
 0.0.0.0 bank137.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank138.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank139.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank14.ads.mp.mydas.mobi
 0.0.0.0 bank14.clicks.mp.mydas.mobi
 0.0.0.0 bank14.mi.ads.mp.mydas.mobi
-0.0.0.0 bank14.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank140.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank15.clicks.mp.mydas.mobi
 0.0.0.0 bank15.mi.ads.mp.mydas.mobi
-0.0.0.0 bank15.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank150.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank151.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank152.mi.clicks.mp.mydas.mobi
@@ -58029,7 +59238,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bank159.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank16.clicks.mp.mydas.mobi
 0.0.0.0 bank16.mi.ads.mp.mydas.mobi
-0.0.0.0 bank16.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank160.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank161.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank162.mi.clicks.mp.mydas.mobi
@@ -58038,123 +59246,65 @@ fe80::1%lo0 localhost
 0.0.0.0 bank165.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank17.clicks.mp.mydas.mobi
 0.0.0.0 bank17.mi.ads.mp.mydas.mobi
-0.0.0.0 bank17.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank18.clicks.mp.mydas.mobi
 0.0.0.0 bank18.mi.ads.mp.mydas.mobi
-0.0.0.0 bank18.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank19.clicks.mp.mydas.mobi
 0.0.0.0 bank19.mi.ads.mp.mydas.mobi
-0.0.0.0 bank19.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank20.clicks.mp.mydas.mobi
 0.0.0.0 bank20.mi.ads.mp.mydas.mobi
-0.0.0.0 bank20.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank21.ads.mp.mydas.mobi
 0.0.0.0 bank21.clicks.mp.mydas.mobi
 0.0.0.0 bank21.mi.ads.mp.mydas.mobi
-0.0.0.0 bank21.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank22.ads.mp.mydas.mobi
 0.0.0.0 bank22.clicks.mp.mydas.mobi
 0.0.0.0 bank22.mi.ads.mp.mydas.mobi
-0.0.0.0 bank22.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank23.ads.mp.mydas.mobi
 0.0.0.0 bank23.clicks.mp.mydas.mobi
 0.0.0.0 bank23.mi.ads.mp.mydas.mobi
-0.0.0.0 bank23.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank24.ads.mp.mydas.mobi
 0.0.0.0 bank24.clicks.mp.mydas.mobi
 0.0.0.0 bank24.mi.ads.mp.mydas.mobi
-0.0.0.0 bank24.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank25.ads.mp.mydas.mobi
 0.0.0.0 bank25.clicks.mp.mydas.mobi
 0.0.0.0 bank25.mi.ads.mp.mydas.mobi
-0.0.0.0 bank25.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank26.ads.mp.mydas.mobi
 0.0.0.0 bank26.clicks.mp.mydas.mobi
 0.0.0.0 bank26.mi.ads.mp.mydas.mobi
-0.0.0.0 bank26.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank27.ads.mp.mydas.mobi
 0.0.0.0 bank27.clicks.mp.mydas.mobi
 0.0.0.0 bank27.mi.ads.mp.mydas.mobi
-0.0.0.0 bank27.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank28.ads.mp.mydas.mobi
 0.0.0.0 bank28.clicks.mp.mydas.mobi
 0.0.0.0 bank28.mi.ads.mp.mydas.mobi
-0.0.0.0 bank28.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank29.ads.mp.mydas.mobi
 0.0.0.0 bank29.clicks.mp.mydas.mobi
 0.0.0.0 bank29.mi.ads.mp.mydas.mobi
-0.0.0.0 bank29.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank30.ads.mp.mydas.mobi
 0.0.0.0 bank30.clicks.mp.mydas.mobi
 0.0.0.0 bank30.mi.ads.mp.mydas.mobi
-0.0.0.0 bank30.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank31.ads.mp.mydas.mobi
 0.0.0.0 bank31.clicks.mp.mydas.mobi
 0.0.0.0 bank31.mi.ads.mp.mydas.mobi
-0.0.0.0 bank31.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank32.ads.mp.mydas.mobi
 0.0.0.0 bank32.clicks.mp.mydas.mobi
 0.0.0.0 bank32.mi.ads.mp.mydas.mobi
-0.0.0.0 bank32.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank33.ads.mp.mydas.mobi
 0.0.0.0 bank33.clicks.mp.mydas.mobi
 0.0.0.0 bank33.mi.ads.mp.mydas.mobi
-0.0.0.0 bank33.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank34.ads.mp.mydas.mobi
 0.0.0.0 bank34.mi.ads.mp.mydas.mobi
-0.0.0.0 bank34.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank35.ads.mp.mydas.mobi
 0.0.0.0 bank35.clicks.mp.mydas.mobi
 0.0.0.0 bank35.mi.ads.mp.mydas.mobi
-0.0.0.0 bank35.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank36.ads.mp.mydas.mobi
 0.0.0.0 bank36.clicks.mp.mydas.mobi
 0.0.0.0 bank36.mi.ads.mp.mydas.mobi
-0.0.0.0 bank36.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank37.ads.mp.mydas.mobi
 0.0.0.0 bank37.clicks.mp.mydas.mobi
 0.0.0.0 bank37.mi.ads.mp.mydas.mobi
-0.0.0.0 bank37.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank38.ads.mp.mydas.mobi
 0.0.0.0 bank38.clicks.mp.mydas.mobi
 0.0.0.0 bank38.mi.ads.mp.mydas.mobi
-0.0.0.0 bank38.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank39.ads.mp.mydas.mobi
 0.0.0.0 bank39.clicks.mp.mydas.mobi
 0.0.0.0 bank39.mi.ads.mp.mydas.mobi
-0.0.0.0 bank39.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank40.ads.mp.mydas.mobi
 0.0.0.0 bank40.clicks.mp.mydas.mobi
 0.0.0.0 bank40.mi.ads.mp.mydas.mobi
-0.0.0.0 bank40.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank41.ads.mp.mydas.mobi
 0.0.0.0 bank41.clicks.mp.mydas.mobi
 0.0.0.0 bank41.mi.ads.mp.mydas.mobi
-0.0.0.0 bank41.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank42.ads.mp.mydas.mobi
 0.0.0.0 bank42.clicks.mp.mydas.mobi
 0.0.0.0 bank42.mi.ads.mp.mydas.mobi
-0.0.0.0 bank42.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank43.ads.mp.mydas.mobi
 0.0.0.0 bank43.clicks.mp.mydas.mobi
 0.0.0.0 bank43.mi.ads.mp.mydas.mobi
-0.0.0.0 bank43.mi.clicks.mp.mydas.mobi
-0.0.0.0 bank44.ads.mp.mydas.mobi
 0.0.0.0 bank44.clicks.mp.mydas.mobi
 0.0.0.0 bank44.mi.ads.mp.mydas.mobi
-0.0.0.0 bank44.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank45.mi.ads.mp.mydas.mobi
-0.0.0.0 bank45.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank46.mi.ads.mp.mydas.mobi
-0.0.0.0 bank46.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank47.mi.ads.mp.mydas.mobi
-0.0.0.0 bank47.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank48.mi.ads.mp.mydas.mobi
-0.0.0.0 bank48.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank49.mi.ads.mp.mydas.mobi
-0.0.0.0 bank49.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank50.mi.ads.mp.mydas.mobi
-0.0.0.0 bank50.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank51.mi.ads.mp.mydas.mobi
 0.0.0.0 bank51.mi.clicks.mp.mydas.mobi
 0.0.0.0 bank52.mi.ads.mp.mydas.mobi
@@ -59026,9 +60176,7 @@ fe80::1%lo0 localhost
 0.0.0.0 bbw.sexyads.com
 0.0.0.0 bbwgames.com
 0.0.0.0 bc-beta.ads.yahoo.com
-0.0.0.0 bc.geocities.yahoo.co.jp
 0.0.0.0 bc.nhk.jp
-0.0.0.0 bc2.fivecdm.com
 0.0.0.0 bc84-88b8-96b7-6515.reporo.net
 0.0.0.0 bcast.pw
 0.0.0.0 bcfads.com
@@ -59260,7 +60408,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bizrate.com
 0.0.0.0 bizsolutions.strands.com
 0.0.0.0 bizzclick.com
-0.0.0.0 bj.fc2.com
 0.0.0.0 bjvim.voluumtrk.com
 0.0.0.0 blabbermouth.us.intellitxt.com
 0.0.0.0 blacklightimages.com
@@ -59324,7 +60471,6 @@ fe80::1%lo0 localhost
 0.0.0.0 blogimagehost.net
 0.0.0.0 blogmark.bokee.com
 0.0.0.0 blogparts.dmm.com
-0.0.0.0 blogranking.fc2.com
 0.0.0.0 blogrankings.com
 0.0.0.0 blogrush.com
 0.0.0.0 blogscouter.cyberbuzz.jp
@@ -59335,7 +60481,6 @@ fe80::1%lo0 localhost
 0.0.0.0 blogtopsites.com
 0.0.0.0 blogultram.com
 0.0.0.0 blogupp.com
-0.0.0.0 blogvote.fc2.com
 0.0.0.0 blogwerk.wemfbox.ch
 0.0.0.0 blosee.analytics.qlook.net
 0.0.0.0 blowsearch.com
@@ -59383,7 +60528,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bncrf.voluumtrk.com
 0.0.0.0 bng3w.voluumtrk.com
 0.0.0.0 bnmq.com
-0.0.0.0 bnr.atech.ne.jp
 0.0.0.0 bnr.dff.jp
 0.0.0.0 bnr.rssad.jp
 0.0.0.0 bnr.sys.lv
@@ -60954,7 +62098,6 @@ fe80::1%lo0 localhost
 0.0.0.0 bvoau.voluumtrk.com
 0.0.0.0 bvsrv.adk2x.com
 0.0.0.0 bvtibots.cn
-0.0.0.0 bw.microad.jp
 0.0.0.0 bwhcj.voluumtrk.com
 0.0.0.0 bwin90.com
 0.0.0.0 bwp.bnet.com
@@ -60986,7 +62129,6 @@ fe80::1%lo0 localhost
 0.0.0.0 by.analytics.yahoo.co.jp
 0.0.0.0 byethost.com
 0.0.0.0 byot.adultrevenueservice.com
-0.0.0.0 bypass.ad-stir.com
 0.0.0.0 bytecenter.com
 0.0.0.0 byxng.voluumtrk.com
 0.0.0.0 bz1.shinobi.jp
@@ -60999,7 +62141,6 @@ fe80::1%lo0 localhost
 0.0.0.0 c-team.jp
 0.0.0.0 c.91wan.com
 0.0.0.0 c.9388.com
-0.0.0.0 c.a.t.webtracker.jp
 0.0.0.0 c.a2g-secure.com
 0.0.0.0 c.ad-and.com
 0.0.0.0 c.ad.ru
@@ -61011,7 +62152,6 @@ fe80::1%lo0 localhost
 0.0.0.0 c.algovid.com
 0.0.0.0 c.allegrostatic.pl
 0.0.0.0 c.am15.net
-0.0.0.0 c.ameba.d.ad-cloud.jp
 0.0.0.0 c.aol.com
 0.0.0.0 c.apple.com
 0.0.0.0 c.ato.mx
@@ -61029,8 +62169,6 @@ fe80::1%lo0 localhost
 0.0.0.0 c.cpl2.ru
 0.0.0.0 c.currentsession.net
 0.0.0.0 c.domob.cn
-0.0.0.0 c.dr.adingo.jp
-0.0.0.0 c.dr.cyberwing.co.jp
 0.0.0.0 c.fa.jd.com
 0.0.0.0 c.fc2.com
 0.0.0.0 c.flashpoint.bm
@@ -61195,13 +62333,11 @@ fe80::1%lo0 localhost
 0.0.0.0 cache.fimservecdn.com
 0.0.0.0 cache.grouplotto.com
 0.0.0.0 cache.imagehost123.com
-0.0.0.0 cache.microad.jp
 0.0.0.0 cache.opt.fimserve.com
 0.0.0.0 cache.osttirol-online.at
 0.0.0.0 cache.scbih.com
 0.0.0.0 cache.send.microad.jp
 0.0.0.0 cache.sidefind.com
-0.0.0.0 cache.ssend.microad.jp
 0.0.0.0 cache.static.userplane.com
 0.0.0.0 cache.tbcode.com
 0.0.0.0 cache.trafficmp.com
@@ -61387,7 +62523,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cast.ra.icast.cn
 0.0.0.0 cast.ra.imocha.com
 0.0.0.0 cast.trustadnetwork.net
-0.0.0.0 cast.trustclick.ne.jp
 0.0.0.0 cat.clx.ru
 0.0.0.0 cat.fr.eu.criteo.com
 0.0.0.0 cat.jp.as.criteo.com
@@ -61442,7 +62577,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cct2.o2online.de
 0.0.0.0 cczew.cn
 0.0.0.0 cd-ladsp-com.s3.amazonaws.com
-0.0.0.0 cd.ladsp.com
 0.0.0.0 cdate.122.2o7.net
 0.0.0.0 cdc006.ucast.mypop.jp
 0.0.0.0 cdcovers.cc.intellitxt.com
@@ -61608,7 +62742,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cdn.lfstmedia.com
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.liverail.com
-0.0.0.0 cdn.loka.jp
 0.0.0.0 cdn.lookery.com
 0.0.0.0 cdn.market.hiapk.com
 0.0.0.0 cdn.mb.datingadzone.com
@@ -61794,7 +62927,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cdncache2-a.akamaihd.net
 0.0.0.0 cdneu.alcoholsoftcdn.com
 0.0.0.0 cdneu.filefactscdn.com
-0.0.0.0 cdni.amoad.com
 0.0.0.0 cdnimg01.spacash.com
 0.0.0.0 cdnimg02.spacash.com
 0.0.0.0 cdnk.interclick.com
@@ -61862,7 +62994,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cesp.be
 0.0.0.0 cex.io
 0.0.0.0 cf-db01.clickfacts.com
-0.0.0.0 cf.ad-v.jp
 0.0.0.0 cf.adcloud.net
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 cf.doublemax.net
@@ -62106,7 +63237,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cjmooter.xcache.kinxcdn.com
 0.0.0.0 cjsab.com
 0.0.0.0 ck.ads.affinity.com
-0.0.0.0 ck.jp.ap.valuecommerce.com
 0.0.0.0 ck.juicyads.com
 0.0.0.0 ck.solocpm.com
 0.0.0.0 ck2.devopenserv.com
@@ -62200,7 +63330,6 @@ fe80::1%lo0 localhost
 0.0.0.0 click.dagbladet.no
 0.0.0.0 click.datablocks.net
 0.0.0.0 click.dpbill.com
-0.0.0.0 click.dtiserv2.com
 0.0.0.0 click.duga.jp
 0.0.0.0 click.easilyfound.com
 0.0.0.0 click.engage.xbox.com
@@ -62376,7 +63505,6 @@ fe80::1%lo0 localhost
 0.0.0.0 clicks.312search.com
 0.0.0.0 clicks.ads.netlog.com
 0.0.0.0 clicks.adzones.com
-0.0.0.0 clicks.atdmt.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clicks.babylon-x.com
 0.0.0.0 clicks.bannerboxes.com
@@ -62578,7 +63706,6 @@ fe80::1%lo0 localhost
 0.0.0.0 cm.ibs.overture.com
 0.0.0.0 cm.it.kataweb.overture.com
 0.0.0.0 cm.ivillage.overture.com
-0.0.0.0 cm.jp.overture.com
 0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.mobiletimes.info
 0.0.0.0 cm.mtv.overture.com
@@ -62661,10 +63788,8 @@ fe80::1%lo0 localhost
 0.0.0.0 cnota.cn
 0.0.0.0 cnsmin.3721.com
 0.0.0.0 cnstats.cdev.eu
-0.0.0.0 cnt.affiliate.fc2.com
 0.0.0.0 cnt.diary.ne.jp
 0.0.0.0 cnt.ecounter.bg
-0.0.0.0 cnt.fc2web.com
 0.0.0.0 cnt.in.bookmyshow.com
 0.0.0.0 cnt.likealaugh.org
 0.0.0.0 cnt.logoslovo.ru
@@ -62850,7 +63975,6 @@ fe80::1%lo0 localhost
 0.0.0.0 connect.newzia.jp
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.quoka.de
-0.0.0.0 connect.tapjoy.com
 0.0.0.0 connect001.com
 0.0.0.0 connectbot.org
 0.0.0.0 connectedhome.digidip.net
@@ -62941,7 +64065,6 @@ fe80::1%lo0 localhost
 0.0.0.0 contentclick.akamaized.net
 0.0.0.0 contentd.fundsforngos.org
 0.0.0.0 contentlockingnetworks.com
-0.0.0.0 contents.adingo.jp.eimg.jp
 0.0.0.0 contents.sex-explorer.com
 0.0.0.0 contents00.adingo.jp.eimg.jp
 0.0.0.0 contents01.adingo.jp.eimg.jp
@@ -64385,7 +65508,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ct1.choumusubi.com
 0.0.0.0 ct1.ojaru.jp
 0.0.0.0 ct1.okoshi-yasu.com
-0.0.0.0 ct1.shinobi.jp
 0.0.0.0 ct1.tiyogami.com
 0.0.0.0 ct1.tumabeni.com
 0.0.0.0 ct1.xrea.com
@@ -64521,11 +65643,9 @@ fe80::1%lo0 localhost
 0.0.0.0 d.admazing.com
 0.0.0.0 d.adresult-sp.jp
 0.0.0.0 d.adsbyisocket.com
-0.0.0.0 d.adticker.net
 0.0.0.0 d.adx.io
 0.0.0.0 d.afdads.com
 0.0.0.0 d.afftrx.com
-0.0.0.0 d.amoad.com
 0.0.0.0 d.annarbor.com
 0.0.0.0 d.appsdt.com
 0.0.0.0 d.billyaffcontent.com
@@ -64540,7 +65660,6 @@ fe80::1%lo0 localhost
 0.0.0.0 d.delivery49.com
 0.0.0.0 d.delivery51.com
 0.0.0.0 d.dianru.com
-0.0.0.0 d.exit-ad.com
 0.0.0.0 d.financenewsalert.com
 0.0.0.0 d.foxadd.com
 0.0.0.0 d.gettvwizard.com
@@ -64562,8 +65681,6 @@ fe80::1%lo0 localhost
 0.0.0.0 d.rapsio.com
 0.0.0.0 d.recomendedsite.com
 0.0.0.0 d.refinedads.com
-0.0.0.0 d.socdm.com
-0.0.0.0 d.sprout-ad.com
 0.0.0.0 d.thelocal.com
 0.0.0.0 d.topindex.cz
 0.0.0.0 d.tradex.openx.com
@@ -65323,7 +66440,6 @@ fe80::1%lo0 localhost
 0.0.0.0 displayincloud.adk2.co
 0.0.0.0 displaypagerank.com
 0.0.0.0 dist.ad-stir.com
-0.0.0.0 dist.adp.ad-stir.com
 0.0.0.0 dist.isearch.com
 0.0.0.0 distrelec-02.webtrekk.net
 0.0.0.0 distribution.cimedia.com
@@ -65371,7 +66487,6 @@ fe80::1%lo0 localhost
 0.0.0.0 dltrk.com
 0.0.0.0 dlupv9uqtjlie.cloudfront.net
 0.0.0.0 dlv.ad-serving.co
-0.0.0.0 dlv.itmedia.jp
 0.0.0.0 dlvr.adne.tv
 0.0.0.0 dlvr.t-online.de
 0.0.0.0 dlzdtt.com
@@ -65635,7 +66750,6 @@ fe80::1%lo0 localhost
 0.0.0.0 drb34.voluumtrk.com
 0.0.0.0 drd.hauchi.com.tw
 0.0.0.0 dreamlands.net
-0.0.0.0 dreamlove.h.fc2.com
 0.0.0.0 dreamsearch.or.kr
 0.0.0.0 drinkmy.com
 0.0.0.0 drippler.helpshift.com
@@ -65676,7 +66790,6 @@ fe80::1%lo0 localhost
 0.0.0.0 dsp.adserving.jp
 0.0.0.0 dsp.advertmediasdata.com
 0.0.0.0 dsp.bnmla.com
-0.0.0.0 dsp.fout.jp
 0.0.0.0 dsp.send.microad.jp
 0.0.0.0 dsp07.deqwas.net
 0.0.0.0 dspads.sitescout.netdna-cdn.com
@@ -65898,7 +67011,6 @@ fe80::1%lo0 localhost
 0.0.0.0 edidomus01.webtrekk.net
 0.0.0.0 editorial.outbrain.com
 0.0.0.0 edk5y.voluumtrk.com
-0.0.0.0 edmundscom.112.2o7.net
 0.0.0.0 edna-read.us
 0.0.0.0 edomz.com
 0.0.0.0 edomz.net
@@ -66234,7 +67346,6 @@ fe80::1%lo0 localhost
 0.0.0.0 emwsz.voluumtrk.com
 0.0.0.0 en.adition.com
 0.0.0.0 en.adtech.info
-0.0.0.0 en.mywebzines.com
 0.0.0.0 en.oxosurf.eu
 0.0.0.0 encorebarnsley.co.uk
 0.0.0.0 encrypted.reporo.net
@@ -66377,7 +67488,6 @@ fe80::1%lo0 localhost
 0.0.0.0 errorkiller.com
 0.0.0.0 errorout.com
 0.0.0.0 errorrepairtool.com
-0.0.0.0 errors.jp18.com
 0.0.0.0 errors.servik.com
 0.0.0.0 errorskydd.com
 0.0.0.0 errorsmart.com
@@ -66508,7 +67618,6 @@ fe80::1%lo0 localhost
 0.0.0.0 eve-hy.us
 0.0.0.0 eveitoki.com
 0.0.0.0 event-dev.adotsolution.com
-0.0.0.0 event-img.qwapi.com
 0.0.0.0 event.adotsolution.com
 0.0.0.0 event.adxpose.com
 0.0.0.0 event.previewnetworks.com
@@ -67702,7 +68811,6 @@ fe80::1%lo0 localhost
 0.0.0.0 frog.wix.com
 0.0.0.0 frogsthemes.go2cloud.org
 0.0.0.0 from.rovion.com
-0.0.0.0 front.aid-ad.jp
 0.0.0.0 front.facetz.net
 0.0.0.0 frtye.com
 0.0.0.0 fs.moatads.com
@@ -68182,7 +69290,6 @@ fe80::1%lo0 localhost
 0.0.0.0 get.inetbar.com
 0.0.0.0 get.lingospot.com
 0.0.0.0 get.mb8e17f12.website
-0.0.0.0 get.mobu.jp
 0.0.0.0 get.netscape.com
 0.0.0.0 get.qualaroo.com
 0.0.0.0 get.quithappenbetting.com
@@ -68293,7 +69400,6 @@ fe80::1%lo0 localhost
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 global.justclick.ru
 0.0.0.0 global.reporo.net
-0.0.0.0 global.ymtracking.com
 0.0.0.0 globalismedia.com
 0.0.0.0 globaltakeoff.net
 0.0.0.0 globaltargets.go2cloud.org
@@ -68494,33 +69600,7 @@ fe80::1%lo0 localhost
 0.0.0.0 gozilla.com
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gpads.geniproj.com
-0.0.0.0 gpaper106.112.2o7.net
-0.0.0.0 gpaper134.112.2o7.net
-0.0.0.0 gpaper135.112.2o7.net
-0.0.0.0 gpaper136.112.2o7.net
-0.0.0.0 gpaper137.112.2o7.net
-0.0.0.0 gpaper143.112.2o7.net
-0.0.0.0 gpaper150.112.2o7.net
-0.0.0.0 gpaper152.112.2o7.net
 0.0.0.0 gpaper155.112.2o7.net
-0.0.0.0 gpaper160.112.2o7.net
-0.0.0.0 gpaper161.112.2o7.net
-0.0.0.0 gpaper163.112.2o7.net
-0.0.0.0 gpaper168.112.2o7.net
-0.0.0.0 gpaper175.112.2o7.net
-0.0.0.0 gpaper178.112.2o7.net
-0.0.0.0 gpaper182.112.2o7.net
-0.0.0.0 gpaper185.112.2o7.net
-0.0.0.0 gpaper186.112.2o7.net
-0.0.0.0 gpaper187.112.2o7.net
-0.0.0.0 gpaper188.112.2o7.net
-0.0.0.0 gpaper190.112.2o7.net
-0.0.0.0 gpaper199.112.2o7.net
-0.0.0.0 gpaper201.112.2o7.net
-0.0.0.0 gpaper211.112.2o7.net
-0.0.0.0 gpaper218.112.2o7.net
-0.0.0.0 gpaper231.112.2o7.net
-0.0.0.0 gpaper246.112.2o7.net
 0.0.0.0 gpapermobileapp.112.2o7.net
 0.0.0.0 gpftt.com
 0.0.0.0 gpr.hu
@@ -69028,7 +70108,6 @@ fe80::1%lo0 localhost
 0.0.0.0 hostlnks.com
 0.0.0.0 hostnetpro.com
 0.0.0.0 hostpost4.xyz
-0.0.0.0 hosts.valueclick.ne.jp
 0.0.0.0 hostscounter.com
 0.0.0.0 hot-lindsay.powered-by.zango.com
 0.0.0.0 hot-porn-clips.com
@@ -69207,7 +70286,6 @@ fe80::1%lo0 localhost
 0.0.0.0 i.adsame.com
 0.0.0.0 i.adseainnovation.com
 0.0.0.0 i.af.moshimo.com
-0.0.0.0 i.amoad.com
 0.0.0.0 i.appflood.com
 0.0.0.0 i.azjmp.com
 0.0.0.0 i.bigbn.com.ua
@@ -69217,7 +70295,6 @@ fe80::1%lo0 localhost
 0.0.0.0 i.chie8oo.com
 0.0.0.0 i.euniverse.com
 0.0.0.0 i.exclusivegiftcards.com
-0.0.0.0 i.exit-ad.com
 0.0.0.0 i.flowgo.com
 0.0.0.0 i.idownloadgalore.com
 0.0.0.0 i.image-ad.jp
@@ -69238,7 +70315,6 @@ fe80::1%lo0 localhost
 0.0.0.0 i.sbitinbsjs.info
 0.0.0.0 i.serves.live
 0.0.0.0 i.share.gree.jp
-0.0.0.0 i.socdm.com
 0.0.0.0 i.sprout-ad.com
 0.0.0.0 i.stealfrommvps.lop.com
 0.0.0.0 i.theuseful.com
@@ -69487,7 +70563,6 @@ fe80::1%lo0 localhost
 0.0.0.0 im.upromise.com
 0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 imads.rediff.com
-0.0.0.0 image-ad.jp
 0.0.0.0 image-catcher.com
 0.0.0.0 image-map.com
 0.0.0.0 image-vsc.microad.jp
@@ -69531,7 +70606,6 @@ fe80::1%lo0 localhost
 0.0.0.0 image01.ctvdigital.com
 0.0.0.0 image1.button-maker.info
 0.0.0.0 image2000.mtreexxx.net
-0.0.0.0 imageads.googleadservices.com
 0.0.0.0 imageads1.googleadservices.com
 0.0.0.0 imageads2.googleadservices.com
 0.0.0.0 imageads3.googleadservices.com
@@ -69558,7 +70632,6 @@ fe80::1%lo0 localhost
 0.0.0.0 images-mcdn.startappexchange.com
 0.0.0.0 images.1100i.com
 0.0.0.0 images.15x.net
-0.0.0.0 images.ad-maker.info
 0.0.0.0 images.adbard.net
 0.0.0.0 images.adkmob.com
 0.0.0.0 images.adprofile.net
@@ -69693,13 +70766,11 @@ fe80::1%lo0 localhost
 0.0.0.0 img.adlayout.net
 0.0.0.0 img.adpublisher.com
 0.0.0.0 img.ads-click.com
-0.0.0.0 img.ads.mixi.jp
 0.0.0.0 img.ads.mreco0.jp
 0.0.0.0 img.ads.pixiv.org
 0.0.0.0 img.ads5.mojiva.com
 0.0.0.0 img.adsag.com
 0.0.0.0 img.adsta.jp
-0.0.0.0 img.ak.impact-ad.jp
 0.0.0.0 img.alcoholsoftcdn.com
 0.0.0.0 img.alimama.cn
 0.0.0.0 img.appads.com
@@ -69715,7 +70786,6 @@ fe80::1%lo0 localhost
 0.0.0.0 img.blogsavenue.com
 0.0.0.0 img.bluehost.com
 0.0.0.0 img.bororeb.com
-0.0.0.0 img.bypass.jp
 0.0.0.0 img.centrum.sk
 0.0.0.0 img.cmpnet.com
 0.0.0.0 img.comparefacil.com
@@ -69729,7 +70799,6 @@ fe80::1%lo0 localhost
 0.0.0.0 img.filefactscdn.com
 0.0.0.0 img.fliks.net
 0.0.0.0 img.fluct.jp
-0.0.0.0 img.fluct.jp.eimg.jp
 0.0.0.0 img.focalex.com
 0.0.0.0 img.footprintlive.com
 0.0.0.0 img.freedownloadsoft.net
@@ -69819,7 +70888,6 @@ fe80::1%lo0 localhost
 0.0.0.0 img1.gogle.cn
 0.0.0.0 img1.googlesyndcation.com
 0.0.0.0 img1.ientry.net
-0.0.0.0 img1.nend.net
 0.0.0.0 img1.rankan.net
 0.0.0.0 img1.us4.outblaze.com
 0.0.0.0 img1.webring.com
@@ -69873,7 +70941,6 @@ fe80::1%lo0 localhost
 0.0.0.0 imp.pt.afl.rakuten.co.jp
 0.0.0.0 imp.startappexchange.com
 0.0.0.0 imp.xmax.jp
-0.0.0.0 impact-ad.jp
 0.0.0.0 impact.applifier.com
 0.0.0.0 impact.as
 0.0.0.0 impact.staging.applifier.com
@@ -70336,12 +71403,10 @@ fe80::1%lo0 localhost
 0.0.0.0 j.adresult-sp.jp
 0.0.0.0 j.adserving.jp
 0.0.0.0 j.adticker.jp
-0.0.0.0 j.amoad.com
 0.0.0.0 j.exit-ad.com
 0.0.0.0 j.gmodmp.jp
 0.0.0.0 j.kissinsights.com
 0.0.0.0 j.maxmind.com
-0.0.0.0 j.microad.net
 0.0.0.0 j.moras.jp
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 j.owldata.com
@@ -70351,7 +71416,6 @@ fe80::1%lo0 localhost
 0.0.0.0 j.sprout-ad.com
 0.0.0.0 j.zeroredirect1.com
 0.0.0.0 j.zeroredirect2.com
-0.0.0.0 j.zucks.net.zimg.jp
 0.0.0.0 j0q3w.voluumtrk.com
 0.0.0.0 j1.ax.xrea.com
 0.0.0.0 j1.shinobi.jp
@@ -70363,11 +71427,9 @@ fe80::1%lo0 localhost
 0.0.0.0 j4.signclck.com
 0.0.0.0 j4sgq.voluumtrk.com
 0.0.0.0 j5.chinoc.net
-0.0.0.0 j5.shinobi.jp
 0.0.0.0 j5g2b.voluumtrk.com
 0.0.0.0 j5sjr.voluumtrk.com
 0.0.0.0 j6.shinobi.jp
-0.0.0.0 j7.shinobi.jp
 0.0.0.0 j8.shinobi.jp
 0.0.0.0 j8r2b.voluumtrk.com
 0.0.0.0 jaapt.voluumtrk.com
@@ -70418,7 +71480,6 @@ fe80::1%lo0 localhost
 0.0.0.0 jbonlinemedia-electronics.t.domdex.com
 0.0.0.0 jbrotrk.com
 0.0.0.0 jbugk.com
-0.0.0.0 jc.impact-ad.jp
 0.0.0.0 jcb-srt.socialrewards.com
 0.0.0.0 jclqf.voluumtrk.com
 0.0.0.0 jcmailer.justcode.biz
@@ -70592,7 +71653,6 @@ fe80::1%lo0 localhost
 0.0.0.0 js-kit.com
 0.0.0.0 js-webt-lol.9cache.com
 0.0.0.0 js.a.s35.51.la
-0.0.0.0 js.ad-stir.com
 0.0.0.0 js.addclips.org
 0.0.0.0 js.adforgames.com
 0.0.0.0 js.adjust-sp.jp
@@ -70617,13 +71677,11 @@ fe80::1%lo0 localhost
 0.0.0.0 js.ditto.com
 0.0.0.0 js.embedarticle.com
 0.0.0.0 js.forrestersurveys.com
-0.0.0.0 js.fout.jp
 0.0.0.0 js.francite.com
 0.0.0.0 js.freedownloadsoft.net
 0.0.0.0 js.gonzagamer.com
 0.0.0.0 js.gsspcln.jp
 0.0.0.0 js.honeybadger.io
-0.0.0.0 js.inmobi-jp.com
 0.0.0.0 js.kau.li
 0.0.0.0 js.libertysurf.fr
 0.0.0.0 js.maxmind.com
@@ -70654,18 +71712,9 @@ fe80::1%lo0 localhost
 0.0.0.0 js01.pixelsnippet.com
 0.0.0.0 js1.infoseek.co.jp
 0.0.0.0 js1.millioncounter.com
-0.0.0.0 js1.nend.net
 0.0.0.0 js1.ziyu.net
 0.0.0.0 js2.infoseek.co.jp
-0.0.0.0 js2.nend.net
 0.0.0.0 js2.rfihub.com
-0.0.0.0 js3.nend.net
-0.0.0.0 js4.nend.net
-0.0.0.0 js5.nend.net
-0.0.0.0 js6.nend.net
-0.0.0.0 js7.nend.net
-0.0.0.0 js8.nend.net
-0.0.0.0 js9.nend.net
 0.0.0.0 jsad1.adsflip.com
 0.0.0.0 jsauth.mymovies.net
 0.0.0.0 jsc.dinclinx.com
@@ -70718,7 +71767,6 @@ fe80::1%lo0 localhost
 0.0.0.0 justad.mobi
 0.0.0.0 justcounter.com
 0.0.0.0 justforclickz.com
-0.0.0.0 justgetitfaster.com
 0.0.0.0 justns.com
 0.0.0.0 justrelevant.com
 0.0.0.0 justsaywow.com
@@ -70740,7 +71788,6 @@ fe80::1%lo0 localhost
 0.0.0.0 k.ilius.net
 0.0.0.0 k.zeroredirect1.com
 0.0.0.0 k.zeroredirect2.com
-0.0.0.0 k.zucks.net
 0.0.0.0 k17177.bins.lop.com
 0.0.0.0 k2med.com
 0.0.0.0 k30mn.voluumtrk.com
@@ -70773,7 +71820,6 @@ fe80::1%lo0 localhost
 0.0.0.0 kandice-corn.us
 0.0.0.0 kanoodle.com
 0.0.0.0 kanri.searchteria.co.jp
-0.0.0.0 kansas.valueclick.ne.jp
 0.0.0.0 kapital.inqnet.at
 0.0.0.0 kaplanindex.com
 0.0.0.0 karen-lobato.us
@@ -71334,7 +72380,6 @@ fe80::1%lo0 localhost
 0.0.0.0 link.betafr.fr
 0.0.0.0 link.betalite.fr
 0.0.0.0 link.betasoft.fr
-0.0.0.0 link.connectoffer.com
 0.0.0.0 link.deal-of-king.com
 0.0.0.0 link.decideinteractive.com
 0.0.0.0 link.easy-courriel.com
@@ -71901,9 +72946,7 @@ fe80::1%lo0 localhost
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.adtc.daum.net
 0.0.0.0 m.airpush.com
-0.0.0.0 m.ajxqiongbg.com
 0.0.0.0 m.ameba.jp
-0.0.0.0 m.amoad.com
 0.0.0.0 m.apbox.naver.com
 0.0.0.0 m.appang.kr
 0.0.0.0 m.askalok.com
@@ -71934,7 +72977,6 @@ fe80::1%lo0 localhost
 0.0.0.0 m.trb.com
 0.0.0.0 m.trk44.mobi
 0.0.0.0 m.tstore.co.kr
-0.0.0.0 m.us.doubleclick.net
 0.0.0.0 m.vpon.com
 0.0.0.0 m.wankz.com
 0.0.0.0 m.wooboo.com.cn
@@ -72033,7 +73075,6 @@ fe80::1%lo0 localhost
 0.0.0.0 magicmail.co.nz
 0.0.0.0 magicmail.createsend.com
 0.0.0.0 magicwork.net
-0.0.0.0 magifirst.com
 0.0.0.0 magnify360-cdn.s3.amazonaws.com
 0.0.0.0 mail-to-a-friend.com
 0.0.0.0 mail.adsender.us
@@ -72312,7 +73353,6 @@ fe80::1%lo0 localhost
 0.0.0.0 medbanner.advertserve.com
 0.0.0.0 medi8.genieesspv.jp
 0.0.0.0 media-adrunner.mycomputer.com
-0.0.0.0 media-b.jp
 0.0.0.0 media-clic.com
 0.0.0.0 media-click.ru
 0.0.0.0 media-code.info
@@ -72690,7 +73730,6 @@ fe80::1%lo0 localhost
 0.0.0.0 michellerodriguez.sexybabesx.com
 0.0.0.0 michellewie.sexybabesx.com
 0.0.0.0 micro.marketo.com
-0.0.0.0 microad.jp
 0.0.0.0 microad.net
 0.0.0.0 microreporting.metro.se
 0.0.0.0 microreporting.metrofrance.com
@@ -72855,7 +73894,6 @@ fe80::1%lo0 localhost
 0.0.0.0 mobileactive.com
 0.0.0.0 mobileads.dx.cn
 0.0.0.0 mobileads.ero-advertising.com
-0.0.0.0 mobileads.google.com
 0.0.0.0 mobileads.mobilebanner.net
 0.0.0.0 mobileads.nimbuzz.com
 0.0.0.0 mobileads.todomobile.com.mx
@@ -73013,7 +74051,6 @@ fe80::1%lo0 localhost
 0.0.0.0 motradon.ivwbox.de
 0.0.0.0 motu.custom-click.net
 0.0.0.0 motu.trustadnetwork.net
-0.0.0.0 motu.trustclick.ne.jp
 0.0.0.0 mountainbike.digidip.net
 0.0.0.0 mov-ie.biz
 0.0.0.0 movie-watching-site.com
@@ -73321,7 +74358,6 @@ fe80::1%lo0 localhost
 0.0.0.0 myvideo.ivwbox.de
 0.0.0.0 mywactrack.com
 0.0.0.0 mywebstats.com.au
-0.0.0.0 mywebzines.com
 0.0.0.0 myxer.adbureau.net
 0.0.0.0 mz28ismn.com
 0.0.0.0 mzqtm.voluumtrk.com
@@ -73361,7 +74397,6 @@ fe80::1%lo0 localhost
 0.0.0.0 n2m1z.voluumtrk.com
 0.0.0.0 n3.ads.mreco0.jp
 0.0.0.0 n3.adshostnet.com
-0.0.0.0 n3285ad.doubleclick.net
 0.0.0.0 n32o1.voluumtrk.com
 0.0.0.0 n388hkxg.com
 0.0.0.0 n3hps.voluumtrk.com
@@ -73375,7 +74410,6 @@ fe80::1%lo0 localhost
 0.0.0.0 n52.adshostnet.com
 0.0.0.0 n6.ads.mreco0.jp
 0.0.0.0 n6.adshostnet.com
-0.0.0.0 n609ad.doubleclick.net
 0.0.0.0 n60adserv.com
 0.0.0.0 n61adserv.com
 0.0.0.0 n62adserv.com
@@ -73690,7 +74724,6 @@ fe80::1%lo0 localhost
 0.0.0.0 nicolette-brier.us
 0.0.0.0 nicolette-salas.us
 0.0.0.0 nicolevaidisova.sexybabesx.com
-0.0.0.0 nicopon.jp
 0.0.0.0 nid.timesink.com
 0.0.0.0 nidinternal.timesink.com
 0.0.0.0 nidtest.timesink.com
@@ -74163,7 +75196,6 @@ fe80::1%lo0 localhost
 0.0.0.0 om.pokerlistings.com
 0.0.0.0 om.vrbo.com
 0.0.0.0 om.zdnet.co.uk
-0.0.0.0 omanchin.com
 0.0.0.0 omariev.justclick.ru
 0.0.0.0 omarsys.com
 0.0.0.0 omg2.com
@@ -74376,7 +75408,6 @@ fe80::1%lo0 localhost
 0.0.0.0 optiprofits.go2cloud.org
 0.0.0.0 optlynx.com
 0.0.0.0 optmd.com
-0.0.0.0 optmedia.jp
 0.0.0.0 optout.2cnt.net
 0.0.0.0 optout.ad1.adfarm1.adition.com
 0.0.0.0 optout.ad2.adfarm1.adition.com
@@ -74387,7 +75418,6 @@ fe80::1%lo0 localhost
 0.0.0.0 optout.ad7.adfarm1.adition.com
 0.0.0.0 optout.ad8.adfarm1.adition.com
 0.0.0.0 optout.adfarm1.adition.com
-0.0.0.0 optout.doubleclick.net
 0.0.0.0 optout.ivwbox.de
 0.0.0.0 oqw9b.voluumtrk.com
 0.0.0.0 or3v3.voluumtrk.com
@@ -74461,7 +75491,6 @@ fe80::1%lo0 localhost
 0.0.0.0 outils.acf-webmaster.net
 0.0.0.0 outils.f5biz.com
 0.0.0.0 outpost.real.com
-0.0.0.0 output.nend.net
 0.0.0.0 outsidethebeltway.us.intellitxt.com
 0.0.0.0 outtds.com
 0.0.0.0 ov.yahoo.co.jp
@@ -74470,7 +75499,6 @@ fe80::1%lo0 localhost
 0.0.0.0 overpro.com
 0.0.0.0 oversee.d.chango.com
 0.0.0.0 oversee.net
-0.0.0.0 overture.com
 0.0.0.0 overture.reporting.net
 0.0.0.0 ovgads.ovguide.com
 0.0.0.0 ovhomes.com
@@ -74480,7 +75508,6 @@ fe80::1%lo0 localhost
 0.0.0.0 owlonl.ivwbox.de
 0.0.0.0 owzdu.voluumtrk.com
 0.0.0.0 ox-d.aa.com
-0.0.0.0 ox-d.ad-maker.info
 0.0.0.0 ox-d.adobe.com
 0.0.0.0 ox-d.ads.alliancehealth.com
 0.0.0.0 ox-d.adwingate.com
@@ -74526,7 +75553,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ox-d.w55c.net
 0.0.0.0 ox-d.wetransfer.com
 0.0.0.0 ox-d.yp.com
-0.0.0.0 ox-i.ad-maker.info
 0.0.0.0 ox-i.majorgeeks.com
 0.0.0.0 ox-i.mm1x.nl
 0.0.0.0 ox-i.zam.com
@@ -74561,7 +75587,6 @@ fe80::1%lo0 localhost
 0.0.0.0 oyvir.voluumtrk.com
 0.0.0.0 ozone-images.adbureau.net
 0.0.0.0 ozzhf.voluumtrk.com
-0.0.0.0 p-advg.com
 0.0.0.0 p-bandai-hk.b.appier.net
 0.0.0.0 p-bxm.com
 0.0.0.0 p-cn.acxiom-online.com
@@ -74797,7 +75822,6 @@ fe80::1%lo0 localhost
 0.0.0.0 partners.yobt.com
 0.0.0.0 partners.yobt.tv
 0.0.0.0 parts.blog.with2.net
-0.0.0.0 parts.logoole.yahoo.co.jp
 0.0.0.0 parts.rakuword.com
 0.0.0.0 pas.private4.com
 0.0.0.0 pass.duba.net
@@ -75694,7 +76718,6 @@ fe80::1%lo0 localhost
 0.0.0.0 publead.go2cloud.org
 0.0.0.0 public-contentv4.rapid-pass.net
 0.0.0.0 public.adgger.jp
-0.0.0.0 public.astrsk.net
 0.0.0.0 public.bravenet.com
 0.0.0.0 public.carpediem.fr
 0.0.0.0 public.pinballpublishernetwork.com
@@ -75809,7 +76832,6 @@ fe80::1%lo0 localhost
 0.0.0.0 pvrgf.voluumtrk.com
 0.0.0.0 pwk.etrxc.com
 0.0.0.0 pwu0e.voluumtrk.com
-0.0.0.0 px.a8.net
 0.0.0.0 px.at.atwola.com
 0.0.0.0 px.demdex.net
 0.0.0.0 px.excitedigitalmedia.com
@@ -75956,7 +76978,6 @@ fe80::1%lo0 localhost
 0.0.0.0 r.254a.comjs.moatads.com
 0.0.0.0 r.369dl.com
 0.0.0.0 r.ads.zynga.com
-0.0.0.0 r.advg.jp
 0.0.0.0 r.af-share.jp
 0.0.0.0 r.aol.com
 0.0.0.0 r.apina.biz
@@ -76092,7 +77113,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ranking.sitecatcher.net
 0.0.0.0 ranking.ynet.com
 0.0.0.0 ranking2.fc2.com
-0.0.0.0 ranking2.sitecatcher.net
 0.0.0.0 rankingchart.de
 0.0.0.0 rankingscout.com
 0.0.0.0 rankingscout.org
@@ -76134,7 +77154,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rc.adition.com
 0.0.0.0 rc.ch.adlink.net
 0.0.0.0 rc.himedia.individuad.net
-0.0.0.0 rc.i2i.jp
 0.0.0.0 rc.loop.bild.t-online.de
 0.0.0.0 rc.pcm.individuad.net
 0.0.0.0 rc.production.orangeads.fr
@@ -76144,7 +77163,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rc10.overture.com
 0.0.0.0 rc12.overture.com
 0.0.0.0 rc2.i2i.jp
-0.0.0.0 rc20.overture.com
 0.0.0.0 rc23.overture.com
 0.0.0.0 rc3.i2i.jp
 0.0.0.0 rc4.i2i.jp
@@ -76164,7 +77182,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rcpmf.voluumtrk.com
 0.0.0.0 rcsmetrics.it
 0.0.0.0 rd-eu.a9.com
-0.0.0.0 rd.adingo.jp
 0.0.0.0 rd.ads.juno.com
 0.0.0.0 rd.alice.it
 0.0.0.0 rd.ane.yahoo.co.jp
@@ -76177,7 +77194,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rd.realmedia.com
 0.0.0.0 rd.sslmediaserver.com
 0.0.0.0 rd.vector.co.jp
-0.0.0.0 rd.yahoo.co.jp
 0.0.0.0 rd.yahoo.com
 0.0.0.0 rd1.surfernetwork.com
 0.0.0.0 rddywd.com
@@ -76260,7 +77276,6 @@ fe80::1%lo0 localhost
 0.0.0.0 redir.aitrkng.com
 0.0.0.0 redir.bft.nu
 0.0.0.0 redir.domaingateway.com
-0.0.0.0 redir.overture.com
 0.0.0.0 redir.speedbit.com
 0.0.0.0 redir.widdit.com
 0.0.0.0 redirect-for-more.info
@@ -76623,9 +77638,7 @@ fe80::1%lo0 localhost
 0.0.0.0 rose.ixbt.com
 0.0.0.0 roselynsanchez.sexybabesx.com
 0.0.0.0 rot3.a8.net
-0.0.0.0 rot5.a8.net
 0.0.0.0 rot6.a8.net
-0.0.0.0 rot7.a8.net
 0.0.0.0 rot8.a8.net
 0.0.0.0 rot9.a8.net
 0.0.0.0 rotabanner.auto.ru
@@ -76677,7 +77690,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rrd.2chan.net
 0.0.0.0 rrmprod.amobee.com
 0.0.0.0 rrwnt.voluumtrk.com
-0.0.0.0 rs.adapf.com
 0.0.0.0 rs.epoq.de
 0.0.0.0 rs.ero-advertising.com
 0.0.0.0 rs0.co.uk
@@ -76688,7 +77700,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rsi.tvguide.com
 0.0.0.0 rsmrttracking.com
 0.0.0.0 rss.drecom.jp
-0.0.0.0 rss.dtiserv.com
 0.0.0.0 rss.tc
 0.0.0.0 rssad.iogous.com
 0.0.0.0 rsvfh.voluumtrk.com
@@ -76704,7 +77715,6 @@ fe80::1%lo0 localhost
 0.0.0.0 rt02.2cnt.net
 0.0.0.0 rtb-pclick.secure.yahoo.com
 0.0.0.0 rtb-pixel-ams1.everesttech.net
-0.0.0.0 rtb.ad-stir.com
 0.0.0.0 rtb.nexage.com
 0.0.0.0 rtb.vmsn.de
 0.0.0.0 rtb.watchmedia.biz
@@ -76843,7 +77853,6 @@ fe80::1%lo0 localhost
 0.0.0.0 s.mousetrace.com
 0.0.0.0 s.n.jwpltx.com
 0.0.0.0 s.ndemiccreations.com
-0.0.0.0 s.nend.net
 0.0.0.0 s.o-clk.com
 0.0.0.0 s.pagoda56.com
 0.0.0.0 s.po.st
@@ -77184,7 +78193,6 @@ fe80::1%lo0 localhost
 0.0.0.0 se.anewsme.info
 0.0.0.0 se.static.planet49.com
 0.0.0.0 se1.adsnetto.com
-0.0.0.0 se1.doubleclick.net
 0.0.0.0 sea-u.openx.net
 0.0.0.0 seaarch.info
 0.0.0.0 seal.globalsign.com
@@ -77208,7 +78216,6 @@ fe80::1%lo0 localhost
 0.0.0.0 search.doubleclick.com
 0.0.0.0 search.doubleclick.net
 0.0.0.0 search.drsnsrch.com
-0.0.0.0 search.fc2.com
 0.0.0.0 search.freeze.com
 0.0.0.0 search.gamefiesta.com
 0.0.0.0 search.happytofind.com
@@ -77648,9 +78655,6 @@ fe80::1%lo0 localhost
 0.0.0.0 sgiz.mobi
 0.0.0.0 sgizmo.com
 0.0.0.0 sgy2.sitescout.netdna-cdn.com
-0.0.0.0 sh.adingo.jp
-0.0.0.0 sh.i2i.jp
-0.0.0.0 sh.zucks.net
 0.0.0.0 sh2.vpon.com
 0.0.0.0 shadf.allyes.com
 0.0.0.0 shads.no.publicus.com
@@ -78052,11 +79056,6 @@ fe80::1%lo0 localhost
 0.0.0.0 sp-click2.jp
 0.0.0.0 sp-js.rinad.jp
 0.0.0.0 sp.accesstrade.net
-0.0.0.0 sp.ad.adlantis.jp
-0.0.0.0 sp.adingo.jp.eimg.jp
-0.0.0.0 sp.ads.jlisting.jp
-0.0.0.0 sp.click.adlantis.jp
-0.0.0.0 sp.conv.adlantis.jp
 0.0.0.0 sp.eroido.jp
 0.0.0.0 sp.fastclick.net
 0.0.0.0 sp.gmossp-sp.jp
@@ -78065,7 +79064,6 @@ fe80::1%lo0 localhost
 0.0.0.0 sp.trafficmarketplace.com
 0.0.0.0 sp.trax-ad.jp
 0.0.0.0 sp.udimg.com
-0.0.0.0 sp.www.adlantis.jp
 0.0.0.0 sp17.information.com
 0.0.0.0 sp2.information.com
 0.0.0.0 sp6.information.com
@@ -78073,7 +79071,6 @@ fe80::1%lo0 localhost
 0.0.0.0 spacash.com
 0.0.0.0 spacefetti.com
 0.0.0.0 spaces.ero-advertising.com
-0.0.0.0 spad.i-mobile.co.jp
 0.0.0.0 spade.twitch.tv
 0.0.0.0 spadp.i-mobile.co.jp
 0.0.0.0 spadpc2.i-mobile.co.jp
@@ -78081,7 +79078,6 @@ fe80::1%lo0 localhost
 0.0.0.0 spadv.rainy.to
 0.0.0.0 spamblockerutility.com
 0.0.0.0 spanids.reference.com
-0.0.0.0 spapi.i-mobile.co.jp
 0.0.0.0 spapp.whenu.com
 0.0.0.0 sparkimg.com
 0.0.0.0 sparkstudios.com
@@ -78096,7 +79092,6 @@ fe80::1%lo0 localhost
 0.0.0.0 spcnv.i-mobile.co.jp
 0.0.0.0 spd.netconversions.com
 0.0.0.0 spd.pointroll.com
-0.0.0.0 spdeliver.i-mobile.co.jp
 0.0.0.0 spdeliverp.i-mobile.co.jp
 0.0.0.0 special-movies.com
 0.0.0.0 specific-match.dotomi.com
@@ -78157,7 +79152,6 @@ fe80::1%lo0 localhost
 0.0.0.0 sprucewing.ru
 0.0.0.0 sprung.go2cloud.org
 0.0.0.0 sprw.information.com
-0.0.0.0 spstatic.ameba.jp
 0.0.0.0 spsvc1.i-mobile.co.jp
 0.0.0.0 spsvc2.i-mobile.co.jp
 0.0.0.0 spsvc3.i-mobile.co.jp
@@ -78304,7 +79298,6 @@ fe80::1%lo0 localhost
 0.0.0.0 st.clickagents.com
 0.0.0.0 st.hqtrace.com
 0.0.0.0 st.ladycash.ru
-0.0.0.0 st.lidr.valueclick.jp
 0.0.0.0 st.listrak.com
 0.0.0.0 st.madisonlogic.com
 0.0.0.0 st.mirror.co.uk
@@ -78312,7 +79305,6 @@ fe80::1%lo0 localhost
 0.0.0.0 st.search.livedoor.com
 0.0.0.0 st.seblg.com
 0.0.0.0 st.shinobi.jp
-0.0.0.0 st.valueclick.ne.jp
 0.0.0.0 st.virginmedia.com
 0.0.0.0 st.xhamster.com
 0.0.0.0 st1.surf-town.net
@@ -78467,8 +79459,6 @@ fe80::1%lo0 localhost
 0.0.0.0 static.addinto.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adgger.jp
-0.0.0.0 static.adlantis.jp
-0.0.0.0 static.adroute.focas.jp
 0.0.0.0 static.adsender.us
 0.0.0.0 static.affilae.com
 0.0.0.0 static.affiliate.rakuten.co.jp
@@ -78590,7 +79580,6 @@ fe80::1%lo0 localhost
 0.0.0.0 static.zangocash.com
 0.0.0.0 static.zedo.com
 0.0.0.0 static.ziffdavis.com
-0.0.0.0 static.zucks.net.zimg.jp
 0.0.0.0 static0.awempire.com
 0.0.0.0 static1.awempire.com
 0.0.0.0 static1.baifendian.com
@@ -79059,12 +80048,10 @@ fe80::1%lo0 localhost
 0.0.0.0 synad2.nuffnang.com.sg
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync.1rx.io
-0.0.0.0 sync.ad-stir.com
 0.0.0.0 sync.adap.tv
 0.0.0.0 sync.adjuggler.zenoviaexchange.com
 0.0.0.0 sync.adserving.jp
 0.0.0.0 sync.apnx.zenoviaexchange.com
-0.0.0.0 sync.fout.jp
 0.0.0.0 sync.livejasmin.com
 0.0.0.0 sync.shinobi.jp
 0.0.0.0 sync.smarttds.ru
@@ -79118,7 +80105,6 @@ fe80::1%lo0 localhost
 0.0.0.0 t.9gag.com
 0.0.0.0 t.adbuyer.com
 0.0.0.0 t.adclr.jp
-0.0.0.0 t.adcrops.net
 0.0.0.0 t.adlpo.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.atdmt.com
@@ -79260,7 +80246,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tag.gamecentral.hiro.tv
 0.0.0.0 tag.gstat.orangeportails.net
 0.0.0.0 tag.ladmp.com
-0.0.0.0 tag.ladsp.com
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.nifty.com
 0.0.0.0 tag.reachadv.it
@@ -79593,7 +80578,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tfnbknfdeskm.yambosor.cn
 0.0.0.0 tfncdn.thaflynation.com
 0.0.0.0 tfp.2ref.co
-0.0.0.0 tg.socdm.com
 0.0.0.0 tga.acs86.com
 0.0.0.0 tga.csbew.com
 0.0.0.0 tgbvfr.website
@@ -79949,7 +80933,6 @@ fe80::1%lo0 localhost
 0.0.0.0 towerrecords.track4.com
 0.0.0.0 toy.e7c.net
 0.0.0.0 toyota-com-tw.b.appier.net
-0.0.0.0 toyota.112.2o7.net
 0.0.0.0 toyota.vo.llnwd.net
 0.0.0.0 tp.ads80.com
 0.0.0.0 tp.mygeek.com
@@ -80343,7 +81326,6 @@ fe80::1%lo0 localhost
 0.0.0.0 tracking.koego.com
 0.0.0.0 tracking.ladies.de
 0.0.0.0 tracking.lcleads.com
-0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.lunho.com
 0.0.0.0 tracking.maxcdn.com
 0.0.0.0 tracking.melty.es
@@ -81163,7 +82145,6 @@ fe80::1%lo0 localhost
 0.0.0.0 umbs.ero-advertising.com
 0.0.0.0 umeng.com
 0.0.0.0 ums.adtech.de
-0.0.0.0 ums.adtechjp.com
 0.0.0.0 unadvertising.info
 0.0.0.0 unanimis.co.uk
 0.0.0.0 unastatiomask.com
@@ -81348,7 +82329,6 @@ fe80::1%lo0 localhost
 0.0.0.0 utopiad.com
 0.0.0.0 utorrentinstall.com
 0.0.0.0 utrade.com
-0.0.0.0 uuid.adlantis.jp
 0.0.0.0 uur.at
 0.0.0.0 uuseeafp.allyes.com
 0.0.0.0 uv.terra.com.br
@@ -81423,8 +82403,6 @@ fe80::1%lo0 localhost
 0.0.0.0 vaporprofits.go2cloud.org
 0.0.0.0 vasmedia.axelsfun.com
 0.0.0.0 vast.moatads.com
-0.0.0.0 vatan.adlantis.jp
-0.0.0.0 vatanir.adlantis.jp
 0.0.0.0 vatrack.hinet.net
 0.0.0.0 vaughnlive.tv
 0.0.0.0 vaulttech13.cn
@@ -85159,7 +86137,6 @@ fe80::1%lo0 localhost
 0.0.0.0 vorcu.go2cloud.org
 0.0.0.0 vorlon.ferretsoft.com
 0.0.0.0 vortextraffic.com
-0.0.0.0 vote1.fc2.com
 0.0.0.0 vote4me.de
 0.0.0.0 vote4warez.com
 0.0.0.0 vox.ivwbox.de
@@ -85352,7 +86329,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wear2508t.seesaa.net
 0.0.0.0 weather.whenu.com
 0.0.0.0 web-controlling.com
-0.0.0.0 web-jp.ad-v.jp
 0.0.0.0 web-master.biz
 0.0.0.0 web-t.9gag.com
 0.0.0.0 web-track.telekom-dienste.de
@@ -86084,12 +87060,10 @@ fe80::1%lo0 localhost
 0.0.0.0 www.abmr2.net
 0.0.0.0 www.abovetrack.com
 0.0.0.0 www.abovetracking.com
-0.0.0.0 www.ac.auone-net.jp
 0.0.0.0 www.accelerervotrepc.com
 0.0.0.0 www.accerispartners.com
 0.0.0.0 www.accesoplugin.com
 0.0.0.0 www.access-kaiseki-tools.com
-0.0.0.0 www.accesstrade.net
 0.0.0.0 www.accipiter.com
 0.0.0.0 www.acclaimimages.com
 0.0.0.0 www.accoona.cn
@@ -86204,7 +87178,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.adify.com
 0.0.0.0 www.adimage.blm.org
 0.0.0.0 www.adition.com
-0.0.0.0 www.adjustnetwork.com
 0.0.0.0 www.adknowledge2.com
 0.0.0.0 www.adlead.com
 0.0.0.0 www.adlimg03.com
@@ -86230,7 +87203,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.adotsolution.com
 0.0.0.0 www.adparatus.com
 0.0.0.0 www.adphreak.com
-0.0.0.0 www.adplan.ne.jp
 0.0.0.0 www.adprudence.com
 0.0.0.0 www.adquest.nl
 0.0.0.0 www.adreap.com
@@ -87453,7 +88425,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.feisearch.com
 0.0.0.0 www.ferdy.org
 0.0.0.0 www.fet2cash.com
-0.0.0.0 www.ff.iij4u.or.jp
 0.0.0.0 www.fickads.net
 0.0.0.0 www.fiesta-game.com
 0.0.0.0 www.filamentgrp.com
@@ -88077,7 +89048,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.joshuaporn.com
 0.0.0.0 www.joyfulclick.com
 0.0.0.0 www.jp-moncler-fan.com
-0.0.0.0 www.jp.advertising.com
 0.0.0.0 www.jpmoncler2014.com
 0.0.0.0 www.jps.ms
 0.0.0.0 www.jps.ru
@@ -88616,7 +89586,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.mygeekdirect.com
 0.0.0.0 www.mygeeksearch.com
 0.0.0.0 www.myglobalsearch.com
-0.0.0.0 www.mygooglepagerank.com
 0.0.0.0 www.mygosecure.com
 0.0.0.0 www.myiframe.com
 0.0.0.0 www.myincestclips.net
@@ -89848,7 +90817,6 @@ fe80::1%lo0 localhost
 0.0.0.0 www.validwin.com
 0.0.0.0 www.validxmlfeed.com
 0.0.0.0 www.valtrk.com
-0.0.0.0 www.valueclick.ne.jp
 0.0.0.0 www.valueclickmedia.com
 0.0.0.0 www.values7.com
 0.0.0.0 www.valuesponsor.com
@@ -90178,42 +91146,32 @@ fe80::1%lo0 localhost
 0.0.0.0 www1.xmediaserver.com
 0.0.0.0 www1.yesadvertising.com
 0.0.0.0 www1.zedo.com
-0.0.0.0 www10.a8.net
 0.0.0.0 www10.moba8.net
 0.0.0.0 www10.mystats.nl
 0.0.0.0 www10.overture.com
 0.0.0.0 www10.sitetracker.com
 0.0.0.0 www10.valueclick.com
 0.0.0.0 www10.yesadvertising.com
-0.0.0.0 www11.a8.net
 0.0.0.0 www11.moba8.net
 0.0.0.0 www11.paypopup.com
 0.0.0.0 www11.yesadvertising.com
-0.0.0.0 www12.a8.net
 0.0.0.0 www12.moba8.net
 0.0.0.0 www12.paypopup.com
 0.0.0.0 www12.yesadvertising.com
-0.0.0.0 www13.a8.net
 0.0.0.0 www13.moba8.net
 0.0.0.0 www13.paypopup.com
 0.0.0.0 www13.yesadvertising.com
 0.0.0.0 www13.zapadserver1.com
-0.0.0.0 www14.a8.net
 0.0.0.0 www14.moba8.net
 0.0.0.0 www14.paypopup.com
 0.0.0.0 www14.yesadvertising.com
-0.0.0.0 www15.a8.net
 0.0.0.0 www15.moba8.net
 0.0.0.0 www15.paypopup.com
 0.0.0.0 www15.yesadvertising.com
-0.0.0.0 www16.a8.net
 0.0.0.0 www16.moba8.net
 0.0.0.0 www16137ue.sakura.ne.jp
-0.0.0.0 www17.a8.net
 0.0.0.0 www17.moba8.net
-0.0.0.0 www18.a8.net
 0.0.0.0 www18.moba8.net
-0.0.0.0 www19.a8.net
 0.0.0.0 www19.moba8.net
 0.0.0.0 www1flypeit.maynemyltf.netdna-cdn.com
 0.0.0.0 www2.a-counter.kiev.ua
@@ -90263,10 +91221,8 @@ fe80::1%lo0 localhost
 0.0.0.0 www2.telemarque.com
 0.0.0.0 www2.track4.com
 0.0.0.0 www2.yesadvertising.com
-0.0.0.0 www20.a8.net
 0.0.0.0 www20.moba8.net
 0.0.0.0 www20.paypopup.com
-0.0.0.0 www21.a8.net
 0.0.0.0 www21.moba8.net
 0.0.0.0 www21.paypopup.com
 0.0.0.0 www214.paypopup.com
@@ -90280,26 +91236,18 @@ fe80::1%lo0 localhost
 0.0.0.0 www218.yesadvertising.com
 0.0.0.0 www219.paypopup.com
 0.0.0.0 www219.yesadvertising.com
-0.0.0.0 www22.a8.net
 0.0.0.0 www22.moba8.net
 0.0.0.0 www220.paypopup.com
 0.0.0.0 www220.yesadvertising.com
 0.0.0.0 www221.paypopup.com
 0.0.0.0 www221.yesadvertising.com
-0.0.0.0 www23.a8.net
 0.0.0.0 www23.moba8.net
 0.0.0.0 www23.valueclick.com
-0.0.0.0 www24.a8.net
 0.0.0.0 www24.moba8.net
-0.0.0.0 www25.a8.net
 0.0.0.0 www25.moba8.net
-0.0.0.0 www26.a8.net
 0.0.0.0 www26.moba8.net
-0.0.0.0 www27.a8.net
 0.0.0.0 www27.moba8.net
-0.0.0.0 www28.a8.net
 0.0.0.0 www28.moba8.net
-0.0.0.0 www29.a8.net
 0.0.0.0 www29.moba8.net
 0.0.0.0 www3.abcsearch.com
 0.0.0.0 www3.adhost.com
@@ -90498,7 +91446,6 @@ fe80::1%lo0 localhost
 0.0.0.0 x4.karakuri-yashiki.com
 0.0.0.0 x4.nabebugyou.com
 0.0.0.0 x4.namidaame.com
-0.0.0.0 x4.ojaru.jp
 0.0.0.0 x4.shinobi.jp
 0.0.0.0 x4.wakatono.jp
 0.0.0.0 x4.yamanoha.com
@@ -90513,15 +91460,12 @@ fe80::1%lo0 localhost
 0.0.0.0 x5.ninpou.jp
 0.0.0.0 x5.ohuda.com
 0.0.0.0 x5.onmitsu.jp
-0.0.0.0 x5.shinobi.jp
-0.0.0.0 x5.tumabeni.com
 0.0.0.0 x5.yamanoha.com
 0.0.0.0 x5.zouri.jp
 0.0.0.0 x6.amigasa.jp
 0.0.0.0 x6.bokunenjin.com
 0.0.0.0 x6.hatiju-hatiya.com
 0.0.0.0 x6.hebiichigo.com
-0.0.0.0 x6.hishaku.com
 0.0.0.0 x6.ifdef.jp
 0.0.0.0 x6.karakuri-yashiki.com
 0.0.0.0 x6.karou.jp
@@ -90531,10 +91475,8 @@ fe80::1%lo0 localhost
 0.0.0.0 x6.namidaame.com
 0.0.0.0 x6.nengu.jp
 0.0.0.0 x6.ohaguro.com
-0.0.0.0 x6.ohugi.com
 0.0.0.0 x6.ojaru.jp
 0.0.0.0 x6.okoshi-yasu.com
-0.0.0.0 x6.shinobi.jp
 0.0.0.0 x6.shinobiashi.com
 0.0.0.0 x6.tonosama.jp
 0.0.0.0 x6.tumabeni.com
@@ -90555,7 +91497,6 @@ fe80::1%lo0 localhost
 0.0.0.0 x7.ohugi.com
 0.0.0.0 x7.okoshi-yasu.com
 0.0.0.0 x7.ootugomori.com
-0.0.0.0 x7.shinobi.jp
 0.0.0.0 x7.suichu-ka.com
 0.0.0.0 x7.uijin.com
 0.0.0.0 x7.yamanoha.com
@@ -90565,20 +91506,15 @@ fe80::1%lo0 localhost
 0.0.0.0 x8.hariko.com
 0.0.0.0 x8.ifdef.jp
 0.0.0.0 x8.kagennotuki.com
-0.0.0.0 x8.kitunebi.com
-0.0.0.0 x8.komusou.jp
 0.0.0.0 x8.michikusa.jp
 0.0.0.0 x8.nomaki.jp
 0.0.0.0 x8.ohugi.com
-0.0.0.0 x8.okoshi-yasu.com
 0.0.0.0 x8.ootugomori.com
 0.0.0.0 x8.otoshiana.com
 0.0.0.0 x8.shidareyanagi.com
-0.0.0.0 x8.shinobi.jp
 0.0.0.0 x8.sonnabakana.com
 0.0.0.0 x8.suichu-ka.com
 0.0.0.0 x8.the-ninja.jp
-0.0.0.0 x8.turubeotoshi.com
 0.0.0.0 x8.tyabo.com
 0.0.0.0 x8.yaekumo.com
 0.0.0.0 x8.yakiuchi.com
@@ -90631,7 +91567,6 @@ fe80::1%lo0 localhost
 0.0.0.0 xml.411web.com
 0.0.0.0 xml.accesstrade.net
 0.0.0.0 xml.ad2m.fr
-0.0.0.0 xml.affiliate.rakuten.co.jp
 0.0.0.0 xml.counterforlife.com
 0.0.0.0 xml.fusionxml.com
 0.0.0.0 xml.ioam.de
@@ -90722,8 +91657,6 @@ fe80::1%lo0 localhost
 0.0.0.0 yabuka.com
 0.0.0.0 yada.com
 0.0.0.0 yads.c.yimg.jp
-0.0.0.0 yads.yahoo.co.jp
-0.0.0.0 yads.yjtag.yahoo.co.jp
 0.0.0.0 yahoo-analytics.net
 0.0.0.0 yahoo-s.nuggad.net
 0.0.0.0 yahoo.serving-sys.com
@@ -90750,7 +91683,6 @@ fe80::1%lo0 localhost
 0.0.0.0 yeahmobi.go2cloud.org
 0.0.0.0 yeahmobi.hasoffers.com
 0.0.0.0 yearcast.com
-0.0.0.0 yeas.yahoo.co.jp
 0.0.0.0 yellgroup.122.2o7.net
 0.0.0.0 yello-de01.webtrekk.net
 0.0.0.0 yellostrom.webtrekk.net
@@ -90778,7 +91710,6 @@ fe80::1%lo0 localhost
 0.0.0.0 yieldmo.com
 0.0.0.0 yieldtraffic.com
 0.0.0.0 yj.moatads.com
-0.0.0.0 yjaxc.yahoo.co.jp
 0.0.0.0 ylu7k4i2o7.s.ad6media.fr
 0.0.0.0 yoast.com
 0.0.0.0 yobiauc.com
@@ -90837,7 +91768,6 @@ fe80::1%lo0 localhost
 0.0.0.0 yuppy.2cnt.net
 0.0.0.0 yuzt.com
 0.0.0.0 yvap.query.yahoo.com
-0.0.0.0 yx-ads6.com
 0.0.0.0 yxo.warmportrait.com
 0.0.0.0 yz0fi.voluumtrk.com
 0.0.0.0 yzus09by.com
