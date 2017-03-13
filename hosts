@@ -2,7 +2,7 @@
 # with a dash of crowd sourcing via Github
 #
 # Date: March 13 2017
-# Number of unique domains: 35,483
+# Number of unique domains: 35,620
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -6528,7 +6528,6 @@ fe80::1%lo0 localhost
 0.0.0.0 googlefeud.com
 0.0.0.0 google-liar.ru
 0.0.0.0 googlemare.com
-0.0.0.0 goo.ne.jp
 0.0.0.0 gopixdatabase.com
 0.0.0.0 gopro-online.info
 0.0.0.0 gorabagrata.ru
@@ -7289,7 +7288,6 @@ fe80::1%lo0 localhost
 0.0.0.0 nhl17coins.exblog.jp
 0.0.0.0 nhl17coinsforps3.gratisblog.biz
 0.0.0.0 nibbler.silktide.com
-0.0.0.0 nicovideo.jp
 0.0.0.0 nightvision746.weebly.com
 0.0.0.0 niki-mlt.ru
 0.0.0.0 nikitsyringedrivelg.pen.io
@@ -12896,6 +12894,7 @@ fe80::1%lo0 localhost
 0.0.0.0 click.html.it
 0.0.0.0 hub.com.pl
 0.0.0.0 js.hubspot.com
+0.0.0.0 ads.hulu.com
 0.0.0.0 ads.hurra.de
 0.0.0.0 tracker.dev.hearst.nl
 0.0.0.0 ads2000.hw.net
@@ -14842,6 +14841,7 @@ fe80::1%lo0 localhost
 0.0.0.0 b.grvcdn.com
 0.0.0.0 tiads.health.com
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 ads-a-darwin.hulu.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 cdn.innity.net
 0.0.0.0 cdn.media.innity.net
@@ -19687,6 +19687,7 @@ fe80::1%lo0 localhost
 0.0.0.0 adsfac.us
 0.0.0.0 level3.applifier.com
 0.0.0.0 a.dlqm.net
+0.0.0.0 ads-v-darwin.hulu.com
 0.0.0.0 nbc.interpolls.com
 0.0.0.0 pollserver.interpolls.com
 0.0.0.0 ps2.interpolls.com
@@ -25971,7 +25972,6 @@ fe80::1%lo0 localhost
 #0.0.0.0 ll.a.hulu.com	# Uncomment to block Hulu.
 0.0.0.0 log1.countomat.com
 0.0.0.0 log4.quintelligence.com
-0.0.0.0 log999.goo.ne.jp
 0.0.0.0 log.btopenworld.com
 0.0.0.0 logc146.xiti.com
 0.0.0.0 logc25.xiti.com
@@ -28655,7 +28655,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad.designtaxi.com
 0.0.0.0 ad.deviantart.com
 0.0.0.0 add.f5haber.com
-0.0.0.0 ad.dic.nicovideo.jp
 0.0.0.0 ad.directmirror.com
 0.0.0.0 ad.doganburda.com
 0.0.0.0 ad.download.net
@@ -28704,7 +28703,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ad-gb.mgid.com
 0.0.0.0 ad-gbn.com
 0.0.0.0 ad.ghfusion.com
-0.0.0.0 ad.goo.ne.jp
 0.0.0.0 adgraphics.theonion.com
 0.0.0.0 ad.gra.pl
 0.0.0.0 ad.greenmarquee.com
@@ -28881,7 +28879,6 @@ fe80::1%lo0 localhost
 0.0.0.0 adnetwork.rovicorp.com
 0.0.0.0 adnetxchange.com
 0.0.0.0 adng.ascii24.com
-0.0.0.0 ad.nicovideo.jp
 0.0.0.0 adn.kinkydollars.com
 0.0.0.0 ad-noise.net
 0.0.0.0 ad.nozonedata.com
@@ -29662,6 +29659,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.hosting.vcmedia.vn
 0.0.0.0 ads.hothardware.com
 0.0.0.0 ad.showbizz.net
+0.0.0.0 ads.hulu.com.edgesuite.net
 #0.0.0.0 ads.hulu.com		# Uncomment to block Hulu.
 0.0.0.0 ads.humorbua.no
 0.0.0.0 ads.i12.de
@@ -29802,7 +29800,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ads.newtimes.com
 0.0.0.0 adsnew.userfriendly.org
 0.0.0.0 ads.ngenuity.com
-0.0.0.0 ads.nicovideo.jp
 0.0.0.0 adsniper.ru
 0.0.0.0 ads.novem.pl
 0.0.0.0 ads.nowrunning.com
@@ -37869,3 +37866,143 @@ fe80::1%lo0 localhost
 # 'example.com':
 
 # 0.0.0.0 example.com
+0.0.0.0 a.iogous.com
+0.0.0.0 a.one.impact-ad.jp
+0.0.0.0 a.socdm.com
+0.0.0.0 a.yieldsquare.com
+0.0.0.0 ad-api-v01.uliza.jp
+0.0.0.0 ad-stir.com
+0.0.0.0 ad.ad-stir.com
+0.0.0.0 ad.dmm.com
+0.0.0.0 adn.dmm.com
+0.0.0.0 ads.adjust-net.jp
+0.0.0.0 ads.tersertude.com
+0.0.0.0 adserver.adtechjp.com
+0.0.0.0 adskpak.com
+0.0.0.0 advg.jp
+0.0.0.0 afs.adjust-net.jp
+0.0.0.0 ai.yimg.jp
+0.0.0.0 aka-uae-dl.uliza.jp
+0.0.0.0 aladdin.genieesspv.jp
+0.0.0.0 an.cmertv.com
+0.0.0.0 anz.rd.rakuten.co.jp
+0.0.0.0 api.primecaster.net
+0.0.0.0 app-cm.co.jp
+0.0.0.0 aqua.dmm.co.jp
+0.0.0.0 ard.yahoo.co.jp
+0.0.0.0 as.dc.impact-ad.jp
+0.0.0.0 as.oe.impact-ad.jp
+0.0.0.0 b.iogous.com
+0.0.0.0 b.one.impact-ad.jp
+0.0.0.0 b.socdm.com
+0.0.0.0 b.voicefive.com
+0.0.0.0 banner.dspcdn.com
+0.0.0.0 bn.maist.jp
+0.0.0.0 c.one.impact-ad.jp
+0.0.0.0 c.socdm.com
+0.0.0.0 cas.hk.as.criteo.com
+0.0.0.0 cas.jp.as.criteo.com
+0.0.0.0 cat.hk.as.criteo.com
+0.0.0.0 cdn.ad.maist.jp
+0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.adsrv247.com
+0.0.0.0 cdn.amp.live
+0.0.0.0 cdn.app-cm.co.jp
+0.0.0.0 cdn.apvdr.com
+0.0.0.0 cdn.smartcanvas.net
+0.0.0.0 cdn.vidible.tv
+0.0.0.0 choices.truste.com
+0.0.0.0 clicksgear.com
+0.0.0.0 cloud.lokaplatform.com
+0.0.0.0 cs.gssprt.jp
+0.0.0.0 d.href.asia
+0.0.0.0 d.one.impact-ad.jp
+0.0.0.0 d.socdm.com
+0.0.0.0 dsp.advg.jp
+0.0.0.0 e.one.impact-ad.jp
+0.0.0.0 e.socdm.com
+0.0.0.0 f.one.impact-ad.jp
+0.0.0.0 f.socdm.com
+0.0.0.0 free-video-movie.com
+0.0.0.0 g.doubleclick.net
+0.0.0.0 g.one.impact-ad.jp
+0.0.0.0 g.socdm.com
+0.0.0.0 goto.media-serving.com
+0.0.0.0 h.one.impact-ad.jp
+0.0.0.0 h.socdm.com
+0.0.0.0 i.ad-v.jp
+0.0.0.0 i.one.impact-ad.jp
+0.0.0.0 i.socdm.com
+0.0.0.0 i2ad.jp
+0.0.0.0 image.ias.rakuten.co.jp
+0.0.0.0 img.ak.impact-ad.jp
+0.0.0.0 img01.mediad2.jp
+0.0.0.0 imp.asahi.com
+0.0.0.0 j.microad.net
+0.0.0.0 j.one.impact-ad.jp
+0.0.0.0 j.socdm.com
+0.0.0.0 jp-ads.mediaforge.com
+0.0.0.0 jp.at.atwola.com
+0.0.0.0 jp3ast-cdn.goldspotmedia.com
+0.0.0.0 js.ad-stir.com
+0.0.0.0 js.app-cm.co.jp
+0.0.0.0 js.gsspcln.jp
+0.0.0.0 k.one.impact-ad.jp
+0.0.0.0 k.smartcanvas.net
+0.0.0.0 kauli.socdm.com
+0.0.0.0 l.one.impact-ad.jp
+0.0.0.0 m.one.impact-ad.jp
+0.0.0.0 mediad2.jp
+0.0.0.0 n.one.impact-ad.jp
+0.0.0.0 o.one.impact-ad.jp
+0.0.0.0 o.yieldsquare.com
+0.0.0.0 openxjapan-d.openx.net
+0.0.0.0 otapict.com
+0.0.0.0 p.flite.com
+0.0.0.0 p.one.impact-ad.jp
+0.0.0.0 pics.dmm.com
+0.0.0.0 pix.hk.as.criteo.net
+0.0.0.0 player.sbs.co.kr
+0.0.0.0 productsearch.ubuntu.com
+0.0.0.0 proparm.jp
+0.0.0.0 q.flite.com
+0.0.0.0 q.one.impact-ad.jp
+0.0.0.0 r.flite.com
+0.0.0.0 r.one.impact-ad.jp
+0.0.0.0 rs.adapf.com
+0.0.0.0 s.f1.impact-ad.jp
+0.0.0.0 s.one.impact-ad.jp
+0.0.0.0 s.yimg.com
+0.0.0.0 s2.2mdn.net
+0.0.0.0 s3.2mdn.net
+0.0.0.0 s4.2mdn.net
+0.0.0.0 s5.2mdn.net
+0.0.0.0 s6.2mdn.net
+0.0.0.0 s7.2mdn.net
+0.0.0.0 s8.2mdn.net
+0.0.0.0 s9.2mdn.net
+0.0.0.0 smartcanvas.net
+0.0.0.0 spad.i-mobile.co.jp
+0.0.0.0 spdeliver.i-mobile.co.jp
+0.0.0.0 spnet5.i-mobile.co.jp
+0.0.0.0 ssp.send.microad.jp
+0.0.0.0 stab.thench.net
+0.0.0.0 stat.vidcore.tv
+0.0.0.0 static.affiliate.rakuten.co.jp
+0.0.0.0 static.jp.as.criteo.net
+0.0.0.0 sync.ad-stir.com
+0.0.0.0 sync.fout.jp
+0.0.0.0 sync.shinobi.jp
+0.0.0.0 t.one.impact-ad.jp
+0.0.0.0 tg.socdm.com
+0.0.0.0 tokfb.adsrvr.org
+0.0.0.0 trandsey.info
+0.0.0.0 u.one.impact-ad.jp
+0.0.0.0 v.one.impact-ad.jp
+0.0.0.0 vsc.send.microad.jp
+0.0.0.0 w.one.impact-ad.jp
+0.0.0.0 x.one.impact-ad.jp
+0.0.0.0 xml.affiliate.rakuten.co.jp
+0.0.0.0 y.one.impact-ad.jp
+0.0.0.0 yads.yahoo.co.jp
+0.0.0.0 z.one.impact-ad.jp
