@@ -2,7 +2,7 @@
 # with a dash of crowd sourcing via Github
 #
 # Date: March 13 2017
-# Number of unique domains: 89,004
+# Number of unique domains: 89,003
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -77902,7 +77902,6 @@ fe80::1%lo0 localhost
 0.0.0.0 s.wap.io
 0.0.0.0 s.wnd.com
 0.0.0.0 s.xvideos.com
-0.0.0.0 s.yimg.jp
 0.0.0.0 s.yjtag.jp
 0.0.0.0 s.zeroredirect1.com
 0.0.0.0 s.zeroredirect2.com
