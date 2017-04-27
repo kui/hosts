@@ -1,9 +1,9 @@
 # hosts2ch - Japanese ad servers only
 # This file is public domain, Of course
 # File size: 30KB
-# Entries: 1145
+# Entries: 1149
 # 
-# ---------- Updated: 2017-03-08 ----------    
+# ---------- Updated: 2017-04-19 ----------    
 
 
 127.0.0.1 100234.advision-adnw.jp
@@ -115,6 +115,7 @@
 127.0.0.1 ad.netowl.jp
 127.0.0.1 ad.pitta.ne.jp
 127.0.0.1 ad.plus-a.net
+127.0.0.1 ad.polymorphicads.jp
 127.0.0.1 ad.pr.ameba.jp
 127.0.0.1 ad.primead.jp
 127.0.0.1 ad.response.jp
@@ -188,6 +189,7 @@
 127.0.0.1 ads.cdn.rovio.com
 127.0.0.1 ads.doko.jp
 127.0.0.1 ads.exoclick.com
+127.0.0.1 ads.exosrv.com
 127.0.0.1 ads.mdotm.com
 127.0.0.1 ads.mixi.jp
 127.0.0.1 ads.mopub.com
@@ -209,7 +211,6 @@
 127.0.0.1 adsp.jp
 127.0.0.1 adsp1.i2i.jp
 127.0.0.1 adspaces.ero-advertising.com
-127.0.0.1 adtdp.com
 127.0.0.1 adticker.net
 127.0.0.1 adtracker.inmobi.com
 127.0.0.1 adtracker.jp
@@ -426,6 +427,7 @@
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.taboolasyndication.com
 127.0.0.1 cdn.teads.tv
+127.0.0.1 cdn.trafficstars.com
 127.0.0.1 cdn.vntg.jp
 127.0.0.1 cdn.vt.open8.com
 127.0.0.1 cdn.x-lift.jp
@@ -700,6 +702,7 @@
 127.0.0.1 livead.jp
 127.0.0.1 livedoor-plus.com
 127.0.0.1 loading-delivery2.com
+127.0.0.1 lodeo-adnw.adtdp.com
 127.0.0.1 lois.nend.net
 127.0.0.1 lona.nend.net
 127.0.0.1 loopme.me
@@ -987,6 +990,7 @@
 127.0.0.1 static.brandscreen.biz
 127.0.0.1 static.criteo.net
 127.0.0.1 static.doubleclick.net
+127.0.0.1 static.share-videos.se
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 statsp.fpop.net
 127.0.0.1 stimg.iand2ch.net
