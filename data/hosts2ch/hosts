@@ -1,9 +1,9 @@
 # hosts2ch - Japanese ad servers only
 # This file is public domain, Of course
-# File size: 30KB
-# Entries: 1149
+# File size: 31KB
+# Entries: 1159
 # 
-# ---------- Updated: 2017-04-19 ----------    
+# ---------- Updated: 2017-06-23 ----------    
 
 
 127.0.0.1 100234.advision-adnw.jp
@@ -15,6 +15,7 @@
 127.0.0.1 150601.fc2rs.com
 127.0.0.1 1tmg.info
 127.0.0.1 2.chmato.me
+127.0.0.1 29730396.ranking.fc2.com
 127.0.0.1 2cmtm.vis1.shinobi.jp
 127.0.0.1 2mdn.info
 127.0.0.1 4.mcnt.jp
@@ -195,6 +196,7 @@
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.mp.mydas.mobi
 127.0.0.1 ads.mreco0.jp
+127.0.0.1 ads.nicovideo.jp
 127.0.0.1 ads.nikkeibp.co.jp
 127.0.0.1 ads.ressp.net
 127.0.0.1 ads.rubiconproject.com
@@ -440,6 +442,7 @@
 127.0.0.1 ck.jp.ap.valuecommerce.com
 127.0.0.1 ck.storematch.jp
 127.0.0.1 cleaningmovies.analytics.qlook.net
+127.0.0.1 click-plus.genieesspv.jp
 127.0.0.1 click.adv.livedoor.com
 127.0.0.1 click.affiliate.ameba.jp
 127.0.0.1 click.atdmt.com
@@ -460,6 +463,7 @@
 127.0.0.1 clk.atdmt.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cnt.fout.jp
+127.0.0.1 coincheck.com
 127.0.0.1 conf.smartnews-ads.com
 127.0.0.1 connect.newzia.jp
 127.0.0.1 contents.7gogo.jp
@@ -665,9 +669,11 @@
 127.0.0.1 js.ad-stir.com
 127.0.0.1 js.adcrops.net
 127.0.0.1 js.adflare.bz
+127.0.0.1 js.adflare.jp
 127.0.0.1 js.adjust-sp.jp
 127.0.0.1 js.astrsk.net
 127.0.0.1 js.blueblade.co.jp
+127.0.0.1 js.colo2.jp
 127.0.0.1 js.fout.jp
 127.0.0.1 js.kau.li
 127.0.0.1 js.medi-8.net
@@ -684,6 +690,7 @@
 127.0.0.1 js.sprout-ad.com
 127.0.0.1 js.tapone.jp
 127.0.0.1 js.toki-aiad.com
+127.0.0.1 js.unitedblades.jp
 127.0.0.1 js.w.inmobi.com
 127.0.0.1 js1.nend.net
 127.0.0.1 js1.ziyu.net
@@ -934,6 +941,7 @@
 127.0.0.1 smartads.mobile.yahoo.co.jp
 127.0.0.1 sn001.trax-ad.jp
 127.0.0.1 sn002.trax-ad.jp
+127.0.0.1 social-runner.net
 127.0.0.1 solty.biz
 127.0.0.1 soma.smaato.net
 127.0.0.1 someapp.me
@@ -1014,6 +1022,7 @@
 127.0.0.1 t.felmat.net
 127.0.0.1 tanganrss.com
 127.0.0.1 taponejs-184e.kxcdn.com
+127.0.0.1 taxel.jp
 127.0.0.1 text.j-a-net.jp
 127.0.0.1 tg.socdm.com
 127.0.0.1 ti.impact-ad.jp
@@ -1126,6 +1135,7 @@
 127.0.0.1 www19.moba8.net
 127.0.0.1 www2.a-c-engine.com
 127.0.0.1 www2.liveads.jp
+127.0.0.1 www2.uliza.jp
 127.0.0.1 www20.a8.net
 127.0.0.1 www20.moba8.net
 127.0.0.1 www21.a8.net

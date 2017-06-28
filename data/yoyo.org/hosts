@@ -2,21 +2,20 @@
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Thu, 23 Mar 2017 10:38:17 GMT
-# entries:        2346
+# last updated:   Tue, 23 May 2017 01:50:44 GMT
+# entries:        2329
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Thu, 27 Apr 2017 00:00:00
+# start date:    Wed, 28 Jun 2017 00:00:00
 0.0.0.0 101com.com
 0.0.0.0 101order.com
 0.0.0.0 123found.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
-0.0.0.0 1x1rank.com
 0.0.0.0 207.net
 0.0.0.0 247media.com
 0.0.0.0 24log.com
@@ -62,7 +61,6 @@
 0.0.0.0 ad-balancer.at
 0.0.0.0 ad-balancer.net
 0.0.0.0 ad-center.com
-0.0.0.0 ad-images.suntimes.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-server.gulasidorna.se
@@ -150,7 +148,6 @@
 0.0.0.0 ad.twitchguru.com
 0.0.0.0 ad.usatoday.com
 0.0.0.0 ad.virtual-nights.com
-0.0.0.0 ad.watch.impress.co.jp
 0.0.0.0 ad.wavu.hu
 0.0.0.0 ad.way.cz
 0.0.0.0 ad.weatherbug.com
@@ -511,7 +508,6 @@
 0.0.0.0 ads.massinfra.nl
 0.0.0.0 ads.mcafee.com
 0.0.0.0 ads.mediaodyssey.com
-0.0.0.0 ads.mediaturf.net
 0.0.0.0 ads.medienhaus.de
 0.0.0.0 ads.mgnetwork.com
 0.0.0.0 ads.mmania.com
@@ -573,7 +569,6 @@
 0.0.0.0 ads.redtube.com
 0.0.0.0 ads.resoom.de
 0.0.0.0 ads.returnpath.net
-0.0.0.0 ads.rpgdot.com
 0.0.0.0 ads.s3.sitepoint.com
 0.0.0.0 ads.satyamonline.com
 0.0.0.0 ads.savannahnow.com
@@ -733,7 +728,6 @@
 0.0.0.0 adserver.portalofevil.com
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.portugalmail.pt
-0.0.0.0 adserver.realhomesex.net
 0.0.0.0 adserver.sanomawsoy.fi
 0.0.0.0 adserver.sciflicks.com
 0.0.0.0 adserver.sharewareonline.com
@@ -784,7 +778,6 @@
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstest.weather.com
 0.0.0.0 adsupply.com
-0.0.0.0 adswitcher.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
@@ -795,7 +788,6 @@
 0.0.0.0 adthis.com
 0.0.0.0 adtiger.de
 0.0.0.0 adtoll.com
-0.0.0.0 adtology.com
 0.0.0.0 adtoma.com
 0.0.0.0 adtrace.org
 0.0.0.0 adtrade.net
@@ -826,6 +818,7 @@
 0.0.0.0 advertising.guildlaunch.net
 0.0.0.0 advertisingbanners.com
 0.0.0.0 advertisingbox.com
+0.0.0.0 advertisingtag.net
 0.0.0.0 advertmarket.com
 0.0.0.0 advertmedia.de
 0.0.0.0 advertpro.sitepoint.com
@@ -907,7 +900,6 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 annonser.dagbladet.no
-0.0.0.0 apex-ad.com
 0.0.0.0 api.intensifier.de
 0.0.0.0 apture.com
 0.0.0.0 arc1.msn.com
@@ -1140,7 +1132,6 @@
 0.0.0.0 class-act-clicks.com
 0.0.0.0 click.absoluteagency.com
 0.0.0.0 click.fool.com
-0.0.0.0 click.kmindex.ru
 0.0.0.0 click2freemoney.com
 0.0.0.0 click2paid.com
 0.0.0.0 clickability.com
@@ -1165,7 +1156,6 @@
 0.0.0.0 clickserve.cc-dt.com
 0.0.0.0 clicksor.com
 0.0.0.0 clicktag.de
-0.0.0.0 clickthrucash.com
 0.0.0.0 clickthruserver.com
 0.0.0.0 clickthrutraffic.com
 0.0.0.0 clicktrace.info
@@ -1222,7 +1212,6 @@
 0.0.0.0 counter.sparklit.com
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.honesty.com
-0.0.0.0 counting.kmindex.ru
 0.0.0.0 counts.tucows.com
 0.0.0.0 coupling-media.de
 0.0.0.0 cpalead.com
@@ -1268,6 +1257,7 @@
 0.0.0.0 didtheyreadit.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 directaclick.com
+0.0.0.0 directivepub.com
 0.0.0.0 directleads.com
 0.0.0.0 directorym.com
 0.0.0.0 directtrack.com
@@ -1398,7 +1388,6 @@
 0.0.0.0 funpageexchange.com
 0.0.0.0 fusionads.net
 0.0.0.0 fusionquest.com
-0.0.0.0 fxclix.com
 0.0.0.0 fxstyle.net
 0.0.0.0 galaxien.com
 0.0.0.0 game-advertising-online.com
@@ -1492,7 +1481,6 @@
 0.0.0.0 icptrack.com
 0.0.0.0 idcounter.com
 0.0.0.0 identads.com
-0.0.0.0 idot.cz
 0.0.0.0 idregie.com
 0.0.0.0 idtargeting.com
 0.0.0.0 ientrymail.com
@@ -1558,6 +1546,7 @@
 0.0.0.0 kindads.com
 0.0.0.0 kissmetrics.com
 0.0.0.0 kliks.nl
+0.0.0.0 kniverto.com
 0.0.0.0 komoona.com
 0.0.0.0 kompasads.com
 0.0.0.0 kontera.com
@@ -1717,7 +1706,6 @@
 0.0.0.0 netincap.com
 0.0.0.0 netpool.netbookia.net
 0.0.0.0 netshelter.net
-0.0.0.0 network.business.com
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 newads.bangbros.com
 0.0.0.0 newbie.com
@@ -1785,11 +1773,10 @@
 0.0.0.0 pagefair.com
 0.0.0.0 pagerank-ranking.de
 0.0.0.0 pagerank-submitter.de
-0.0.0.0 pagerank-suchmaschine.de
 0.0.0.0 pagerank-united.de
 0.0.0.0 pagerank4you.com
 0.0.0.0 pageranktop.com
-0.0.0.0 parse.ly
+0.0.0.0 parse.ly.invalid
 0.0.0.0 parsely.com
 0.0.0.0 partage-facile.com
 0.0.0.0 partner-ads.com
@@ -1968,6 +1955,7 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s2d6.com
 0.0.0.0 sageanalyst.net
+0.0.0.0 sail-horizon.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungads.com
 0.0.0.0 sbx.pagesjaunes.fr
@@ -2047,8 +2035,6 @@
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.pl
-0.0.0.0 stat.su
-0.0.0.0 stat.tudou.com
 0.0.0.0 stat.webmedia.pl
 0.0.0.0 stat.zenon.net
 0.0.0.0 stat24.com
@@ -2067,7 +2053,6 @@
 0.0.0.0 stats.multiup.org
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.suite101.com
-0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.unwired-i.net
 0.0.0.0 stats.wordpress.com
@@ -2144,7 +2129,6 @@
 0.0.0.0 top20free.com
 0.0.0.0 top90.ro
 0.0.0.0 topbarh.box.sk
-0.0.0.0 topblogarea.se
 0.0.0.0 topbucks.com
 0.0.0.0 topforall.com
 0.0.0.0 topgamesites.net
@@ -2290,7 +2274,6 @@
 0.0.0.0 whenu.com
 0.0.0.0 whispa.com
 0.0.0.0 whoisonline.net
-0.0.0.0 wholesaletraffic.info
 0.0.0.0 widespace.com
 0.0.0.0 widgetbucks.com
 0.0.0.0 wikia-ads.wikia.com
